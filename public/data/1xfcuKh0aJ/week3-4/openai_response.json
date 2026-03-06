@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Fresh Strawberries",
+            "good_choice_reason1": "provide a high amount of vitamin C and fiber while being low in calories",
+            "good_choice_item2": "Fresh Broccoli Crowns",
+            "good_choice_reason2": "are rich in vitamins K and C, while being a great source of fiber and containing lots of antioxidants",
+            "good_choice_item3": "Vital Farms Pasture Raised Grade A Large Brown Eggs",
+            "good_choice_reason3": "are an excellent source of high-quality protein and nutrients essential for brain health"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Jet-Puffed S'more Vanilla Marshmallows which didn\u2019t contribute to your goal of reducing added sugar because marshmallows are high in added sugars and have little nutritional value.",
+                    "feedback_items": "Jet-Puffed S'more Vanilla Marshmallows"
+                },
+                {
+                    "feedback_text": "Great work! You made great progress with increasing vegetable intake. This was due to your purchases of Fresh Broccoli Crowns because they are a rich source of essential nutrients and fiber, contributing positively to your vegetable intake.",
+                    "feedback_items": "Fresh Broccoli Crowns"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Armour Italian Style Pepperoni which didn\u2019t contribute to your goal of reducing sodium because pepperoni is high in sodium which can lead to high blood pressure.",
+                    "feedback_items": "Armour Italian Style Pepperoni"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "58.52 / 100",
+            "fruits_score": "10",
+            "fruits_score_label": "Great",
+            "fruits_explanation": "You included Great Value Lemon Juice, which contributed to a perfect score in the fruit category. Fruits are essential for providing vitamins, minerals, and fiber. Keep it up!",
+            "vegetables_score": "10",
+            "vegetables_score_label": "Great",
+            "vegetables_explanation": "You had a great score due to Fresh Cucumber and Fresh Mini Cucumbers. Vegetables are high in essential vitamins and minerals and low in calories, supporting overall health. Keep it up!",
+            "grains_score": "2.6",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "You had a lower score in whole grains due to limited inclusion, with only Great Value Honey Wheat Bread contributing. Whole grains provide fiber and essential nutrients. Try including more whole grains like brown rice or whole wheat pasta next time.",
+            "dairy_score": "2.27",
+            "dairy_score_label": "Needs Improvement",
+            "dairy_explanation": "You had a low score because of the limited variety of dairy products, relying primarily on Great Value Whole Vitamin D Milk. Dairy is important for bone health due to its high calcium content. Consider including yogurt or cheese in your purchases.",
+            "protein_score": "9.12",
+            "protein_score_label": "Great",
+            "protein_explanation": "Vital Farms Pasture Raised Grade A Large Brown Eggs contributed significantly to a high protein score. Protein foods provide essential amino acids and support body function. Keep up the great selections!",
+            "fattyacids_score": "0",
+            "fattyacids_score_label": "Needs Improvement",
+            "fattyacids_explanation": "You had a low score this week and didn\u2019t purchase foods high in omega-3 fatty acids. Fatty acids, especially omega-3s, improve heart health by reducing cardiovascular disease risk. Try getting more salmon or chia seeds next week."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "10",
+            "refinedgrains_score_label": "Great",
+            "refinedgrains_explanation": "You had a high amount of refined grains in your basket this week such as Pillsbury Grands! Flaky Layers Butter Tastin' Biscuit Dough. Refined grains are lower in fiber and nutrients, causing blood sugar spikes. Replace them with whole grains like brown rice or quinoa next week for better nutritional benefits.",
+            "sodium_score": "4.54",
+            "sodium_score_label": "Moderate",
+            "sodium_explanation": "Your sodium score is at a moderate level due to the purchase of Armour Italian Style Pepperoni. High sodium intake can lead to high blood pressure and heart disease risk. Aim to choose low-sodium options or reduce the frequency of high-sodium foods.",
+            "addedsugars_score": "10",
+            "addedsugars_score_label": "Great",
+            "addedsugars_explanation": "Despite your goal to reduce added sugar, Jet-Puffed S'more Vanilla Marshmallows were included, impacting your score. High added sugar intake can contribute to weight gain and dental problems. Try reducing consumption of high-sugar items for better health outcomes.",
+            "saturatedfats_score": "N/A",
+            "saturatedfats_score_label": "N/A",
+            "saturatedfats_explanation": "N/A"
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Jet-Puffed S'more Vanilla Marshmallows contributed to negative Added Sugar. Next week, try fresh fruits like apples or pears to satisfy sweet cravings with natural sugars.",
+            "food_to_substitute1": "Jet-Puffed S'more Vanilla Marshmallows",
+            "recommendation2": "Armour Italian Style Pepperoni contributed to negative Sodium. Next week, try low-sodium turkey breast slices for a heart-friendly protein choice.",
+            "food_to_substitute2": "Armour Italian Style Pepperoni",
+            "recommendation3": "Great Value Sweet Cream Salted Butter contributed to negative Saturated Fat. Next week, try avocado or olive oil spread as healthier alternatives rich in monounsaturated fats.",
+            "food_to_substitute3": "Great Value Sweet Cream Salted Butter"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Fresh Lemons",
+            "good_choice_reason1": "provide vitamin C and fiber while being low-calorie",
+            "good_choice_item2": "Great Value Frozen Peas & Carrots",
+            "good_choice_reason2": "are rich in vitamins A and C and offer dietary fiber",
+            "good_choice_item3": "Fresh Hass Avocados",
+            "good_choice_reason3": "offer healthy monounsaturated fats that support heart health"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Great work! You made great progress with your goal of increasing vegetable intake due to your purchase of Great Value Frozen Peas & Carrots because they boosted your vegetable score by providing a substantial serving of nutrients.",
+                    "feedback_items": "Great Value Frozen Peas & Carrots"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Pop-Tarts Frosted Chocolate Fudge Ice Cream Sandwiches, which didn\u2019t contribute to your goal of reducing added sugar because they contain a high level of added sugars.",
+                    "feedback_items": "Pop-Tarts Frosted Chocolate Fudge Ice Cream Sandwiches"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased John Morrell Diced Ham, which didn\u2019t contribute to your goal of reducing sodium because it is a processed meat that tends to be high in sodium.",
+                    "feedback_items": "John Morrell Diced Ham"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "61.16",
+            "fruits_score": "3.12",
+            "fruits_score_label": "Needs Improvement",
+            "fruits_explanation": "You didn't have enough whole fruits in your basket, but the inclusion of Fresh Lemons contributed to your fruit category. Including more whole fruits such as apples or bananas is beneficial as they are rich in fiber and essential nutrients. Fruits are vital for providing vitamins, minerals, and fiber that promote overall health. Try getting more whole fruits next time!",
+            "vegetables_score": "7.63",
+            "vegetables_score_label": "Great",
+            "vegetables_explanation": "You had great vegetable choices due to Great Value Frozen Peas & Carrots and Avocado, raw. Vegetables are high in essential vitamins and minerals while being low in calories. They support overall health and help maintain proper body function. Keep it up!",
+            "grains_score": "2.51",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "You did not have many whole grains in your basket, with Mueller's Wide Egg Noodles being the primary contributor. Whole grains are important as they provide more fiber and nutrients compared to refined grains, helping with digestion and heart health. Aim to incorporate more whole grains like brown rice or whole wheat bread next week!",
+            "dairy_score": "5.73",
+            "dairy_score_label": "Moderate",
+            "dairy_explanation": "Your dairy category was moderately scored due to Great Value Whole Vitamin D Milk. Dairy products are great for bone health since they have calcium and vitamin D. Maintaining a moderate intake can help support bone density and overall health.",
+            "protein_score": "10",
+            "protein_score_label": "Great",
+            "protein_explanation": "You did an excellent job with your protein selections, especially with John Morrell Diced Ham and Imitation Crab Meat. Protein is crucial for muscle repair and growth and supports various bodily functions. Continue choosing a variety of protein sources like lean meats, seafood, and plant-based proteins!",
+            "fattyacids_score": "5.59",
+            "fattyacids_score_label": "Moderate",
+            "fattyacids_explanation": "Your fatty acids score was moderate with help from Fresh Hass Avocados. Healthy fatty acids help improve heart health and reduce inflammation. It's important to choose foods rich in omega-3s, such as fish and nuts, to improve this score."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "9.28",
+            "refinedgrains_score_label": "Great",
+            "refinedgrains_explanation": "You chose Bibigo Cooked Sticky White Rice, which contributed to your score for refined grains. Including refined grains can sometimes lack fiber and nutrients compared to whole grains. Keep including more whole grains like brown rice or whole-wheat bread for better nutritional benefits.",
+            "sodium_score": "4.79",
+            "sodium_score_label": "Needs Improvement",
+            "sodium_explanation": "You consumed items like John Morrell Diced Ham that contain high sodium. High sodium intake can raise blood pressure and increase the risk of heart disease. Try opting for low-sodium alternatives to enhance your health.",
+            "addedsugars_score": "9.2",
+            "addedsugars_score_label": "Needs Improvement",
+            "addedsugars_explanation": "Your choice of Pop-Tarts Frosted Chocolate Fudge Ice Cream Sandwiches added to your added sugar intake. High added sugar consumption can lead to weight gain and dental issues. Concentrate on reducing sugars by choosing naturally sweetened foods.",
+            "saturatedfats_score": "3.3",
+            "saturatedfats_score_label": "Needs Improvement",
+            "saturatedfats_explanation": "Your purchase of Great Value Finely Shredded Mild Cheddar Cheese impacted your saturated fat score. High saturated fat can lead to clogs in arteries and increase heart disease risk. Opt for lower-fat versions of dairy to improve this component."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Pop-Tarts Frosted Chocolate Fudge Ice Cream Sandwiches contributed to negative Added Sugars score. Next week try swapping these with naturally sweet snacks like fresh fruit or unsweetened fruit cups.",
+            "food_to_substitute1": "Pop-Tarts Frosted Chocolate Fudge Ice Cream Sandwiches",
+            "recommendation2": "John Morrell Diced Ham contributed to negative Sodium score. Next week try choosing low-sodium deli meats or lean, fresh meats.",
+            "food_to_substitute2": "John Morrell Diced Ham",
+            "recommendation3": "Refined grains choices, like Bibigo Cooked Sticky White Rice impacted Whole Grains score. Next week try integrating more whole grains like quinoa or brown rice.",
+            "food_to_substitute3": "Bibigo Cooked Sticky White Rice"
+        }
+    ]
+}
