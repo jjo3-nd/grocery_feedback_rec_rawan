@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Fresh Tomato on the Vine",
+            "good_choice_reason1": "contribute positively to your vegetable intake and overall health",
+            "good_choice_item2": "Fresh Mandarin Oranges",
+            "good_choice_reason2": "provide valuable nutrients, contributing positively to your fruit score",
+            "good_choice_item3": "Impossible Foods Ground Beef Meat from Plants",
+            "good_choice_reason3": "provide plant-based protein options and contribute to maintaining a healthy protein intake"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Foco Coconut Juice, which didn\u2019t contribute to your goal of reducing added sugar because it contains added sugars that could increase your total sugar intake.",
+                    "feedback_items": "Foco Coconut Juice"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Great Value Spaghetti Pasta, which didn\u2019t contribute to your goal of reducing sodium because it's high in sodium, which may hinder progress in reducing sodium intake.",
+                    "feedback_items": "Great Value Spaghetti Pasta"
+                },
+                {
+                    "feedback_text": "Great work! You made great progress with increasing vegetable intake. This was due to your purchases of Fresh Tomato on the Vine because they are high in nutrients and supported your goal of increasing vegetable consumption.",
+                    "feedback_items": "Fresh Tomato on the Vine"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "65.93",
+            "fruits_score": "8.24",
+            "fruits_score_label": "Great",
+            "fruits_explanation": "Your score was boosted by including Fresh Mandarin Oranges in your basket, adding beneficial vitamins and fiber. Fruits are crucial for getting vitamins, minerals, and fiber, which support overall health. Keep adding fruits to your diet!",
+            "vegetables_score": "5",
+            "vegetables_score_label": "Needs Improvement",
+            "vegetables_explanation": "While you added Fresh Tomato on the Vine, there was a lack of dark green vegetables and beans in your cart, which are essential for a balanced vegetable intake. Vegetables provide vitamins, minerals, and fiber and help maintain good health. Consider including dark green and bean vegetables next time to boost your score.",
+            "grains_score": "0.69",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "The inclusion of Great Value Instant Whole Grain Quick Rolled Oats Cup was beneficial, though there were few whole grains in your basket overall. Whole grains can help with digestion and provide long-lasting energy. Try incorporating more whole grain options like whole wheat bread or brown rice next time.",
+            "dairy_score": "4.6",
+            "dairy_score_label": "Moderate",
+            "dairy_explanation": "Your purchase of Oikos Pro 20g Protein, Nonfat Mixed Berry Yogurt-Cultured Dairy Product helped, yet there was room for more dairy options that are rich in calcium and vitamin D. Dairy items support bone health and provide calcium. Aim for a variety of dairy or alternatives enriched with calcium and vitamin D to improve your score.",
+            "protein_score": "10",
+            "protein_score_label": "Great",
+            "protein_explanation": "You excelled in this category by including products like Impossible Foods Ground Beef Meat from Plants, which are great sources of protein while supporting a diverse protein intake. Proteins are vital for muscle repair and growth, so keep up the diverse protein choices!",
+            "fattyacids_score": "10",
+            "fattyacids_score_label": "Great",
+            "fattyacids_explanation": "The inclusion of products like Smucker\u2019s Natural Creamy Peanut Butter provided a good source of healthy fats. Consuming fatty acids, especially omega-3s, is excellent for heart health. Maintain your healthy habit of choosing food rich in omega-3s."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "5.92",
+            "refinedgrains_score_label": "Moderate",
+            "refinedgrains_explanation": "You had items like Thomas' Everything Bagels, which contributed to the moderate score. Refined grains have less fiber and nutrients compared to whole grains, so try replacing them with whole grain products.",
+            "sodium_score": "2.54",
+            "sodium_score_label": "Needs Improvement",
+            "sodium_explanation": "Your score was low partly due to purchases like Great Value Spaghetti Pasta, which are higher in sodium. High sodium intake can increase blood pressure, so try to select lower sodium options.",
+            "addedsugars_score": "8.93",
+            "addedsugars_score_label": "Great",
+            "addedsugars_explanation": "Despite some choices like Foco Coconut Juice, you kept added sugars low, which helps in maintaining overall health and reducing excess calorie intake from sugars. Keep up the good work by choosing low-sugar options!",
+            "saturatedfats_score": "10",
+            "saturatedfats_score_label": "Great",
+            "saturatedfats_explanation": "Products like Great Value Large Brown Eggs helped keep your saturated fats balanced, contributing positively to heart health. Great balance in saturated fat intake supports maintaining healthy blood cholesterol levels."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Foco Coconut Juice contributed to negative added sugars. Next week try products like plain sparkling water with a splash of citrus to enjoy a refreshing drink without added sugars.",
+            "food_to_substitute1": "Foco Coconut Juice",
+            "recommendation2": "Thomas' Everything Bagels contributed to negative refined grains. Next week try whole grain bread or bagels to gain the benefits of added fiber and nutrients.",
+            "food_to_substitute2": "Thomas' Everything Bagels",
+            "recommendation3": "Great Value Spaghetti Pasta contributed to negative sodium. Next week try reduced-sodium pasta sauces or making your own to better control sodium content.",
+            "food_to_substitute3": "Great Value Spaghetti Pasta"
+        }
+    ]
+}

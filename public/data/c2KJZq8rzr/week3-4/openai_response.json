@@ -1,0 +1,76 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Fresh Cilantro",
+            "good_choice_reason1": "provide antioxidants and increase your vegetable consumption",
+            "good_choice_item2": "Fresh Hass Avocados",
+            "good_choice_reason2": "provide healthy fats that benefit heart health and may help maintain healthy cholesterol levels",
+            "good_choice_item3": "StarKist Chunk White Albacore Tuna in Water",
+            "good_choice_reason3": "provide high protein and rich in omega-3 fatty acids, contributing to better heart and brain health"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Great work! You made great progress with increasing vegetable intake. This was due to your purchases of Fresh Cilantro because it is nutrient-dense and offers a variety of essential vitamins and minerals.",
+                    "feedback_items": "Fresh Cilantro"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Turkey Hill Chocolate Marshmallow Premium Ice Cream, which didn\u2019t contribute to your goal of reducing added sugar because it contains high amounts of added sugars that might lead to weight gain and tooth decay if consumed in excess.",
+                    "feedback_items": "Turkey Hill Chocolate Marshmallow Premium Ice Cream"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "53.96 / 100",
+            "fruits_score": "1.63/10",
+            "fruits_score_label": "Needs Improvement",
+            "fruits_explanation": "You did not have enough whole fruits, which contributed to a low score. However, the inclusion of Fresh Bluey Kiwi Fruit added to your fruit intake. Including whole fruits instead of primarily juices is beneficial because whole fruits contain more fiber and nutrients. Fruits are essential for providing vitamins, minerals, and fiber. Try getting more whole fruits next time!",
+            "vegetables_score": "8.4/10",
+            "vegetables_score_label": "Great",
+            "vegetables_explanation": "You had a great score due to Fresh Cilantro and Fresh Whole Carrots. Vegetables are great to include in your diet as they are high in essential vitamins and minerals and low in calories, supporting overall health. Keep it up!",
+            "grains_score": "0.6/10",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "Your whole grain consumption was low, with the inclusion of Sunbeam White with Whole Grain Bread Loaf being minimal. Including more whole grains can improve blood cholesterol levels and may decrease the risk of heart disease, type 2 diabetes, and obesity. Consider increasing your whole grain choices.",
+            "dairy_score": "5.87/10",
+            "dairy_score_label": "Moderate",
+            "dairy_explanation": "Your score was moderate due to Great Value, 2% Reduced Fat Milk. Consuming dairy provides calcium, which is crucial for bone health. Aim for a variety of dairy products to increase this score.",
+            "protein_score": "10/10",
+            "protein_score_label": "Great",
+            "protein_explanation": "Your protein score was perfect with the inclusion of StarKist Chunk White Albacore Tuna in Water, which is high in protein and low in unhealthy fats. Protein foods are important for building and maintaining muscle and overall health. Awesome work!",
+            "fattyacids_score": "3.43/10",
+            "fattyacids_score_label": "Needs Improvement",
+            "fattyacids_explanation": "You had a low score this week due to low fatty acid content mainly from Taylor Farms Veggies & Dip Snack Pack. Fatty acids, especially omega-3s, have been shown to improve heart health by reducing the risk of cardiovascular diseases. Try getting more fatty fish next week."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "10/10",
+            "refinedgrains_score_label": "Great",
+            "refinedgrains_explanation": "You had minimal refined grains and opted more for whole grains. This is beneficial as refined grains are often lower in fiber and other important nutrients. Great job!",
+            "sodium_score": "4.02/10",
+            "sodium_score_label": "Needs Improvement",
+            "sodium_explanation": "Your sodium consumption was moderately high. Choosing lower sodium foods can help reduce your blood pressure. Consider reducing foods like Milo's 100% Natural Famous Unsweet Iced Tea to improve this score.",
+            "addedsugars_score": "10/10",
+            "addedsugars_score_label": "Moderate",
+            "addedsugars_explanation": "You have made positive choices with minimal added sugars, including items like Turkey Hill Chocolate Marshmallow Premium Ice Cream in moderation. However, high added sugar intake can contribute to weight gain and dental problems. Keep limiting these.",
+            "saturatedfats_score": "0/10",
+            "saturatedfats_score_label": "Needs Improvement",
+            "saturatedfats_explanation": "Your saturated fat is high, mostly due to Marie Callender's Grilled Chicken Alfredo Bake Bowl. High saturated fat intake can increase the risk of heart disease. Choose lower-fat options to improve this score."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Try Yoplait Original Strawberry Yogurt as a healthier, low-sugar alternative.",
+            "food_to_substitute1": "Turkey Hill Chocolate Marshmallow Premium Ice Cream",
+            "recommendation2": "Try Healthy Choice Caf\u00e9 Steamer Chicken Marinara to maintain your creamy texture without the high fats.",
+            "food_to_substitute2": "Marie Callender's Grilled Chicken Alfredo Bake Bowl",
+            "recommendation3": "Try Lipton Unsweetened Green Tea to cut down on sodium.",
+            "food_to_substitute3": "Milo's 100% Natural Famous Unsweet Iced Tea"
+        }
+    ]
+}

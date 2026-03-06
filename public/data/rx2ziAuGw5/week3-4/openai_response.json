@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Noosa Yoghurt",
+            "good_choice_reason1": "contribute to a high dairy score, providing essential nutrients for bone health and calcium.",
+            "good_choice_item2": "Perfect Bar Gluten-Free Dark Chocolate Chip Peanut Butter Protein Bar",
+            "good_choice_reason2": "contribute to your total protein intake, which is important for muscle building and repair.",
+            "good_choice_item3": "Panera Bread Ready-to-Heat Chicken Noodle Soup",
+            "good_choice_reason3": "contribute to sodium, aligning with your goals of monitoring sodium intake carefully."
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake.",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Ben & Jerry's Strawberry Cheesecake Ice Cream, which didn\u2019t contribute to your goal of reducing added sugar because it contains a high amount of added sugars.",
+                    "feedback_items": "Ben & Jerry's Strawberry Cheesecake Ice Cream"
+                },
+                {
+                    "feedback_text": "Great work! You made great progress with reducing sodium. This was due to your purchase of Panera Bread Ready-to-Heat Chicken Noodle Soup, as it helped you monitor and manage your sodium intake carefully.",
+                    "feedback_items": "Panera Bread Ready-to-Heat Chicken Noodle Soup"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Farm Rich Breaded Mushrooms, which didn\u2019t contribute significantly to your goal of increasing vegetable intake due to its limited portion of vegetables in the product.",
+                    "feedback_items": "Farm Rich Breaded Mushrooms"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "44.34 / 100",
+            "fruits_score": "1.28/10",
+            "fruits_score_label": "Needs Improvement",
+            "fruits_explanation": "The inclusion of Yoplait Original Low Fat Cherry Orchard Yogurt Cup added to your fruit score, but more whole fruits could increase the score. Consuming more whole fruits can provide more fiber and essential nutrients. Consider focusing more on whole fruit options.",
+            "vegetables_score": "2.71/10",
+            "vegetables_score_label": "Needs Improvement",
+            "vegetables_explanation": "You ordered Farm Rich Breaded Mushrooms, which provided some contribution. However, increasing a variety of vegetables, especially dark green and beans, supports essential nutrients. Adding more vegetables will support overall health.",
+            "grains_score": "0/10",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "There were no whole grain sources in your basket. Whole grains provide essential fiber and can help maintain healthy digestion and weight. Including whole grains like brown rice or whole-wheat pasta can improve the score.",
+            "dairy_score": "10/10",
+            "dairy_score_label": "Great",
+            "dairy_explanation": "Choices like Noosa Yoghurt, Whole Milk Yogurt, Vanilla Bean contributed to a perfect score, supporting your intake of calcium and vitamin D for bone health. Keep up the good work!",
+            "protein_score": "7.95/10",
+            "protein_score_label": "Great",
+            "protein_explanation": "The inclusion of Perfect Bar Gluten-Free Dark Chocolate Chip Peanut Butter Protein Bar aided your protein intake. Protein is vital for muscle maintenance and overall health. Continue including diverse protein sources.",
+            "fattyacids_score": "0/10",
+            "fattyacids_score_label": "Needs Improvement",
+            "fattyacids_explanation": "You had a low score this week due to TGI Fridays Frozen Appetizers Cream Cheese Stuffed Jalapeno Poppers. Fatty acids, especially omega-3s, have been shown to improve heart health by reducing the risk of cardiovascular diseases."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "9.33/10",
+            "refinedgrains_score_label": "Great",
+            "refinedgrains_explanation": "You had an appropriate number of refined grains from products like Lewis Bake Shop Sourdough Half Loaf Bread. Limiting refined grains is beneficial for minimizing quick spikes in blood sugar levels.",
+            "sodium_score": "8.84/10",
+            "sodium_score_label": "Great",
+            "sodium_explanation": "The Panera Bread Ready-to-Heat Chicken Noodle Soup helped monitor sodium intake. Keeping track of sodium intake can prevent high blood pressure and related heart issues.",
+            "addedsugars_score": "4.24/10",
+            "addedsugars_score_label": "Moderate",
+            "addedsugars_explanation": "The presence of Ben & Jerry's Strawberry Cheesecake Ice Cream contributed significantly to your added sugar score. It's essential to manage added sugars to prevent health issues like weight gain and dental problems.",
+            "saturatedfats_score": "0/10",
+            "saturatedfats_score_label": "Needs Improvement",
+            "saturatedfats_explanation": "Items like TGI Fridays Frozen Appetizers Cream Cheese Stuffed Jalapeno Poppers contributed to high saturated fat levels. Reducing saturated fat intake helps maintain healthier cholesterol levels and reduces heart disease risk."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Ben & Jerry's Strawberry Cheesecake Ice Cream contributed to negative Added Sugars score. Next week try opting for fruits like sliced strawberries or apples to enhance sweetness naturally with fewer added sugars.",
+            "food_to_substitute1": "Ben & Jerry's Strawberry Cheesecake Ice Cream",
+            "recommendation2": "Farm Rich Breaded Mushrooms contributed to negative Vegetable score. Next week try adding more colorful veggies like spinach or bell peppers for better nutrient diversity.",
+            "food_to_substitute2": "Farm Rich Breaded Mushrooms",
+            "recommendation3": "TGI Fridays Frozen Appetizers Cream Cheese Stuffed Jalapeno Poppers contributed to negative Saturated Fats score. Next week try foods with healthier fats such as avocado or olive oil-based spreads, which are better for heart health.",
+            "food_to_substitute3": "TGI Fridays Frozen Appetizers Cream Cheese Stuffed Jalapeno Poppers"
+        }
+    ]
+}

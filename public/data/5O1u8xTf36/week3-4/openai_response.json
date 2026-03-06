@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Fresh Seedless Watermelon",
+            "good_choice_reason1": "contribute high amounts of whole fruits, which are rich in vitamins and essential nutrients.",
+            "good_choice_item2": "Great Value Lactose Free 2% Reduced Fat Milk",
+            "good_choice_reason2": "boost your dairy score, providing essential calcium and vitamin D for bone health.",
+            "good_choice_item3": "Fresh Mandarin Oranges",
+            "good_choice_reason3": "aid in achieving a high total fruit score, offering an excellent source of vitamin C and antioxidants."
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake",
+            "goal_feedback": [
+                {
+                    "feedback_text": "You made progress with your goal to reduce sodium thanks to the V&V Supremo Queso Fresco Authentic Mexican Style Cheese. Dairy products generally contain lower sodium than processed snacks and meals. Keep choosing low-sodium products!",
+                    "feedback_items": "V&V Supremo Queso Fresco Authentic Mexican Style Cheese"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals of reducing added sugar. You purchased Jell-O Original Orange Jello Cups, which included added sugars. Elevated sugar levels can contribute to weight gain and dental issues.",
+                    "feedback_items": "Jell-O Original Orange Jello Cups"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals of increasing vegetable intake. There were no vegetables in your basket, which is essential for fiber and nutrient intake.",
+                    "feedback_items": "none"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "43.52/100",
+            "fruits_score": "10/10",
+            "fruits_score_label": "Great",
+            "fruits_explanation": "Your basket included great items like Fresh Seedless Watermelon and Fresh Mandarin Oranges, boosting your fruit score. Fruits provide essential vitamins, minerals, and dietary fiber. Keep it up!",
+            "vegetables_score": "0/10",
+            "vegetables_score_label": "Needs Improvement",
+            "vegetables_explanation": "There were no vegetables in your selection. Including vegetables is vital as they are high in vitamins and minerals and low in calories, supporting overall health. Next time, aim to add some leafy greens or other veggies.",
+            "grains_score": "2.56/10",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "Items like Malt-O-Meal Cinnamon Toasters Cereal contributed a small amount of whole grains; however, most grains were refined. Whole grains are beneficial for digestive health and provide more nutrients than refined grains. Try including more whole-grain options.",
+            "dairy_score": "10/10",
+            "dairy_score_label": "Great",
+            "dairy_explanation": "The choice of Great Value Lactose Free 2% Reduced Fat Milk contributed greatly to your dairy score. Dairy provides calcium and vitamin D, which are important for bone health. Keep up the good work!",
+            "protein_score": "1.64/10",
+            "protein_score_label": "Needs Improvement",
+            "protein_explanation": "Great Value Large White Eggs provided some protein but lacked seafood and plant proteins. These are low in saturated fat and high in nutrients essential for health. Consider plant-based proteins next time.",
+            "fattyacids_score": "0/10",
+            "fattyacids_score_label": "Needs Improvement",
+            "fattyacids_explanation": "The selection was low in fatty acids from heart-healthy sources like nuts, seeds, and fish. Omega-3 fatty acids are crucial for cardiovascular health. Next week aim to include omega-3-rich foods."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "2.64/10",
+            "refinedgrains_score_label": "Needs Improvement",
+            "refinedgrains_explanation": "Items such as Lewis Bake Shop Texas Toast Half Loaf Bread increased refined grain intake. Refined grains are lower in fiber and nutrients. Next time, include more whole-grain options like brown rice or quinoa.",
+            "sodium_score": "10/10",
+            "sodium_score_label": "Great",
+            "sodium_explanation": "The selection maintained an ideal sodium level, likely due to choices like V&V Supremo Queso Fresco Authentic Mexican Style Cheese. Low sodium intake contributes to reducing blood pressure. Keep it up!",
+            "addedsugars_score": "6.68/10",
+            "addedsugars_score_label": "Moderate",
+            "addedsugars_explanation": "Jell-O Original Orange Jello Cups led to an intake of added sugars. High sugar consumption can lead to weight gain and dental problems. Aim for sweetness from whole fruits instead.",
+            "saturatedfats_score": "0/10",
+            "saturatedfats_score_label": "Needs Improvement",
+            "saturatedfats_explanation": "The choice of V&V Supremo Queso Fresco Authentic Mexican Style Cheese contributed to high saturated fat intake. High saturated fat can lead to heart disease. Opt for lean meats and plant-based fats next time."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Malt-O-Meal Cinnamon Toasters Cereal contributed to a negative whole grains score. Next week try cereals like a whole-grain cereal with low sugar for more fiber and nutrients.",
+            "food_to_substitute1": "Malt-O-Meal Cinnamon Toasters Cereal",
+            "recommendation2": "Jell-O Original Orange Jello Cups contributed to negative added sugar scores. Next week try substituting with Greek yogurt with fresh fruit which reduces sugar and increases protein.",
+            "food_to_substitute2": "Jell-O Original Orange Jello Cups",
+            "recommendation3": "V&V Supremo Queso Fresco Authentic Mexican Style Cheese contributed to a high saturated fat. Next week try plant-based cheese alternatives to reduce saturated fat intake.",
+            "food_to_substitute3": "V&V Supremo Queso Fresco Authentic Mexican Style Cheese"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Fresh Strawberries",
+            "good_choice_reason1": "contribute significantly to your fruit intake and provide excellent sources of vitamin C and fiber",
+            "good_choice_item2": "Marketside Skinless Atlantic Salmon Fillet",
+            "good_choice_reason2": "contain omega-3 fatty acids, which are beneficial for heart health",
+            "good_choice_item3": "Fresh Hass Avocados",
+            "good_choice_reason3": "are rich in healthy monounsaturated fats that support heart health and provide essential nutrients like potassium"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake.",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Great work! You made great progress with reducing added sugar. This was due to your purchases of Dole Fruit Bowls Diced Peaches in Strawberry Gel because consuming such options can help limit high sugar items in your diet.",
+                    "feedback_items": "Dole Fruit Bowls Diced Peaches in Strawberry Gel"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals on reducing sodium. You purchased Athenos Traditional Crumbled Feta Cheese which didn\u2019t contribute to your goal of reducing sodium because it is relatively high in sodium.",
+                    "feedback_items": "Athenos Traditional Crumbled Feta Cheese"
+                },
+                {
+                    "feedback_text": "Great work! You made great progress with increasing vegetable intake. This was due to your purchases of Fresh Sliced Baby Bella Mushrooms because these are nutritious and help you meet your vegetable intake goals.",
+                    "feedback_items": "Fresh Sliced Baby Bella Mushrooms"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "76.76 / 100",
+            "fruits_score": "10",
+            "fruits_score_label": "Great",
+            "fruits_explanation": "Your inclusion of Fresh Strawberries has positively impacted your fruit component score. Fruits provide essential nutrients such as vitamins, minerals, and fiber, which are vital for overall health.",
+            "vegetables_score": "7.92",
+            "vegetables_score_label": "Moderate",
+            "vegetables_explanation": "You had a good score due to Fresh Sliced Baby Bella Mushrooms. Vegetables are great to include in your diet as they are high in essential vitamins and minerals and low in calories, supporting overall health. Keep it up!",
+            "grains_score": "5.01",
+            "grains_score_label": "Moderate",
+            "grains_explanation": "Although you included Lewis Bake Shop 12 Grain Half Loaf Bread, enhancing your whole grain options could improve your score. Whole grains provide more fiber and nutrients compared to refined grains.",
+            "dairy_score": "3.63",
+            "dairy_score_label": "Moderate",
+            "dairy_explanation": "Great Value Milk Whole Vitamin D helps contribute to your dairy intake, but exploring a variety of dairy products can provide more balanced nutrition. Dairy is key for providing calcium and vitamin D essential for bone health.",
+            "protein_score": "10",
+            "protein_score_label": "Great",
+            "protein_explanation": "Marketside Skinless Atlantic Salmon Fillet supported your total protein intake excellently. Protein is crucial for tissue repair and muscle building. Keeping a variety of protein sources can continue to enrich your dietary intake.",
+            "fattyacids_score": "8.17",
+            "fattyacids_score_label": "Great",
+            "fattyacids_explanation": "Fresh Hass Avocados contributed significantly to the fatty acid score. Healthy fats reduce the risk of heart disease and are essential for brain health. Keep including healthy fat sources!"
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "10",
+            "refinedgrains_score_label": "Great",
+            "refinedgrains_explanation": "You chose minimal refined grains such as Snyder's of Hanover Sticks Pretzels. Replacing refined grains with whole grains helps in improving health benefits.",
+            "sodium_score": "4.46",
+            "sodium_score_label": "Moderate",
+            "sodium_explanation": "Athenos Traditional Crumbled Feta Cheese has high sodium content. High sodium intake is associated with high blood pressure and can contribute to heart disease.",
+            "addedsugars_score": "10",
+            "addedsugars_score_label": "Great",
+            "addedsugars_explanation": "You chose items with minimal added sugars such as Dole Fruit Bowls Diced Peaches in Strawberry Gel. This is beneficial as high added sugar intake can contribute to weight gain and dental problems.",
+            "saturatedfats_score": "7.57",
+            "saturatedfats_score_label": "Moderate",
+            "saturatedfats_explanation": "Athenos Traditional Crumbled Feta Cheese contributed to your saturated fat intake. Reducing saturated fat can help lower cholesterol levels and protect heart health."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Athenos Traditional Crumbled Feta Cheese contributed to negative sodium and saturated fat scores. Next week try reduced-fat cheese or unsalted cheese to strengthen score.",
+            "food_to_substitute1": "Athenos Traditional Crumbled Feta Cheese",
+            "recommendation2": "Dole Fruit Bowls Diced Peaches in Strawberry Gel contributed to negative added sugar scores in moderation. Next week try fresh peaches or other fresh fruits to strengthen your score.",
+            "food_to_substitute2": "Dole Fruit Bowls Diced Peaches in Strawberry Gel",
+            "recommendation3": "Lewis Bake Shop 12 Grain Half Loaf Bread contributed to only moderate whole grain scores. Next week try oatmeal or whole grain quinoa to further enhance whole grain intake.",
+            "food_to_substitute3": "Lewis Bake Shop 12 Grain Half Loaf Bread"
+        }
+    ]
+}

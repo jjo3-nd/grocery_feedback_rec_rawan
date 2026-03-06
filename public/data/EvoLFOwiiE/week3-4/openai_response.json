@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Fresh Navel Orange",
+            "good_choice_reason1": "provide a great source of whole fruits, contributing positively to your fruit intake.",
+            "good_choice_item2": "Ocean's Halo Seaweed Snack",
+            "good_choice_reason2": "contribute significantly to your vegetable intake, helping you reach your vegetable goals.",
+            "good_choice_item3": "Noosa Yoghurt, Whole Milk Yogurt, Velvety Smooth & Creamy, Raspberry",
+            "good_choice_reason3": "contribute to the dairy component, providing calcium and vitamin D."
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake.",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Great work! You made great progress with increasing vegetable intake. This was due to your purchases of Ocean's Halo Seaweed Snack because it contributed significantly to your vegetable component.",
+                    "feedback_items": "Ocean's Halo Seaweed Snack"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Simply Non GMO All Natural Lemonade Juice which didn\u2019t contribute to your goal of reducing added sugar because it is high in added sugars.",
+                    "feedback_items": "Simply Non GMO All Natural Lemonade Juice"
+                },
+                {
+                    "feedback_text": "Great work! You made progress with reducing sodium. This was due to your purchase of Quest Protein Chips, which is relatively low in sodium.",
+                    "feedback_items": "Quest Protein Chips"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "38.91 / 100",
+            "fruits_score": "7.28/10",
+            "fruits_score_label": "Great",
+            "fruits_explanation": "The inclusion of Fresh Navel Orange boosted your score for whole fruits, benefiting your overall fruit intake. Fruits are essential for providing vitamins, minerals, and fiber. Keep up the good work with whole fruits!",
+            "vegetables_score": "6.12/10",
+            "vegetables_score_label": "Moderate",
+            "vegetables_explanation": "Ocean's Halo Seaweed Snack contributed positively to your vegetable intake. Vegetables are high in essential vitamins and minerals and low in calories, supporting overall health. Try incorporating more greens and beans for a higher score!",
+            "grains_score": "0.09/10",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "The only grain source was the Fresh Cut Strawberry Parfait with Vanilla Yogurt and Granola, which didn\u2019t contribute much to whole grains. Whole grains provide essential nutrients such as fiber that are necessary for a healthy diet.",
+            "dairy_score": "1.88/10",
+            "dairy_score_label": "Needs Improvement",
+            "dairy_explanation": "Noosa Yoghurt, Whole Milk Yogurt helped with your dairy score, but try other dairy options for better results. Dairy is great for bone health due to its high calcium content.",
+            "protein_score": "3.30/10",
+            "protein_score_label": "Needs Improvement",
+            "protein_explanation": "Sabra Snackers Roasted Red Pepper Hummus with Pretzels contributed to your protein intake, but more seafood and plant proteins could enhance this score. Protein is important for tissue repair and muscle building.",
+            "fattyacids_score": "2.18/10",
+            "fattyacids_score_label": "Needs Improvement",
+            "fattyacids_explanation": "Your purchase of Taylor Farms Everything Bagel Chopped Salad Bowl was helpful, but there is room for more healthy fatty acids like omega-3. Fatty acids are crucial for heart health."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "5.42/10",
+            "refinedgrains_score_label": "Moderate",
+            "refinedgrains_explanation": "Consuming Quest Protein Chips contributed to a moderate amount of refined grains. Consider replacing with whole grains for better nutrition.",
+            "sodium_score": "10/10",
+            "sodium_score_label": "Great",
+            "sodium_explanation": "Your purchases showed a commendable choice in selecting low sodium products like Quest Protein Chips. Excess sodium can lead to high blood pressure, so keeping it low is beneficial. Keep it up!",
+            "addedsugars_score": "2.63/10",
+            "addedsugars_score_label": "Needs Improvement",
+            "addedsugars_explanation": "Your choice of Simply Non GMO All Natural Lemonade Juice contributed to a high amount of added sugars. High added sugar intake can lead to weight gain and dental problems. Aim for options with natural sweetness.",
+            "saturatedfats_score": "0/10",
+            "saturatedfats_score_label": "Needs Improvement",
+            "saturatedfats_explanation": "Great Value Hickory Smoked Lower Sodium Bacon led to a high saturated fat content. Saturated fats contribute to cholesterol buildup and should be minimized."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Simply Non GMO All Natural Lemonade Juice contributed to negative added sugars. Next week try Le Croix Sparkling Water to reduce sugar intake.",
+            "food_to_substitute1": "Simply Non GMO All Natural Lemonade Juice",
+            "recommendation2": "Fresh Cut Strawberry Parfait with Vanilla Yogurt and Granola contributed to negative whole grains. Next week try Bob's Red Mill Organic Whole Grain Oatmeal for more whole grains.",
+            "food_to_substitute2": "Fresh Cut Strawberry Parfait with Vanilla Yogurt and Granola",
+            "recommendation3": "Great Value Hickory Smoked Lower Sodium Bacon contributed to negative saturated fats. Next week try Applegate Organics Chicken & Apple Sausage for a leaner protein option.",
+            "food_to_substitute3": "Great Value Hickory Smoked Lower Sodium Bacon"
+        }
+    ]
+}

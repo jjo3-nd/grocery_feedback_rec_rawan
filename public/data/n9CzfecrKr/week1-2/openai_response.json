@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Blueberries",
+            "good_choice_reason1": "enrich your diet with vitamins, fiber, and antioxidants",
+            "good_choice_item2": "Pumpkin",
+            "good_choice_reason2": "provide high levels of vitamins A and C, and fiber",
+            "good_choice_item3": "Great Value, 2% Reduced Fat Milk",
+            "good_choice_reason3": "offer essential calcium, vitamin D, and protein"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Great work! You made great progress with increasing vegetable intake due to your purchase of Pumpkin which is rich in vitamins A and C.",
+                    "feedback_items": "Pumpkin"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Great Value Maraschino Cherries which didn\u2019t contribute to your goal of reducing added sugar because they contain high levels of added sugars.",
+                    "feedback_items": "Great Value Maraschino Cherries"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Campbell's Chunky Soup which didn\u2019t contribute to your goal of reducing sodium because it\u2019s high in sodium, affecting your overall intake.",
+                    "feedback_items": "Campbell's Chunky Soup"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "45.03/100",
+            "fruits_score": "4.04/10",
+            "fruits_score_label": "Moderate",
+            "fruits_explanation": "Blueberries added to your fruit intake, but a lack of whole fruits reduced the score. Including whole fruits is beneficial as they provide more fiber and nutrients. Try getting more whole fruits next time!",
+            "vegetables_score": "4.06/10",
+            "vegetables_score_label": "Moderate",
+            "vegetables_explanation": "You had an average score due to the inclusion of Pumpkin. Vegetables are great to include in your diet as they are high in essential vitamins and minerals and low in calories, supporting overall health. Keep it up!",
+            "grains_score": "1.75/10",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "The score reflects limited whole grains from items like Skinnypop Gluten Free Original Popcorn but low overall intake. Whole grains are essential for a healthy gut and providing energy. Including more whole grains can improve your diet and provide more fiber.",
+            "dairy_score": "5.87/10",
+            "dairy_score_label": "Moderate",
+            "dairy_explanation": "Great Value, 2% Reduced Fat Milk helped contribute towards dairy goals, offering calcium and vitamin D. Dairy provides essential nutrients for bone health. Keep up including dairy products rich in calcium!",
+            "protein_score": "3.22/10",
+            "protein_score_label": "Needs Improvement",
+            "protein_explanation": "Carl Buddig Chicken Lunchmeat contributed towards total protein. Including a variety of protein sources can enhance nutrition.",
+            "fattyacids_score": "0.14/10",
+            "fattyacids_score_label": "Needs Improvement",
+            "fattyacids_explanation": "You had a low score this week due to lack of Omega-3 foods. Fatty acids improve heart health and reduce the risk of cardiovascular diseases. Try getting more Omega-rich foods like fish next week."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "9.77/10",
+            "refinedgrains_score_label": "Great",
+            "refinedgrains_explanation": "You had items with moderate refined grain content like Sunbeam Giant White Bread Loaf. It's good to moderate refined grain intake, which can be part of a balanced diet when consumed in moderation.",
+            "sodium_score": "7.34/10",
+            "sodium_score_label": "Moderate",
+            "sodium_explanation": "The purchase of Campbell's Chunky Soup led to a higher intake of sodium. Lowering sodium can reduce blood pressure and the risk of cardiovascular diseases. Continue to aim for low-sodium foods.",
+            "addedsugars_score": "7.36/10",
+            "addedsugars_score_label": "Moderate",
+            "addedsugars_explanation": "You chose items with moderate levels of added sugars, but Great Value Maraschino Cherries contributed to added sugars. Low added sugar intake is beneficial to avoid weight gain and dental problems.",
+            "saturatedfats_score": "0/10",
+            "saturatedfats_score_label": "Needs Improvement",
+            "saturatedfats_explanation": "Imperial Vegetable Oil Spread had high saturated fat content. It's essential to reduce saturated fat intake to improve heart health. Aim for foods lower in saturated fats."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Great Value Maraschino Cherries contributed to negative Added Sugar score. Next week try Mott's 100% Apple Juice to strengthen your score with less added sugar.",
+            "food_to_substitute1": "Mott's 100% Apple Juice",
+            "recommendation2": "Campbell's Chunky Soup contributed to negative Sodium score. Next week try Progresso Reduced Sodium Soups for a lower sodium option.",
+            "food_to_substitute2": "Progresso Reduced Sodium Soups",
+            "recommendation3": "Skinnypop Gluten Free Original Popcorn contributed to low Whole Grains score. Next week try Quaker Oats Old Fashioned Oatmeal for enhancing whole grain intake.",
+            "food_to_substitute3": "Quaker Oats Old Fashioned Oatmeal"
+        }
+    ]
+}

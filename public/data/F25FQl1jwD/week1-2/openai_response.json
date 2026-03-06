@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Marketside Fresh Cut Watermelon",
+            "good_choice_reason1": "contribute to your fruit intake with natural sugars and essential vitamins like Vitamin A and C",
+            "good_choice_item2": "Great Value Cut Green Beans",
+            "good_choice_reason2": "are high in fiber and essential vitamins like Vitamin K, contributing to a higher vegetable score",
+            "good_choice_item3": "Great Value Chunk Light Tuna in Water",
+            "good_choice_reason3": "is a lean source of protein and contains healthy omega-3 fatty acids, which are vital for heart health"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Great work! You made great progress with reducing added sugar. This was due to your purchases of Trolli Frozen Gummi Pops because they contain minimal added sugar.",
+                    "feedback_items": "Trolli Frozen Gummi Pops"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your goal of reducing sodium. You purchased Great Value Purified Drinking Water, which didn\u2019t help reduce sodium due to the sodium content in other foods purchased, like packaged and processed items such as canned soups and pre-made meals.",
+                    "feedback_items": "Great Value Purified Drinking Water"
+                },
+                {
+                    "feedback_text": "Great work! You made great progress with increasing vegetable intake. This was due to your purchases of Great Value Cut Green Beans because they contributed to your total vegetable intake.",
+                    "feedback_items": "Great Value Cut Green Beans"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "38.54",
+            "fruits_score": "3.2",
+            "fruits_score_label": "Moderate",
+            "fruits_explanation": "Your score was moderate due to the inclusion of Marketside Fresh Cut Watermelon and Great Value Diced Pears Fruit Cups. Consuming whole fruits is important as they provide more fiber and nutrients than juices or processed fruit products. Fruits are essential for vitamins, minerals, and fiber. Keep including a variety of fruits!",
+            "vegetables_score": "6.71",
+            "vegetables_score_label": "Great",
+            "vegetables_explanation": "You had a great score due to Great Value Cut Green Beans and Fresh Roma Tomato. Vegetables are important as they are high in essential vitamins and minerals. Keep diversifying your vegetable choices!",
+            "grains_score": "0",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "No whole grains were found in your basket. Whole grains have more nutrients and fiber than refined grains. They help in maintaining blood sugar and digestive health. Try incorporating more whole grains next time!",
+            "dairy_score": "7.31",
+            "dairy_score_label": "Great",
+            "dairy_explanation": "Your purchase of Great Value Reduced Fat Melt'n Dip Easy Melt Cheese contributed to a great dairy score. Dairy provides calcium, which is important for bone health. Keep up the good work with diverse dairy options!",
+            "protein_score": "8.32",
+            "protein_score_label": "Great",
+            "protein_explanation": "Excellent score with Great Value Chunk Light Tuna in Water and Freshness Guaranteed Lemon Pepper Rotisserie. Protein supports muscle health and functions as enzymes and hormones. Keep including varied protein sources!",
+            "fattyacids_score": "0",
+            "fattyacids_score_label": "Needs Improvement",
+            "fattyacids_explanation": "Products like Odom's Tennessee Pride Hot Sausage were low in healthy fats such as omega-3s. Fatty acids, especially omega-3s, are vital for heart health. Consider oily fish or nuts."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "0.94",
+            "refinedgrains_score_label": "Needs Improvement",
+            "refinedgrains_explanation": "High consumption of refined grains like Great Value Hot Dog Buns can lower nutritional quality. Refined grains lack fiber and can spike blood sugar. Aim for whole grains like brown rice or whole wheat bread to improve.",
+            "sodium_score": "0.48",
+            "sodium_score_label": "Needs Improvement",
+            "sodium_explanation": "Your sodium levels were high due to processed items like Campbell's Condensed Cream of Mushroom Soup. High sodium intake can increase blood pressure risk. Aim to choose lower sodium products next time.",
+            "addedsugars_score": "10",
+            "addedsugars_score_label": "Great",
+            "addedsugars_explanation": "Excellent choice of products, minimizing added sugar with items like Trolli Frozen Gummi Pops. Lower sugar helps prevent weight gain and dental issues. Keep it up!",
+            "saturatedfats_score": "0",
+            "saturatedfats_score_label": "Needs Improvement",
+            "saturatedfats_explanation": "High-fat products like Great Value Cream Cheese Brick contributed to saturated fat intake. Saturated fat can increase heart disease risk. Substitute with lower-fat products for a healthier choice."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Great Value Hot Dog Buns contributed to a negative Whole Grains score. Next week try whole grain bread or buns to strengthen your score.",
+            "food_to_substitute1": "Great Value Hot Dog Buns",
+            "recommendation2": "Campbell's Condensed Cream of Mushroom Soup contributed to a negative Sodium score. Next week try low-sodium broths and homemade soups.",
+            "food_to_substitute2": "Campbell's Condensed Cream of Mushroom Soup",
+            "recommendation3": "Great Value Cream Cheese Brick contributed to a negative Saturated Fat score. Next week try low-fat or Greek yogurt-based spreads.",
+            "food_to_substitute3": "Great Value Cream Cheese Brick"
+        }
+    ]
+}

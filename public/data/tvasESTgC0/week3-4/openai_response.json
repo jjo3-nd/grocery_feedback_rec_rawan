@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Fresh Banana",
+            "good_choice_reason1": "contribute positively to your whole fruits score.",
+            "good_choice_item2": "Fresh Cucumber",
+            "good_choice_reason2": "add to your total vegetables score, providing you with fiber and essential vitamins.",
+            "good_choice_item3": "Fresh Grape Tomato",
+            "good_choice_reason3": "contribute to your total vegetables score, offering a good source of vitamins A and C."
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake.",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Great work! You made great progress with reducing added sugar. This was due to your choices such as Cookie Crisp Breakfast Cereal because it had minimal added sugar, helping you meet your goal.",
+                    "feedback_items": "Cookie Crisp Breakfast Cereal"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Great Value Chopped Black Olives, which didn\u2019t contribute to your goal of reducing sodium because they have a high sodium content.",
+                    "feedback_items": "Great Value Chopped Black Olives"
+                },
+                {
+                    "feedback_text": "Great work! You made great progress with increasing your vegetable intake. This was due to your purchase of Fresh Cucumber and Fresh Grape Tomato, adding valuable nutrients to your diet.",
+                    "feedback_items": "Fresh Cucumber and Fresh Grape Tomato"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "50.55",
+            "fruits_score": "10",
+            "fruits_score_label": "Great",
+            "fruits_explanation": "You had a perfect score for fruits, thanks to your choice of Fresh Banana, which provided both total and whole fruit as both values were captured together. Fruits are essential for providing vitamins, minerals, and fiber. Keep it up!",
+            "vegetables_score": "6.17",
+            "vegetables_score_label": "Moderate",
+            "vegetables_explanation": "You had a moderate score due to the inclusion of Fresh Cucumber and Fresh Grape Tomato. Including a variety of vegetables helps in providing a wide range of nutrients essential for health. Try incorporating more greens and beans next time for even better balance.",
+            "grains_score": "2.82",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "Cap'n Crunch Sweetened Corn & Oat Cereal contributed to this score, but it primarily offered refined grains. Whole grains are higher in fiber and other nutrients compared to refined grains. Consider including more whole grains for better health benefits.",
+            "dairy_score": "4.25",
+            "dairy_score_label": "Moderate",
+            "dairy_explanation": "Kraft Deli Deluxe American Cheese Slices contributed to this score, but the overall dairy variety was limited. Dairy is important for bone health due to its calcium and vitamin D content. Try including low-fat yogurt or milk for a better score next time.",
+            "protein_score": "3.19",
+            "protein_score_label": "Moderate",
+            "protein_explanation": "Great Value Rotini contributed to your total protein score. To improve, try incorporating more seafood and plant proteins such as legumes and nuts for variety and health benefits.",
+            "fattyacids_score": "0",
+            "fattyacids_score_label": "Needs Improvement",
+            "fattyacids_explanation": "A low score here was due to missing sources of healthy fats like those found in nuts, seeds, and fatty fish. Fatty acids, especially omega-3s, improve heart health by reducing the risk of cardiovascular diseases. Try getting more nuts or fatty fish next week."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "6.36",
+            "refinedgrains_score_label": "Great",
+            "refinedgrains_explanation": "You had a balanced amount of refined grains this week thanks to Great Value Buttermilk Waffles. Keep moderating your refined grain consumption as they can lead to blood sugar spikes and lack essential nutrients compared to whole grains.",
+            "sodium_score": "7.77",
+            "sodium_score_label": "Moderate",
+            "sodium_explanation": "Sodium content was high in items like Great Value Chopped Black Olives. While sodium is essential for body function, high amounts can raise blood pressure. Keep working on reducing high-sodium foods for healthier choices.",
+            "addedsugars_score": "10",
+            "addedsugars_score_label": "Great",
+            "addedsugars_explanation": "You managed to choose items with low added sugars such as Cookie Crisp Breakfast Cereal. High added sugar intake can contribute to weight gain and dental problems. Keep it up!",
+            "saturatedfats_score": "0",
+            "saturatedfats_score_label": "Needs Improvement",
+            "saturatedfats_explanation": "The choice of Great Value Heavy Whipping Cream led to high saturated fat intake. High saturated fat can raise cholesterol levels and affect heart health. Consider choosing options lower in saturated fats next time."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Great Value Heavy Whipping Cream contributed to negative saturated fat scores. Next week try replacing it with lower-fat milk or plant-based alternatives.",
+            "food_to_substitute1": "Great Value Heavy Whipping Cream",
+            "recommendation2": "Great Value Chopped Black Olives contributed to higher sodium scores. Next week try using fresh vegetables like bell peppers or cucumbers as a sodium-free alternative.",
+            "food_to_substitute2": "Great Value Chopped Black Olives",
+            "recommendation3": "Cap'n Crunch Sweetened Corn & Oat Cereal contributed to lower whole grains scores. Next week try swapping it out for oatmeal or whole grain cereals to boost your whole grain intake.",
+            "food_to_substitute3": "Cap'n Crunch Sweetened Corn & Oat Cereal"
+        }
+    ]
+}

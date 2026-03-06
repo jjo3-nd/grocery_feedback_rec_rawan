@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Fresh Mandarin Oranges",
+            "good_choice_reason1": "contribute to your perfect score in the Fruit category by providing whole fruits essential for fiber and nutrients",
+            "good_choice_item2": "Marketside Kale Pecan Cranberry Chopped Salad Kit",
+            "good_choice_reason2": "help you achieve a great score in Vegetables, offering a variety of nutrients beneficial for health",
+            "good_choice_item3": "Stonefire Original Mini Naan",
+            "good_choice_reason3": "help you achieve a perfect score in Whole Grains, which are vital for fiber and long-term energy"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Great work! You made great progress with your goal to reduce added sugar. This was due to your purchase of Oikos Triple Zero Strawberry and Mixed Berry Og Added Sugar Fat Free Greek Yogurt, which has minimal added sugars.",
+                    "feedback_items": "Oikos Triple Zero Strawberry and Mixed Berry Og Added Sugar Fat Free Greek Yogurt"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goal to reduce sodium. You purchased Marketside Caesar Salad with Chicken, which contributed to your sodium intake being higher than your objective.",
+                    "feedback_items": "Marketside Caesar Salad with Chicken"
+                },
+                {
+                    "feedback_text": "Great work! You made good progress with your goal of increasing vegetable intake due to the purchase of Marketside Kale Pecan Cranberry Chopped Salad Kit, which boosted your Vegetables score.",
+                    "feedback_items": "Marketside Kale Pecan Cranberry Chopped Salad Kit"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "79.47",
+            "fruits_score": "10",
+            "fruits_score_label": "Great",
+            "fruits_explanation": "Your inclusion of Fresh Mandarin Oranges contributed to an excellent score in the Fruit category. Fruits provide essential vitamins and minerals, promoting overall health. Keep including a variety of whole fruits!",
+            "vegetables_score": "10",
+            "vegetables_score_label": "Great",
+            "vegetables_explanation": "Marketside Kale Pecan Cranberry Chopped Salad Kit contributed significantly to this great score. Vegetables are high in essential vitamins and minerals and support overall health. Keep it up!",
+            "grains_score": "10",
+            "grains_score_label": "Great",
+            "grains_explanation": "Stonefire Original Mini Naan helped you achieve a perfect score here. Whole grains are important for fiber, which aids digestion and promotes heart health. Continue making such great choices!",
+            "dairy_score": "2.81",
+            "dairy_score_label": "Needs Improvement",
+            "dairy_explanation": "Your score was low as Oikos Triple Zero Strawberry and Mixed Berry Og Added Sugar Fat Free Greek Yogurt was the only dairy choice. Calcium from dairy is essential for bone health. Try adding a variety of dairy products.",
+            "protein_score": "9.41",
+            "protein_score_label": "Great",
+            "protein_explanation": "Your choice of StarKist Light Tuna in Water played a big role in achieving this high score. Protein is vital for muscle repair and energy. Keep up the good work!",
+            "fattyacids_score": "10",
+            "fattyacids_score_label": "Great",
+            "fattyacids_explanation": "Chicken Tikka Masala with Basmati Rice greatly contributed to this area. Essential fatty acids support heart health. Well done!"
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "1.81",
+            "refinedgrains_score_label": "Needs Improvement",
+            "refinedgrains_explanation": "You had a high amount of refined grains such as Thai Kitchen Gluten Free Brown Rice Noodles. Refined grains can contribute to spikes in blood sugar; replacing them with whole grains can offer better nutrition.",
+            "sodium_score": "5.43",
+            "sodium_score_label": "Moderate",
+            "sodium_explanation": "Your sodium intake was moderate, with contributions from items like Marketside Caesar Salad with Chicken. While moderate, reducing sodium further supports heart health.",
+            "addedsugars_score": "10",
+            "addedsugars_score_label": "Great",
+            "addedsugars_explanation": "You chose items with minimal added sugars, such as Oikos Triple Zero Strawberry and Mixed Berry Og Added Sugar Fat Free Greek Yogurt. High sugar intake can contribute to weight gain and dental problems. Keep it up!",
+            "saturatedfats_score": "10",
+            "saturatedfats_score_label": "Great",
+            "saturatedfats_explanation": "Your purchases, like Kellogg's Nutri-Grain Blueberry Chewy Soft Baked Breakfast Bars, helped maintain a low intake. Saturated fats in excess can lead to heart disease, so continuing this trend is beneficial."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Thai Kitchen Gluten Free Brown Rice Noodles contributed to negative refined grains. Next week try swapping to whole grain pasta or quinoa to strengthen your Whole Grains score.",
+            "food_to_substitute1": "Thai Kitchen Gluten Free Brown Rice Noodles",
+            "recommendation2": "Marketside Caesar Salad with Chicken contributed to negative sodium. Next week consider making a homemade salad with fresh ingredients and low-sodium dressings.",
+            "food_to_substitute2": "Marketside Caesar Salad with Chicken",
+            "recommendation3": "Oikos Triple Zero Strawberry and Mixed Berry Og Added Sugar Fat Free Greek Yogurt contributed positively to your Added Sugars goal. Next week, continue with advanced choices like this to maintain low added sugar levels.",
+            "food_to_substitute3": "Oikos Triple Zero Strawberry and Mixed Berry Og Added Sugar Fat Free Greek Yogurt"
+        }
+    ]
+}

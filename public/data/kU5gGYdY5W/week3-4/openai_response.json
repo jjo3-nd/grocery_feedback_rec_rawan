@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Fresh Strawberries",
+            "good_choice_reason1": "are a great source of vitamin C, fiber, and antioxidants, contributing to a high whole fruit score",
+            "good_choice_item2": "Fresh Long English Cucumber",
+            "good_choice_reason2": "is low in calories and hydrates the body while providing essential vitamins and minerals, contributing to a strong vegetables score",
+            "good_choice_item3": "Fresh Green Bell Pepper",
+            "good_choice_reason3": "is rich in vitamins A and C, beneficial for overall health and contributes positively to your total and other vegetable intakes"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Hawaiian Punch Coconut Wave Juice which didn\u2019t contribute to your goal of reducing added sugar because it contains a high amount of added sugars.",
+                    "feedback_items": "Hawaiian Punch Coconut Wave Juice"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Great Value Thick and Chunky Salsa Mild which didn\u2019t contribute to your goal of reducing sodium because salsa can have high sodium levels.",
+                    "feedback_items": "Great Value Thick and Chunky Salsa Mild"
+                },
+                {
+                    "feedback_text": "Great work! You made great progress with increasing vegetable intake. This was due to your purchases of Fresh Long English Cucumber because it's a good source of vitamins and contributed to your vegetable intake.",
+                    "feedback_items": "Fresh Long English Cucumber"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "51.16 / 100",
+            "fruits_score": "7.86 / 10",
+            "fruits_score_label": "Moderate",
+            "fruits_explanation": "Fresh Strawberries contributed to a high score. Including whole fruits is beneficial because they contain more fiber and nutrients. Fruits are essential for providing vitamins, minerals, and fiber. Keep including more fresh fruits!",
+            "vegetables_score": "6.8 / 10",
+            "vegetables_score_label": "Great",
+            "vegetables_explanation": "You had a great score due to Fresh Long English Cucumber. Vegetables are great to include in your diet as they are high in essential vitamins and minerals and low in calories, supporting overall health. Keep it up!",
+            "grains_score": "0.91 / 10",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "Your score was low as items like Great Value Yellow Popping Corn contributed with limited whole grains. Whole grains are an important part of diet as they provide essential nutrients and help with digestion. Try adding more whole grains next time!",
+            "dairy_score": "6.18 / 10",
+            "dairy_score_label": "Moderate",
+            "dairy_explanation": "Great Value 2% Reduced Fat Milk helped achieve a moderate score. Dairy products provide calcium and vitamin D, which are important for bone health. Keep including them in your meals.",
+            "protein_score": "9.48 / 10",
+            "protein_score_label": "Great",
+            "protein_explanation": "Tyson Chicken Leg Quarters contributed significantly to a great protein score. Proteins are essential for building and repairing tissues. Keep up the great choice of proteins like chicken, seafood, and plant-based options.",
+            "fattyacids_score": "0 / 10",
+            "fattyacids_score_label": "Needs Improvement",
+            "fattyacids_explanation": "You had a low score this week due to foods like Great Value Queso Blanco Cheese Dip. Fatty acids, especially omega-3s, have been shown to improve heart health by reducing the risk of cardiovascular diseases. Try including more omega-3 rich foods, like fish, next time."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "7.27 / 10",
+            "refinedgrains_score_label": "Moderate",
+            "refinedgrains_explanation": "You had a high amount of refined grains in your basket this week, such as Mission Super Soft White Corn Tortillas. Refined grains are lower in fiber and nutrients and can cause spikes in blood sugar. Replace them with whole grains like brown rice, quinoa, or whole wheat pasta next week for better nutritional benefits.",
+            "sodium_score": "3.66 / 10",
+            "sodium_score_label": "Needs Improvement",
+            "sodium_explanation": "Great Value Thick and Chunky Salsa Mild contributed to a higher sodium score. High sodium intake can lead to increased blood pressure. Opt for low-sodium options to align with your goal.",
+            "addedsugars_score": "9.01 / 10",
+            "addedsugars_score_label": "Great",
+            "addedsugars_explanation": "You chose items with minimal added sugars such as Hawaiian Punch Coconut Wave Juice. This is beneficial, as high added sugar intake can contribute to weight gain and dental problems. Keep it up!",
+            "saturatedfats_score": "0 / 10",
+            "saturatedfats_score_label": "Needs Improvement",
+            "saturatedfats_explanation": "Great Value Sweet Cream Unsalted Butter contributed to high saturated fat content. Saturated fats can raise LDL cholesterol and increase heart disease risk. Consider healthier fats like olive oil or avocados."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Hawaiian Punch Coconut Wave Juice contributed to negative added sugars. Next week try flavored water or unsweetened fruit-infused water to strengthen the score.",
+            "food_to_substitute1": "Hawaiian Punch Coconut Wave Juice",
+            "recommendation2": "Great Value Thick and Chunky Salsa Mild contributed to negative sodium. Next week try low-sodium salsa options or fresh homemade salsa to strengthen the score.",
+            "food_to_substitute2": "Great Value Thick and Chunky Salsa Mild",
+            "recommendation3": "Great Value Sweet Cream Unsalted Butter contributed to negative saturated fats. Next week try olive oil or avocados as healthier fat options to strengthen the score.",
+            "food_to_substitute3": "Great Value Sweet Cream Unsalted Butter"
+        }
+    ]
+}

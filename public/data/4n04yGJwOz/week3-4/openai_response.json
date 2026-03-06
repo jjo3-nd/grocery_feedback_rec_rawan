@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Great Value Organic Whole Strawberries",
+            "good_choice_reason1": "provide a significant boost to your fruit component score",
+            "good_choice_item2": "Fresh Organic Cilantro",
+            "good_choice_reason2": "contribute to your vegetable component, helping you achieve a high score in this category",
+            "good_choice_item3": "Nasoya Refrigerated Organic Super Firm Tofu",
+            "good_choice_reason3": "provide a healthy source of plant protein, which helps achieve a high protein score"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reducing added sugar, reducing sodium, and increasing vegetable intake.",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Great work! You made great progress with reducing added sugar. This was due to your purchases of Silk Dairy Free, Gluten Free, Unsweet Organic Soy Milk, which had minimal added sugars.",
+                    "feedback_items": "Silk Dairy Free, Gluten Free, Unsweet Organic Soy Milk"
+                },
+                {
+                    "feedback_text": "Great work! You made great progress with reducing sodium. This was due to your selection of Dave's Killer Bread Good Seed, which contributed to a score of 10/10 for sodium moderation.",
+                    "feedback_items": "Dave's Killer Bread Good Seed"
+                },
+                {
+                    "feedback_text": "Great work! You made great progress with increasing vegetable intake. This was due to your purchases of Fresh Organic Cilantro, which significantly boosted your vegetable category score.",
+                    "feedback_items": "Fresh Organic Cilantro"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "81.18 / 100",
+            "fruits_score": "10",
+            "fruits_score_label": "Great!",
+            "fruits_explanation": "You included Great Value Organic Whole Strawberries, which contributed to a perfect score. Fruits are essential for providing vitamins, minerals, and fiber. Keep up the good work!",
+            "vegetables_score": "10",
+            "vegetables_score_label": "Great!",
+            "vegetables_explanation": "Your high score was due to Fresh Organic Cilantro. Vegetables are rich in essential nutrients and help support overall health. Excellent choice!",
+            "grains_score": "0",
+            "grains_score_label": "Needs Improvement.",
+            "grains_explanation": "There were no whole grain purchases, leading to a zero score in this component. Whole grains are richer in fiber and nutrients than refined grains.",
+            "dairy_score": "1.7",
+            "dairy_score_label": "Needs Improvement.",
+            "dairy_explanation": "Silk Dairy Free, Gluten Free, Unsweet Organic Soy Milk contributed to a low dairy score. Dairy products or fortified alternatives are important for bone health and calcium intake. Aim to include more options to improve this score.",
+            "protein_score": "9.48",
+            "protein_score_label": "Great!",
+            "protein_explanation": "Thanks to Nasoya Refrigerated Organic Super Firm Tofu, you achieved a great protein score. Try maintaining your intake of plant proteins for their health benefits and support for muscle growth.",
+            "fattyacids_score": "10",
+            "fattyacids_score_label": "Great!",
+            "fattyacids_explanation": "Crazy Richard's All-Natural Creamy Peanut Butter helped you achieve this excellent score. Fatty acids, especially omega-3s, support heart health. Well done!"
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "10",
+            "refinedgrains_score_label": "Great!",
+            "refinedgrains_explanation": "You managed your refined grains well, with the inclusion of A Taste of Thai Vermicelli Rice Noodles. Keep it up!",
+            "sodium_score": "10",
+            "sodium_score_label": "Great!",
+            "sodium_explanation": "You achieved a good sodium score by choosing Dave's Killer Bread Good Seed. Managing sodium helps maintain healthy blood pressure. Excellent!",
+            "addedsugars_score": "10",
+            "addedsugars_score_label": "Great!",
+            "addedsugars_explanation": "Silk Dairy Free, Gluten Free, Unsweet Organic Soy Milk was a good choice with minimal added sugars. Reducing added sugars can help prevent weight gain and improve overall health. Well done!",
+            "saturatedfats_score": "10",
+            "saturatedfats_score_label": "Great!",
+            "saturatedfats_explanation": "Land O Lakes Plant-Based Creamy Spread contributed to a minimal intake of saturated fats. Keeping saturated fat intake low can reduce the risk of heart disease. Great job!"
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "None of your whole grain food choices contributed positively to your whole grain score. Next week try introducing options like oats, quinoa, or whole-grain pasta to strengthen your Whole Grains score.",
+            "food_to_substitute1": "oats",
+            "recommendation2": "None of your dairy choices contributed significantly to your dairy score. Next week try including dairy or fortified dairy alternatives like almond milk, Greek yogurt, or low-fat cheese for better nutrition.",
+            "food_to_substitute2": "almond milk",
+            "recommendation3": "Improve the variety of vegetables by trying options like spinach, broccoli, or bell peppers to maintain or improve your Fantastic vegetable intake.",
+            "food_to_substitute3": "spinach"
+        }
+    ]
+}

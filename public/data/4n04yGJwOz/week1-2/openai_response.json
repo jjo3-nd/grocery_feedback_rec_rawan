@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Great Value Chopped Pecans",
+            "good_choice_reason1": "contribute to a perfect score in the fatty acids category, thanks to its healthy fats which are essential for heart health.",
+            "good_choice_item2": "Sunsweet Dates, Pitted",
+            "good_choice_reason2": "help achieve a high score in the fruits category, providing necessary vitamins and antioxidants.",
+            "good_choice_item3": "Great Value Organic Chick Pea Garbanzo Beans",
+            "good_choice_reason3": "contribute to a high score in the protein category with plant-based proteins while also increasing your vegetable intake."
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake.",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Great work! You made great progress with reducing added sugar. This was due to your purchases such as Bonne Maman Strawberry Preserves because despite its sugar content, overall, your added sugars score was perfect.",
+                    "feedback_items": "Bonne Maman Strawberry Preserves"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Amy's Frozen Spinach and Cheeze Ravioli Bowl, which didn\u2019t contribute to your goal of reducing sodium because it is relatively high in sodium.",
+                    "feedback_items": "Amy's Frozen Spinach and Cheeze Ravioli Bowl"
+                },
+                {
+                    "feedback_text": "Great work! You made great progress with increasing vegetable intake. This was due to your purchases of Great Value Organic Chick Pea Garbanzo Beans because they provide plenty of vegetables in a convenient form.",
+                    "feedback_items": "Great Value Organic Chick Pea Garbanzo Beans"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "79.36 / 100",
+            "fruits_score": "8.15",
+            "fruits_score_label": "Great",
+            "fruits_explanation": "You achieved this high score primarily due to Sunsweet Dates, Pitted. Fruits are essential for providing vitamins, minerals, and fiber. Keep up the good work!",
+            "vegetables_score": "8.46",
+            "vegetables_score_label": "Great",
+            "vegetables_explanation": "You had a great score due to Great Value Organic Chick Pea Garbanzo Beans. Vegetables are rich in essential vitamins and minerals and help in maintaining a balanced diet. Keep it up!",
+            "grains_score": "0.78",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "The low score was due to a lack of whole grains in your purchases. Whole grains are important for fiber, B vitamins, and minerals. Try including more whole grains next time.",
+            "dairy_score": "2.71",
+            "dairy_score_label": "Needs Improvement",
+            "dairy_explanation": "Your score was lower because your purchase of Silk Dairy Free Organic Soy Milk, while beneficial, was not enough to meet the goal. Dairy is important for calcium and vitamin D. Consider adding more calcium-fortified options.",
+            "protein_score": "10",
+            "protein_score_label": "Great",
+            "protein_explanation": "Perfect score achieved by including Great Value Organic Chick Pea Garbanzo Beans. Protein is necessary for the body's repair and maintenance. Fantastic job!",
+            "fattyacids_score": "10",
+            "fattyacids_score_label": "Great",
+            "fattyacids_explanation": "Achieved a perfect score, thanks to Great Value Chopped Pecans! Fatty acids, especially omega-3s, improve heart health. Awesome work!"
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "10",
+            "refinedgrains_score_label": "Great",
+            "refinedgrains_explanation": "You managed to keep refined grains low with choices like Blue Diamond Almonds Nut-Thins. High intake of refined grains can cause spikes in blood sugar. Keep it up!",
+            "sodium_score": "9.25",
+            "sodium_score_label": "Great",
+            "sodium_explanation": "Despite Amy's Frozen Spinach and Cheeze Ravioli Bowl being relatively high in sodium, your overall sodium intake was well-controlled this week. Reducing sodium is crucial for heart health. Good job!",
+            "addedsugars_score": "10",
+            "addedsugars_score_label": "Great",
+            "addedsugars_explanation": "You chose items with minimal added sugars such as Bonne Maman Strawberry Preserves in moderation. Minimizing added sugars helps in weight management and reduces the risk of chronic diseases. Well done!",
+            "saturatedfats_score": "10",
+            "saturatedfats_score_label": "Great",
+            "saturatedfats_explanation": "You maintained a perfect score, even with items like Amy's Organic Vegetable Jambalaya. Keeping saturated fat low helps in controlling cholesterol levels. Excellent!"
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Amy's Frozen Spinach and Cheeze Ravioli Bowl contributed to a negative Sodium component score. Next week, try products with reduced sodium content to strengthen the score.",
+            "food_to_substitute1": "Amy's Frozen Spinach and Cheeze Ravioli Bowl",
+            "recommendation2": "Great Value Instant Old Fashioned Oats contributed to a negative Whole Grains component score. Next week, try products like whole grain breads or brown rice to strengthen the score.",
+            "food_to_substitute2": "Great Value Instant Old Fashioned Oats",
+            "recommendation3": "Silk Dairy Free Organic Soy Milk contributed to a negative Dairy component score. Next week, try adding more calcium-fortified dairy substitutes like almond or oat milk to strengthen the score.",
+            "food_to_substitute3": "Silk Dairy Free Organic Soy Milk"
+        }
+    ]
+}

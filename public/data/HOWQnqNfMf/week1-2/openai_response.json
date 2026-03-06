@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Fresh Gala Apples",
+            "good_choice_reason1": "contribute significantly to your fruits intake, providing essential vitamins and fiber",
+            "good_choice_item2": "Fresh Hass Avocados",
+            "good_choice_reason2": "add healthy fats and nutrient-rich vegetables to your basket",
+            "good_choice_item3": "Jolly Time Organic Yellow Kernel Popping Corn",
+            "good_choice_reason3": "contribute whole grains, which are high in fiber and beneficial for digestive health"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Great work! You made great progress with reducing sodium. This was due to the inclusiveness of Traditional Medicinals Organic Hibiscus, which has very low sodium content.",
+                    "feedback_items": "Traditional Medicinals Organic Hibiscus"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals of reducing added sugar. You purchased Great Value Mini Marshmallows Value Size, which didn\u2019t contribute to your goal of reducing added sugar because they are high in added sugars.",
+                    "feedback_items": "Great Value Mini Marshmallows Value Size"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You need to increase vegetable intake as vegetables were primarily from Fresh Hass Avocados, and more variety is beneficial.",
+                    "feedback_items": "Fresh Hass Avocados"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "49.65 / 100",
+            "fruits_score": "10/10",
+            "fruits_score_label": "Great",
+            "fruits_explanation": "Fresh Gala Apples contributed greatly to your fruit intake, providing essential vitamins and fiber. Consuming more whole fruits is beneficial, as they are rich in nutrients and good for health maintenance. Keep up the variety!",
+            "vegetables_score": "4.39/10",
+            "vegetables_score_label": "Moderate",
+            "vegetables_explanation": "Fresh Hass Avocados contributed to your vegetable score. Including a greater variety of vegetables, especially leafy greens and legumes, is helpful for increasing your score and improving health due to their rich nutrient content. Try adding more beans or dark green vegetables next time!",
+            "grains_score": "3.1/10",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "You have some whole grains from Jolly Time Organic Yellow Kernel Popping Corn. Whole grains are essential for fiber intake and regulate blood sugar levels. Aim for more whole grains like quinoa or whole wheat variants for better scores next time.",
+            "dairy_score": "1.7/10",
+            "dairy_score_label": "Needs Improvement",
+            "dairy_explanation": "Dairy intake was minimal, mostly from Great Value Organic Vanilla Beans. Dairy products are great for calcium and bone health. Include more milk or yogurt products for better nutrition.",
+            "protein_score": "3.8/10",
+            "protein_score_label": "Moderate",
+            "protein_explanation": "Applegate Naturals Chicken & Maple Breakfast Sausage Links contributed to your protein intake. Ensuring a balanced intake of various protein types is key to building strong muscles and repairing body tissues.",
+            "fattyacids_score": "0/10",
+            "fattyacids_score_label": "Needs Improvement",
+            "fattyacids_explanation": "Fresh Hass Avocados were a source of healthy fats, but the score was low due to lack of variety in fatty acids. Including foods rich in omega-3, like fish, can benefit heart health. Aim for more fish or plant-based omega-3 sources next time."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "10/10",
+            "refinedgrains_score_label": "Needs Improvement",
+            "refinedgrains_explanation": "You had a high amount of refined grains in your basket this week, such as Freshness Guaranteed Sliced Sourdough Bread Loaf. Refined grains can cause spikes in blood sugar and are lower in fiber and nutrients. Replace with whole grains like brown rice or whole wheat pasta next time.",
+            "sodium_score": "10/10",
+            "sodium_score_label": "Great",
+            "sodium_explanation": "Minimizing sodium helps reduce the risk for high blood pressure and other cardiovascular conditions. Keep it up!",
+            "addedsugars_score": "6.67/10",
+            "addedsugars_score_label": "Moderate",
+            "addedsugars_explanation": "While desirable added sugar reduction was helped by utilizing unsweetened tea, choices such as Great Value Mini Marshmallows Value Size diminish overall lower added sugar benefits. High added sugar can contribute to weight gain and tooth decay. Try choosing more unsweetened products and natural sweeteners next time.",
+            "saturatedfats_score": "0/10",
+            "saturatedfats_score_label": "Needs Improvement",
+            "saturatedfats_explanation": "The low score was primarily because of high saturated fat content from Great Value Organic Unrefined Virgin Coconut Oil, which increases the risk for heart disease. Try to include more unsaturated fats next week."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Great Value Organic Unrefined Virgin Coconut Oil contributed to negative Saturated Fat component. Next week, try using extra-virgin olive oil or canola oil for better health benefits.",
+            "food_to_substitute1": "Great Value Organic Unrefined Virgin Coconut Oil",
+            "recommendation2": "Freshness Guaranteed Sliced Sourdough Bread Loaf contributed to negative Refined Grains component. Next week, try replacing it with whole grain bread or brown rice products.",
+            "food_to_substitute2": "Freshness Guaranteed Sliced Sourdough Bread Loaf",
+            "recommendation3": "Great Value Mini Marshmallows Value Size contributed negatively towards the Added Sugars component. Next week, try incorporating dried or fresh fruit for natural sweetness.",
+            "food_to_substitute3": "Great Value Mini Marshmallows Value Size"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Fresh Seedless Lemons",
+            "good_choice_reason1": "provide a significant source of whole fruits, contributing to your total fruit score",
+            "good_choice_item2": "Fresh Cucumber",
+            "good_choice_reason2": "contribute substantially to your vegetable intake, enhancing your total vegetable score",
+            "good_choice_item3": "StarKist Chunk Light Tuna in Sunflower Oil",
+            "good_choice_reason3": "provide a great source of protein and are a top contributor to your total protein score"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Great work! You made great progress with reducing added sugars. This was due to your purchase of Pepperidge Farm Whole Grain Oatmeal Bread because it contained minimal added sugars.",
+                    "feedback_items": "Pepperidge Farm Whole Grain Oatmeal Bread"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Carl Buddig Original Honey Ham Lunchmeat, which didn\u2019t contribute to your goal of reducing sodium because it contained a high amount of sodium.",
+                    "feedback_items": "Carl Buddig Original Honey Ham Lunchmeat"
+                },
+                {
+                    "feedback_text": "Great work! You made great progress with increasing vegetable intake. This was due to your purchase of Fresh Cucumber because they significantly contributed to your total vegetable score.",
+                    "feedback_items": "Fresh Cucumber"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "51.31",
+            "fruits_score": "10",
+            "fruits_score_label": "Great",
+            "fruits_explanation": "Fresh Seedless Lemons and other citrus fruits contributed to a perfect fruit score. Fruits are essential for providing vitamins, minerals, and fiber. Keep it up!",
+            "vegetables_score": "10",
+            "vegetables_score_label": "Great",
+            "vegetables_explanation": "Fresh Cucumber and other vegetables like Broccoli Florets contributed to a high vegetable score. Vegetables are great to include in your diet as they are high in essential vitamins and minerals and low in calories, supporting overall health. Keep it up!",
+            "grains_score": "1.43",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "You had a low whole grain intake despite choosing some whole-grain options like Pepperidge Farm Whole Grain Oatmeal Bread. Whole grains are beneficial because they are a source of fiber and nutrients. Try to include more whole grains next week.",
+            "dairy_score": "2.18",
+            "dairy_score_label": "Needs Improvement",
+            "dairy_explanation": "Great Value Milk provided some dairy but didn't fully meet the recommended levels. Dairy is a great source of calcium, vitamin D, and protein, supporting bone health. Consider more dairy options next week.",
+            "protein_score": "10",
+            "protein_score_label": "Great",
+            "protein_explanation": "StarKist Chunk Light Tuna in Sunflower Oil was an excellent protein source. Total protein foods are important for muscle health and are needed for daily bodily functions. Great work!",
+            "fattyacids_score": "2.43",
+            "fattyacids_score_label": "Needs Improvement",
+            "fattyacids_explanation": "Avocados contributed, but there was room for more healthy oils or fatty acids. Fatty acids, especially omega-3s, improve heart health by reducing the risk of cardiovascular diseases. Try incorporating more sources of healthy oils next week."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "0.91",
+            "refinedgrains_score_label": "Needs Improvement",
+            "refinedgrains_explanation": "Thomas' Onion Bagels and similar items contributed to a higher intake of refined grains this week. Refined grains are lower in fiber and nutrients, and they can cause spikes in blood sugar. Consider swapping with whole grains next week.",
+            "sodium_score": "0",
+            "sodium_score_label": "Needs Improvement",
+            "sodium_explanation": "High sodium foods like Carl Buddig Original Honey Ham Lunchmeat impacted this score negatively. Reducing sodium intake can lower blood pressure and decrease the risk of heart disease. Look for low-sodium alternatives.",
+            "addedsugars_score": "10",
+            "addedsugars_score_label": "Great",
+            "addedsugars_explanation": "Pepperidge Farm Whole Grain Oatmeal Bread helped you achieve a perfect score for added sugars. Limiting added sugars is beneficial because high intake can lead to weight gain and dental problems. Fantastic job!",
+            "saturatedfats_score": "4.36",
+            "saturatedfats_score_label": "Needs Improvement",
+            "saturatedfats_explanation": "Nathan's Famous Skinless Beef Hot Dogs contributed to saturated fats. Saturated fats should be consumed in moderation as they can impact heart health. Try reducing foods high in saturated fats next week."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Thomas' Onion Bagels contributed to the negative Whole Grains component score. Next week try substituting with whole grain bagels or whole wheat bread to strengthen the score.",
+            "food_to_substitute1": "Thomas' Onion Bagels",
+            "recommendation2": "Carl Buddig Original Honey Ham Lunchmeat contributed to the negative Sodium component score. Next week try opting for low-sodium turkey breast or chicken breast to help reduce sodium intake.",
+            "food_to_substitute2": "Carl Buddig Original Honey Ham Lunchmeat",
+            "recommendation3": "Nathan's Famous Skinless Beef Hot Dogs contributed to the negative Saturated Fats component score. Next week try substituting with lean turkey or chicken sausages to lower saturated fat intake.",
+            "food_to_substitute3": "Nathan's Famous Skinless Beef Hot Dogs"
+        }
+    ]
+}

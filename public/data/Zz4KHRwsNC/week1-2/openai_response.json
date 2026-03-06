@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Fresh Lime",
+            "good_choice_reason1": "contribute positively to your fruit intake with its high vitamin C content.",
+            "good_choice_item2": "Fresh Broccoli Crowns",
+            "good_choice_reason2": "boost your vegetable intake with essential vitamins like vitamin C and K, and it's rich in fiber.",
+            "good_choice_item3": "Great Value Frozen Raw Small Peeled & Deveined Tail-off Shrimp",
+            "good_choice_reason3": "provide a good source of lean protein, which is important for muscle building and repair."
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake.",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Great work! You made great progress with increasing your vegetable intake. This was due to your purchases of Fresh Broccoli Crowns because it added significant nutrients and fiber.",
+                    "feedback_items": "Fresh Broccoli Crowns"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Lifeway Low Fat Milk Kefir, Strawberry Banana, which didn\u2019t contribute to your goal of reducing added sugar because it contains added sugars.",
+                    "feedback_items": "Lifeway Low Fat Milk Kefir, Strawberry Banana"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Great Value Purified Drinking Water, which didn\u2019t contribute to your goal of reducing sodium because other choices in your basket still had higher sodium content.",
+                    "feedback_items": "Great Value Purified Drinking Water"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "60.25/100",
+            "fruits_score": "10",
+            "fruits_score_label": "Great",
+            "fruits_explanation": "The inclusion of fresh lime was excellent for your fruit category. Fruits are essential for providing vitamins, minerals, and fiber. Keep it up!",
+            "vegetables_score": "10",
+            "vegetables_score_label": "Great",
+            "vegetables_explanation": "You had a great score due to Fresh Broccoli Crowns and Fresh Roma Tomato. Vegetables are high in essential vitamins and minerals which support overall health. Keep it up!",
+            "grains_score": "0.78",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "Great Value Linguine was your main source of grains, but whole grain options were minimal. Whole grains support heart health and digestion. Try incorporating more whole grain options.",
+            "dairy_score": "2.61",
+            "dairy_score_label": "Needs Improvement",
+            "dairy_explanation": "Great Value Deli Style Low-Moisture Part-Skim Sliced Mozzarella Cheese contributed to your dairy score. Dairy is important for bone health. Consider adding more low-fat dairy options.",
+            "protein_score": "10",
+            "protein_score_label": "Great",
+            "protein_explanation": "Your intake of shrimp and chicken boosted your protein score significantly. Protein is essential for muscle repair and overall body function. Keep it up!",
+            "fattyacids_score": "0",
+            "fattyacids_score_label": "Needs Improvement",
+            "fattyacids_explanation": "Eckrich Skinless Polska Kielbasa Rope led to a low score. Fatty acids, especially omega-3s, are beneficial for heart health. Try adding fish or nuts."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "10",
+            "refinedgrains_score_label": "Great",
+            "refinedgrains_explanation": "You chose minimal refined grain products such as Dave's Killer Bread Powerseed Organic Sliced Bread Loaf. This limited refined grain intake is beneficial for managing blood sugar levels.",
+            "sodium_score": "6.86",
+            "sodium_score_label": "Moderate",
+            "sodium_explanation": "Although some items were low in sodium, the overall sodium content could be reduced further.",
+            "addedsugars_score": "10",
+            "addedsugars_score_label": "Great",
+            "addedsugars_explanation": "You chose items with minimal added sugars, such as those with low added sugar content. This is beneficial for controlling weight and preventing dental problems.",
+            "saturatedfats_score": "0",
+            "saturatedfats_score_label": "Needs Improvement",
+            "saturatedfats_explanation": "Great Value Sweet Cream Salted Butter contributed to high saturated fat content. High saturated fat intake can affect heart health. Consider healthier fat alternatives."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Great Value Linguine contributed to negative Whole Grains score. Next week try quinoa or brown rice to strengthen your score.",
+            "food_to_substitute1": "quinoa",
+            "recommendation2": "Eckrich Skinless Polska Kielbasa Rope contributed to negative Fatty Acids score. Next week try salmon or walnuts to strengthen your score.",
+            "food_to_substitute2": "salmon",
+            "recommendation3": "Great Value Sweet Cream Salted Butter contributed to negative Saturated Fats score. Next week try olive oil or avocado as a healthier fat option.",
+            "food_to_substitute3": "olive oil"
+        }
+    ]
+}

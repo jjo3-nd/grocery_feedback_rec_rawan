@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Fresh Seedless Watermelon",
+            "good_choice_reason1": "be a refreshing whole fruit that has natural sugars and nutrients without added sugars",
+            "good_choice_item2": "Great Value Premium Tomato Basil Chunk Light Tuna",
+            "good_choice_reason2": "provide a great addition of vegetables, including tomatoes, which are nutrient-rich",
+            "good_choice_item3": "StarKist Chunk Light Tuna in Sunflower Oil",
+            "good_choice_reason3": "be a great source of protein and healthy fatty acids, crucial for body repair and heart health"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Talenti Dairy-Free Sorbet Alphonso Mango Frozen Dessert Gluten-Free which didn\u2019t contribute to your goal of reducing added sugar because it contains added sugars.",
+                    "feedback_items": "Talenti Dairy-Free Sorbet Alphonso Mango Frozen Dessert Gluten-Free"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Mt. Olive Sandwich Stuffer Kosher Dill Pickles which didn\u2019t contribute to your goal of reducing sodium because it has a significant amount of sodium.",
+                    "feedback_items": "Mt. Olive Sandwich Stuffer Kosher Dill Pickles"
+                },
+                {
+                    "feedback_text": "Great work! You made great progress with increasing vegetable intake. This was due to your purchases of Great Value Premium Tomato Basil Chunk Light Tuna because it includes tomatoes, providing more vegetables in your diet.",
+                    "feedback_items": "Great Value Premium Tomato Basil Chunk Light Tuna"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "77.14 / 100",
+            "fruits_score": "10",
+            "fruits_score_label": "Great",
+            "fruits_explanation": "Your score is high due to foods like Fresh Blueberries and Fresh Seedless Watermelon which are excellent sources of vitamins and minerals, helping to boost your immune system and overall health. Keep up the good fruit variety and availability.",
+            "vegetables_score": "10",
+            "vegetables_score_label": "Great",
+            "vegetables_explanation": "You had a great score due to Great Value Premium Tomato Basil Chunk Light Tuna. Vegetables are great to include in your diet as they are high in essential vitamins and minerals and low in calories, supporting overall health. Keep it up!",
+            "grains_score": "3.33",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "Your score is lower because products like Daiya Dairy Free Gluten Free Meatless Chicken Bacon Ranch Flatbread Pizza have some whole grains but more could be included. Whole grains are beneficial for providing fiber and nutrients that support digestion and heart health. Try incorporating more whole grain products!",
+            "dairy_score": "3.14",
+            "dairy_score_label": "Needs Improvement",
+            "dairy_explanation": "Oikos Triple Zero Peach and Vanilla Nonfat Greek Yogurt Cups contributed to your dairy intake. Dairy provides calcium and vitamin D, important for bone health. Try adding more low-fat yogurt or milk to enhance your dairy intake.",
+            "protein_score": "Not Provided",
+            "protein_score_label": "Not Provided",
+            "protein_explanation": "Not Applicable",
+            "fattyacids_score": "10",
+            "fattyacids_score_label": "Great",
+            "fattyacids_explanation": "The inclusion of Fresh Organic Bagged Avocados contributed to this high score. Fatty acids, especially omega-3s, have been shown to improve heart health by reducing the risk of cardiovascular diseases. Keep up the good balance of healthy fats!"
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "8.16",
+            "refinedgrains_score_label": "Great",
+            "refinedgrains_explanation": "You had a high amount of refined grains in your basket this week such as Thomas' Onion Bagels. Refined grains, such as many types of bread and bagels, are lower in fiber and nutrients; switching to whole-grain versions could be beneficial. Keep diversifying your grain choices.",
+            "sodium_score": "3.48",
+            "sodium_score_label": "Moderate",
+            "sodium_explanation": "Foods like Mt. Olive Sandwich Stuffer Kosher Dill Pickles contributed to elevated sodium levels. Sodium in high amounts can lead to increased blood pressure and cardiovascular diseases. Watch for hidden sodium in processed foods and try to opt for low-sodium versions.",
+            "addedsugars_score": "9.03",
+            "addedsugars_score_label": "Great",
+            "addedsugars_explanation": "You have a moderate intake of added sugars with foods like Talenti Dairy-Free Sorbet Alphonso Mango Frozen Dessert Gluten-Free. Having minimal added sugars is beneficial as high added sugar intake can contribute to weight gain and dental problems. Keep it up!",
+            "saturatedfats_score": "10",
+            "saturatedfats_score_label": "Great",
+            "saturatedfats_explanation": "Your diet was low in saturated fats, ensuring heart health and reducing the risk of heart diseases. Foods such as TGI Fridays Frozen Appetizers Cream Cheese Stuffed Jalapeno Poppers should be consumed in moderation to maintain low saturated fat intake. Keep up the great work!"
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Talenti Dairy-Free Sorbet Alphonso Mango Frozen Dessert Gluten-Free contributed to negative Added Sugars. Next week try fresh fruits like apples or pears to strengthen your score.",
+            "food_to_substitute1": "Talenti Dairy-Free Sorbet Alphonso Mango Frozen Dessert Gluten-Free",
+            "recommendation2": "Mt. Olive Sandwich Stuffer Kosher Dill Pickles contributed to negative Sodium. Next week try unsalted fresh vegetables like carrots and celery to maintain a lower sodium intake.",
+            "food_to_substitute2": "Mt. Olive Sandwich Stuffer Kosher Dill Pickles",
+            "recommendation3": "Thomas' Onion Bagels contributed to negative Refined Grains. Next week try switching to whole grain or multigrain bread to enhance your overall grain intake with more nutrients.",
+            "food_to_substitute3": "Thomas' Onion Bagels"
+        }
+    ]
+}

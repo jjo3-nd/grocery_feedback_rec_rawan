@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Marketside Fresh Cut Watermelon",
+            "good_choice_reason1": "provide essential vitamins and minerals",
+            "good_choice_item2": "Fresh Bagged Radish",
+            "good_choice_reason2": "offer vitamins and fiber",
+            "good_choice_item3": "Baby Peeled Carrots",
+            "good_choice_reason3": "add variety of vegetables and are a source of beta-carotene"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Great work! You made great progress with increasing your vegetable intake. This was due to your purchases of Baby Peeled Carrots because they are a healthy vegetable rich in antioxidants.",
+                    "feedback_items": "Baby Peeled Carrots"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Crunch Pak Snack with Fresh Sweet Sliced Apples and Caramel, which didn\u2019t contribute to your goal of reducing added sugar because it contains high amounts of added sugars.",
+                    "feedback_items": "Crunch Pak Snack with Fresh Sweet Sliced Apples and Caramel"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Hungry Man Selects Classic Fried Chicken, which didn\u2019t contribute to your goal of reducing sodium because it contains high amounts of sodium.",
+                    "feedback_items": "Hungry Man Selects Classic Fried Chicken"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "28.84 / 100",
+            "fruits_score": "3.89/10",
+            "fruits_score_label": "Moderate",
+            "fruits_explanation": "Products like Marketside Fresh Cut Watermelon contributed to this score, providing essential vitamins and hydration. Fruits are essential for providing vitamins, minerals, and fiber. Try getting more whole fruits next time!",
+            "vegetables_score": "4.99/10",
+            "vegetables_score_label": "Moderate",
+            "vegetables_explanation": "The inclusion of items like Fresh Bagged Radish added variety to your vegetable intake. Vegetables are great to include in your diet as they are high in essential vitamins and minerals and low in calories, supporting overall health. Keep it up!",
+            "grains_score": "0/10",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "You didn't have whole grains, which led to a low score in this category. Whole grains are better for your health as they provide more fiber, vitamins, and minerals compared to refined grains.",
+            "dairy_score": "2.63/10",
+            "dairy_score_label": "Needs Improvement",
+            "dairy_explanation": "The consumption of Great Value Thin Crust Three Meat Pizza was the main contributor here, but overall, there should be an increase in dairy products like milk and yogurt for calcium and vitamin D.",
+            "protein_score": "5/10",
+            "protein_score_label": "Moderate",
+            "protein_explanation": "Hungry Man Selects Classic Fried Chicken was a contributing factor to your total protein score. Protein is essential for building and repairing tissues. Consider incorporating more seafood and plant-based proteins for added health benefits.",
+            "fattyacids_score": "0/10",
+            "fattyacids_score_label": "Needs Improvement",
+            "fattyacids_explanation": "The inclusion of Marzetti Ranch Refrigerated Veggie Dip didn\u2019t sufficiently contribute to a positive score. Fatty acids, especially omega-3s, improve heart health. Try getting more fatty fish or plant oils next week."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "10/10",
+            "refinedgrains_score_label": "Great",
+            "refinedgrains_explanation": "Items like Comfort Cravers Disney Pixar Toy Story Mini Corn Dogs were prominent, providing scores here. However, try incorporating more whole grains for better health benefits as refined grains can lack fiber.",
+            "sodium_score": "0/10",
+            "sodium_score_label": "Needs Improvement",
+            "sodium_explanation": "The presence of high-sodium foods such as Hungry Man Selects Classic Fried Chicken affected this score negatively. Reducing sodium is important to maintain healthy blood pressure levels.",
+            "addedsugars_score": "2.34/10",
+            "addedsugars_score_label": "Needs Improvement",
+            "addedsugars_explanation": "Crunch Pak Snack with Fresh Sweet Sliced Apples and Caramel contributed to a low score. High sugar intake can lead to weight gain and dental issues. Aim for items with minimal added sugars for better health outcomes.",
+            "saturatedfats_score": "0/10",
+            "saturatedfats_score_label": "Needs Improvement",
+            "saturatedfats_explanation": "The high use of Crunch Pak Snack with Fresh Sweet Sliced Apples and Caramel contributed to a lack of improvement in this category. Saturated fats should be limited because they can increase the risk of heart disease."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Crunch Pak Snack with Fresh Sweet Sliced Apples and Caramel contributed to a negative added sugars score. Next week, try fresh whole apples or berries to strengthen the score.",
+            "food_to_substitute1": "Crunch Pak Snack with Fresh Sweet Sliced Apples and Caramel",
+            "recommendation2": "Great Value Thin Crust Three Meat Pizza contributed to negative dairy score. Next week try low-fat yogurt or milk to strengthen the score.",
+            "food_to_substitute2": "Great Value Thin Crust Three Meat Pizza",
+            "recommendation3": "Great Value Crinkle Cut French Fried Potatoes contributed to negative veggie variety score. Next week try dark leafy greens like spinach to strengthen the score.",
+            "food_to_substitute3": "Great Value Crinkle Cut French Fried Potatoes"
+        }
+    ]
+}

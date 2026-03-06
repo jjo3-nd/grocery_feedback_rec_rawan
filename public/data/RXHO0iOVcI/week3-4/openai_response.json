@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Great Value Frozen Raw Small Peeled & Deveined, Tail-off Shrimp",
+            "good_choice_reason1": "is an excellent source of lean protein, contributing to high protein intake",
+            "good_choice_item2": "Vita Coco Pure Coconut Water",
+            "good_choice_reason2": "is hydrating and contains added vitamins without added sugars",
+            "good_choice_item3": "Great Value Vegetable Oil",
+            "good_choice_reason3": "provides healthy fatty acids which can support heart health"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Great work! You made great progress with reducing added sugar. This was due to your purchase of Blue Bonnet Original Vegetable Oil Spread Sticks because it contains no added sugars.",
+                    "feedback_items": "Blue Bonnet Original Vegetable Oil Spread Sticks"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Ocean Spray Cran-Grape Cranberry Grape Juice Drink which didn\u2019t contribute to your goal of reducing sodium because it has added sugars and no reduction in sodium.",
+                    "feedback_items": "Ocean Spray Cran-Grape Cranberry Grape Juice Drink"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You did not purchase enough fresh vegetables, which didn\u2019t contribute to your goal of increasing vegetable intake.",
+                    "feedback_items": "fresh vegetables"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "57.95",
+            "fruits_score": "4.83",
+            "fruits_score_label": "Moderate",
+            "fruits_explanation": "You included Tropicana Pure Premium 100% Orange Juice, which added to your fruit intake but had a low whole fruit inclusion. Including whole fruits helps provide more fiber and nutrients. Fruits are essential for providing vitamins, minerals, and fiber. Try getting more whole fruits next time!",
+            "vegetables_score": "0",
+            "vegetables_score_label": "Needs Improvement",
+            "vegetables_explanation": "You did not have any vegetables in your basket. Vegetables are great to include in your diet as they are high in essential vitamins and minerals and low in calories, supporting overall health. Try adding a variety of vegetables next week for better health benefits.",
+            "grains_score": "0",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "You did not purchase any whole grains. Whole grains are important for digestive health and help maintain steady blood sugar levels. Consider including whole grain products such as whole grain bread or brown rice.",
+            "dairy_score": "0",
+            "dairy_score_label": "Needs Improvement",
+            "dairy_explanation": "You did not include dairy in your basket. Dairy provides calcium and vitamin D, essential for bone and teeth health. Consider adding milk, yogurt, or fortified plant-based dairy alternatives next time.",
+            "protein_score": "10",
+            "protein_score_label": "Great",
+            "protein_explanation": "You had a great score due to choices like Great Value Frozen Raw Small Peeled & Deveined, Tail-off Shrimp. Proteins are crucial for muscle repair and growth, and seafood provides healthy fats.",
+            "fattyacids_score": "10",
+            "fattyacids_score_label": "Great",
+            "fattyacids_explanation": "Your choice to include Great Value Vegetable Oil and Blue Bonnet Original Vegetable Oil Spread Sticks resulted in a high score. Fatty acids, especially omega-3s, have been shown to improve heart health by reducing the risk of cardiovascular diseases. Keep it up!"
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "10",
+            "refinedgrains_score_label": "Great",
+            "refinedgrains_explanation": "You chose items with minimal refined grains. Refined grains, such as white rice, white flour, and many types of pasta and bread, are lower in fiber and nutrients. Keep replacing them with whole grains like brown rice, quinoa, or whole wheat pasta for better nutritional benefits.",
+            "sodium_score": "9.06",
+            "sodium_score_label": "Great",
+            "sodium_explanation": "Despite purchasing some sodium-rich items, you maintained an overall great score. Reducing sodium helps prevent high blood pressure and supports heart health. Keep making mindful choices!",
+            "addedsugars_score": "10",
+            "addedsugars_score_label": "Great",
+            "addedsugars_explanation": "You chose items with minimal added sugars such as Blue Bonnet Original Vegetable Oil Spread Sticks. This is beneficial, as high added sugar intake can contribute to weight gain and dental problems. Keep it up!",
+            "saturatedfats_score": "4.05",
+            "saturatedfats_score_label": "Moderate",
+            "saturatedfats_explanation": "Your score was moderate because Great Value Cream Cheese Brick contributed. Saturated fats can increase cholesterol levels and should be consumed in moderation. Next week, try more lean proteins and healthy fats."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Ocean Spray Cran-Grape Cranberry Grape Juice Drink contributed to negative sodium and added sugars scores. Next week try opting for Ocean Spray Pure Unsweetened Cranberry Juice for a healthier option with less sugar.",
+            "food_to_substitute1": "Ocean Spray Cran-Grape Cranberry Grape Juice Drink",
+            "recommendation2": "Fresh Mini Cucumbers were not included this time but adding them next time can help increase your vegetable intake for higher nutrition.",
+            "food_to_substitute2": "Fresh Mini Cucumbers",
+            "recommendation3": "Great Value Cream Cheese Brick contributed to negative saturated fat scores. Next week try Nut Butters like almond or peanut butter for a healthier alternative.",
+            "food_to_substitute3": "Great Value Cream Cheese Brick"
+        }
+    ]
+}

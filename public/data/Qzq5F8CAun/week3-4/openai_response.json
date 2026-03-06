@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Marketside Fresh Organic Bananas",
+            "good_choice_reason1": "provide an excellent source of vitamins and minerals, essential for maintaining a healthy body and boosting your daily nutrition",
+            "good_choice_item2": "Fresh Green Bell Pepper",
+            "good_choice_reason2": "are packed with essential nutrients and play a crucial role in maintaining a healthy diet",
+            "good_choice_item3": "Great Value 100% Whole Wheat Round Top Bread",
+            "good_choice_reason3": "provide vital fiber and help in maintaining a healthy digestive system"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Great work! You made great progress with your goal to increase vegetable intake. This was due to your purchase of Fresh Broccoli Crowns, which provided a rich source of vitamins and fiber, aligning well with your goal.",
+                    "feedback_items": "Fresh Broccoli Crowns"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Great Value 2% Reduced Fat Milk, which didn\u2019t contribute much to your goal of reducing added sugar, as reduced-fat milk can contain naturally occurring sugars.",
+                    "feedback_items": "Great Value 2% Reduced Fat Milk"
+                },
+                {
+                    "feedback_text": "Great work on reducing sodium! The Fresh Cauliflower contributed to this goal as it is naturally low in sodium, helping you stay on track.",
+                    "feedback_items": "Fresh Cauliflower"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "75/100",
+            "fruits_score": "10/10",
+            "fruits_score_label": "Great",
+            "fruits_explanation": "Your purchase of Fresh Gala Apples and Fresh Mandarin Oranges contributed significantly as they are excellent whole fruit choices. Fruits are essential for providing vitamins, minerals, and fiber, contributing positively to your overall health. Keep up the great work!",
+            "vegetables_score": "5/10",
+            "vegetables_score_label": "Moderate",
+            "vegetables_explanation": "While you included Fresh Broccoli Crowns and Fresh Green Bell Pepper in your purchases, the lack of dark green vegetables and beans led to a moderate score. Vegetables are high in essential vitamins and minerals and low in calories, supporting overall health. Try to include more greens and beans next time.",
+            "grains_score": "10/10",
+            "grains_score_label": "Great",
+            "grains_explanation": "The inclusion of Great Value 100% Whole Wheat Round Top Bread ensured a high score here. Whole grains provide more fiber and nutrients compared to refined grains and help in maintaining heart health. Keep it up!",
+            "dairy_score": "10/10",
+            "dairy_score_label": "Great",
+            "dairy_explanation": "Great Value 2% Reduced Fat Milk was a key contributor. Dairy products provide a rich source of calcium, which is vital for maintaining strong bones and teeth. Good job!",
+            "protein_score": "0/10",
+            "protein_score_label": "Needs Improvement",
+            "protein_explanation": "It seems there were no protein-rich foods like seafood, nuts, or seeds in your basket this week. Proteins are crucial for building and repairing tissues and are an important part of our diet. Consider adding some protein sources next time.",
+            "fattyacids_score": "0/10",
+            "fattyacids_score_label": "Needs Improvement",
+            "fattyacids_explanation": "Great Value 2% Reduced Fat Milk was the contributor, but options for fatty fish or other high omega-3 sources would enhance this category. Fatty acids, especially omega-3s, improve heart health by reducing the risk of cardiovascular diseases. Aim to add more sources next week."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "10/10",
+            "refinedgrains_score_label": "Great",
+            "refinedgrains_explanation": "You did not have refined grains in your basket this week, which contributed to a perfect score. Replacing refined grains with whole grains offers more fiber and nutrients, beneficial to your health. Fantastic!",
+            "sodium_score": "10/10",
+            "sodium_score_label": "Great",
+            "sodium_explanation": "Great work! Fresh Cauliflower was a wise choice as it is naturally low in sodium. Managing sodium is crucial for maintaining healthy blood pressure levels.",
+            "addedsugars_score": "10/10",
+            "addedsugars_score_label": "Great",
+            "addedsugars_explanation": "Great Value 100% Whole Wheat Round Top Bread assisted in keeping added sugars low. This is beneficial, as high added sugar intake can contribute to weight gain and dental problems. Keep it up!",
+            "saturatedfats_score": "10/10",
+            "saturatedfats_score_label": "Great",
+            "saturatedfats_explanation": "Great Value 2% Reduced Fat Milk contains some fats, but your choices kept saturated fats in check, which supports cardiovascular health. Keep choosing low-fat and healthy options!"
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Great Value 2% Reduced Fat Milk contributed to a negative Protein component. Next week, try incorporating nuts or seeds, like almonds or chia seeds, to enhance your protein intake.",
+            "food_to_substitute1": "Great Value 2% Reduced Fat Milk",
+            "recommendation2": "Great Value 2% Reduced Fat Milk contributed to a negative Fatty Acids score. Next week, try to include some salmon or flaxseeds, which are rich in omega-3 fatty acids.",
+            "food_to_substitute2": "Great Value 2% Reduced Fat Milk",
+            "recommendation3": "Marketside Organic Baby Spinach Salad contributed to a moderate Vegetables score. Next week, try incorporating legumes like chickpeas or lentils, which provide a boost in this category.",
+            "food_to_substitute3": "Marketside Organic Baby Spinach Salad"
+        }
+    ]
+}

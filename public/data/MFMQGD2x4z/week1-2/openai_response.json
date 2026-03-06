@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Fresh Granny Smith Apples",
+            "good_choice_reason1": "contribute to a perfect score in the Fruits category, providing essential vitamins and fiber",
+            "good_choice_item2": "Marketside Spring Mix Salad Blend",
+            "good_choice_reason2": "significantly improve your Vegetable score, adding a variety of essential nutrients and vitamins",
+            "good_choice_item3": "Country Crock Original Vegetable Oil Spread",
+            "good_choice_reason3": "contribute to a perfect score in the Fatty Acids category, which supports heart health"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "to reduce added sugar, reduce sodium, and increase vegetable intake",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Great work! You made great progress with increasing vegetable intake. This was due to your purchase of Marketside Spring Mix Salad Blend, which is rich in essential vitamins and minerals.",
+                    "feedback_items": "Marketside Spring Mix Salad Blend"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Great Value Honey, which didn\u2019t contribute to your goal of reducing added sugars because it is a significant source of additional sugars.",
+                    "feedback_items": "Great Value Honey"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Great Value Frozen Peeled Tail on Extra Large Shrimp, which didn\u2019t contribute to your goal of reducing sodium because it has a relatively high sodium content.",
+                    "feedback_items": "Great Value Frozen Peeled Tail on Extra Large Shrimp"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "77.93 / 100",
+            "fruits_score": "10/10",
+            "fruits_score_label": "Great",
+            "fruits_explanation": "The inclusion of items like Fresh Granny Smith Apples helped you achieve a perfect score. Fruits are essential for providing vitamins, minerals, and fiber. Keep it up!",
+            "vegetables_score": "9.09/10",
+            "vegetables_score_label": "Great",
+            "vegetables_explanation": "You had a great score due to Marketside Spring Mix Salad Blend and other vegetables. Vegetables are great to include in your diet as they are high in essential vitamins and minerals and low in calories, supporting overall health. Keep it up!",
+            "grains_score": "2.74/10",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "Triscuit Cracked Pepper & Olive Oil Whole Grain Wheat Crackers contributed to your Whole Grains score. However, an overall low whole grain intake indicated a need for improvement. Whole grains are beneficial because they provide more fiber and nutrients than refined grains. Try incorporating more whole grains next time!",
+            "dairy_score": "1.94/10",
+            "dairy_score_label": "Needs Improvement",
+            "dairy_explanation": "Great Value Original Vanilla Lowfat Yogurt contributed to your dairy score, but it's quite low. Dairy foods provide essential nutrients like calcium and vitamin D, crucial for bone health. Consider including more diverse dairy products for a higher score.",
+            "protein_score": "10/10",
+            "protein_score_label": "Great",
+            "protein_explanation": "Perfect protein scores, thanks to meals like Bumble Bee Chunk Light Tuna in Water and StarKist Chunk Light Tuna in Water. High-quality protein supports muscle and tissue health. Well done!",
+            "fattyacids_score": "10/10",
+            "fattyacids_score_label": "Great",
+            "fattyacids_explanation": "The use of Country Crock Original Vegetable Oil Spread ensured a high score here. Fatty acids, especially omega-3s, can improve heart health. Keep up the great work!"
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "6.25/10",
+            "refinedgrains_score_label": "Moderate",
+            "refinedgrains_explanation": "You had a moderate amount of refined grains, such as in Thomas' Cinnamon Swirl Bagels. Refined grains, such as white rice and many types of pasta, are lower in fiber and nutrients. Replacing them with whole grains offers better nutritional benefits.",
+            "sodium_score": "8.53/10",
+            "sodium_score_label": "Moderate",
+            "sodium_explanation": "Sodium levels are relatively well-managed, though Great Value Frozen Peeled Tail on Extra Large Shrimp added some sodium. Moderating sodium is important for maintaining healthy blood pressure. Continue monitoring intake!",
+            "addedsugars_score": "9.39/10",
+            "addedsugars_score_label": "Great",
+            "addedsugars_explanation": "Despite the presence of Great Value Honey, you did well in keeping added sugars low. High added sugar intake can contribute to weight gain and dental problems. Keep it up!",
+            "saturatedfats_score": "10/10",
+            "saturatedfats_score_label": "Great",
+            "saturatedfats_explanation": "The inclusion of products like Vienna Beef Chicago's Hot Dog Franks helped in maintaining low saturated fat levels. High saturated fat intake can increase cholesterol levels and risk of heart disease. Maintain this balance!"
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Great Value Honey contributed to negative added sugars. Next week try using fresh fruits as natural sweeteners to strengthen your score by adding natural sweetness.",
+            "food_to_substitute1": "Great Value Honey",
+            "recommendation2": "Triscuit Cracked Pepper & Olive Oil Whole Grain Wheat Crackers contributed to negative whole grains. Next week try quinoa or brown rice to strengthen your grain score.",
+            "food_to_substitute2": "Triscuit Cracked Pepper & Olive Oil Whole Grain Wheat Crackers",
+            "recommendation3": "Great Value Frozen Peeled Tail on Extra Large Shrimp contributed to negative sodium. Next week try fresh salmon or unsalted canned tuna to reduce sodium and still maintain healthy protein intake.",
+            "food_to_substitute3": "Great Value Frozen Peeled Tail on Extra Large Shrimp"
+        }
+    ]
+}

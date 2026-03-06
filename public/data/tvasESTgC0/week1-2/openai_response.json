@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Fresh Strawberries",
+            "good_choice_reason1": "provide vitamins C and antioxidants, which are beneficial for the immune system",
+            "good_choice_item2": "Fresh Navel Orange",
+            "good_choice_reason2": "offer vitamin C, fiber, and essential nutrients",
+            "good_choice_item3": "Great Value Frozen Raw Medium Peeled Deveined Tail-on Shrimp",
+            "good_choice_reason3": "are high in protein and low in fat, which supports a balanced diet"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake",
+            "goal_feedback": [
+                {
+                    "feedback_text": "You purchased Hershey's Caramel Topping which didn\u2019t contribute to your goal of reducing added sugars because it contains high levels of sugar.",
+                    "feedback_items": "Hershey's Caramel Topping"
+                },
+                {
+                    "feedback_text": "You purchased Great Value French-Style Green Beans, Gluten-Free which didn\u2019t contribute to your goal of reducing sodium because it contains high levels of sodium.",
+                    "feedback_items": "Great Value French-Style Green Beans, Gluten-Free"
+                },
+                {
+                    "feedback_text": "You made progress in increasing vegetable intake due to your purchases of Freshness Guaranteed French Steak Rolls, which provided some vegetable content like carrots in this meal.",
+                    "feedback_items": "Freshness Guaranteed French Steak Rolls"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "46.64",
+            "fruits_score": "10",
+            "fruits_score_label": "Great",
+            "fruits_explanation": "Fresh Strawberries and Fresh Navel Orange were in your basket. Fruits are essential for providing vitamins, minerals, and fiber. Keep up the great fruit consumption!",
+            "vegetables_score": "3.95",
+            "vegetables_score_label": "Moderate",
+            "vegetables_explanation": "You had a moderate score with Great Value French-Style Green Beans, Gluten-Free and Fresh Baby-Cut Carrots. Vegetables are great to include in your diet as they are high in essential vitamins and minerals and low in calories, supporting overall health. Keep including a variety of vegetables!",
+            "grains_score": "0.45",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "Quaker Life Breakfast Cereal, Cinnamon contributed. Whole grains are important for fiber, B vitamins, and various essential minerals. Try opting for more whole grains next time.",
+            "dairy_score": "3.14",
+            "dairy_score_label": "Moderate",
+            "dairy_explanation": "The inclusion of Great Value Finely Shredded Colby Jack Cheese contributed. Dairy products provide calcium, protein, and additional important nutrients. Aim for more varied dairy options like yogurt or milk.",
+            "protein_score": "10",
+            "protein_score_label": "Great",
+            "protein_explanation": "Great Value Frozen Raw Medium Peeled Deveined Tail-on Shrimp contributed to a perfect score. Total Protein includes essential amino acids necessary for muscle health and body structure support. Keep up the great consumption of healthy proteins!",
+            "fattyacids_score": "0",
+            "fattyacids_score_label": "Needs Improvement",
+            "fattyacids_explanation": "Bob Evans Original Pork Sausage Patties led to a low score. Fatty acids, especially omega-3s, improve heart health by reducing the risk of cardiovascular diseases. Consider including seafood or plant-based oils."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "6.63",
+            "refinedgrains_score_label": "Moderate",
+            "refinedgrains_explanation": "You had a high amount of refined grains in your basket this week such as Freshness Guaranteed French Steak Rolls. Refined grains are lower in fiber and nutrients, and they can cause spikes in blood sugar.",
+            "sodium_score": "4.27",
+            "sodium_score_label": "Needs Improvement",
+            "sodium_explanation": "Great Value French-Style Green Beans, Gluten-Free contributed to high sodium. High sodium intake can lead to high blood pressure and cardiovascular issues. Try choosing fresh or low-sodium options.",
+            "addedsugars_score": "8.21",
+            "addedsugars_score_label": "Moderate",
+            "addedsugars_explanation": "Products like Hershey's Caramel Topping lead to a moderate score. It's important to reduce added sugars to minimize the risk of weight gain and dental problems.",
+            "saturatedfats_score": "0",
+            "saturatedfats_score_label": "Needs Improvement",
+            "saturatedfats_explanation": "Prego Alfredo Sauce with Roasted Garlic and Parmesan Cheese contributed to a low score. High saturated fat intake can lead to increased cholesterol levels and heart disease. Opt for sauces or products with reduced fat content to improve heart health."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Next week try products like Greek yogurt with fresh fruit instead of sugary toppings to fulfill your sweet tooth with fewer added sugars.",
+            "food_to_substitute1": "Hershey's Caramel Topping",
+            "recommendation2": "Next week try choosing fresh or frozen vegetables without added salt or sauces for a healthier option.",
+            "food_to_substitute2": "Great Value French-Style Green Beans, Gluten-Free",
+            "recommendation3": "Next week try marinara or vegetable-based sauces which are typically lower in saturated fats and higher in nutrients.",
+            "food_to_substitute3": "Prego Alfredo Sauce with Roasted Garlic and Parmesan Cheese"
+        }
+    ]
+}

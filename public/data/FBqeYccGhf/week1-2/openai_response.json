@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Sun Chips Harvest Cheddar",
+            "good_choice_reason1": "contributed to your high whole grains score",
+            "good_choice_item2": "Van Camp's Pork And Beans",
+            "good_choice_reason2": "provided a good source of protein, including plant-based protein",
+            "good_choice_item3": "Marketside Premium Romaine Salad Blend",
+            "good_choice_reason3": "increased your vegetable intake, especially dark green vegetables"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reducing added sugar, reducing sodium, and increasing vegetable intake",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Great work! You made great progress with increasing your vegetable intake. This was due to your purchases of Marketside Premium Romaine Salad Blend, which provided valuable nutrients and fiber from dark green vegetables.",
+                    "feedback_items": "Marketside Premium Romaine Salad Blend"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased HORMEL Chili, No Beans which didn\u2019t contribute to your goal of reducing sodium because it contains a high amount of sodium.",
+                    "feedback_items": "HORMEL Chili"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased the ICEE Cherry Blue Raspberry Tube which didn\u2019t contribute to your goal of reducing added sugar because it contains significant added sugars.",
+                    "feedback_items": "ICEE Cherry Blue Raspberry Tube"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "50.52",
+            "fruits_score": "3.12",
+            "fruits_score_label": "Needs Improvement",
+            "fruits_explanation": "You did not have whole fruits, and the inclusion of Mott's No Sugar Added Vacation Vibes Applesauce Variety Pack wasn\u2019t enough to boost your fruit score. Consuming more whole fruits is important for fiber and nutrient intake. Try getting more whole fruits next time!",
+            "vegetables_score": "9.42",
+            "vegetables_score_label": "Great",
+            "vegetables_explanation": "You had a great score due to Marketside Premium Romaine Salad Blend and Del Monte Sweet Peas. Vegetables are high in essential vitamins and minerals and low in calories, supporting overall health. Keep it up!",
+            "grains_score": "7.15",
+            "grains_score_label": "Great",
+            "grains_explanation": "Sun Chips 100% Whole Grain Harvest Cheddar Flavored Multigrain Snacks and other multigrain snacks contributed positively. Whole grains provide essential fiber and nutrients, which are beneficial for digestive health and can reduce the risk of chronic diseases.",
+            "dairy_score": "6.0",
+            "dairy_score_label": "Moderate",
+            "dairy_explanation": "Your dairy score was supported by Great Value Melt'n Dip Easy Melt Cheese. Dairy is an excellent source of calcium, which is crucial for healthy bone development and maintenance.",
+            "protein_score": "8.12",
+            "protein_score_label": "Great",
+            "protein_explanation": "Your protein score was high due to Van Camp's Pork And Beans In Tomato Sauce. Consuming varied sources of protein, including plant-based ones, supports muscle growth and repair.",
+            "fattyacids_score": "0",
+            "fattyacids_score_label": "Needs Improvement",
+            "fattyacids_explanation": "You had a low score this week due to items like Velveeta Original Melting Cheese Dip & Sauce. Omega-3 fatty acids improve heart health. Try getting more foods rich in omega-3s like salmon and flaxseeds next week."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "3.7",
+            "refinedgrains_score_label": "Needs Improvement",
+            "refinedgrains_explanation": "You had a high amount of refined grains in your basket this week such as La Banderita Yellow Corn Tortilla. Refined grains are lower in fiber and nutrients. Replace them with whole grains for better nutritional benefits.",
+            "sodium_score": "4.46",
+            "sodium_score_label": "Needs Improvement",
+            "sodium_explanation": "Sodium levels were high mainly due to HORMEL Chili, No Beans. High sodium intake can increase blood pressure. Aim to purchase low-sodium options.",
+            "addedsugars_score": "8.54",
+            "addedsugars_score_label": "Great",
+            "addedsugars_explanation": "You chose items with minimal added sugars such as ICEE Cherry Blue Raspberry Tube. This is beneficial, as high added sugar intake can contribute to weight gain and dental problems. Keep it up!",
+            "saturatedfats_score": "0",
+            "saturatedfats_score_label": "Needs Improvement",
+            "saturatedfats_explanation": "Your saturated fat score was low due to choices like Great Value Sweet Cream Salted Butter Twin Pack. Reducing saturated fats can help maintain heart health. Try incorporating more unsaturated fats."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "The Velveeta Original Melting Cheese Dip & Sauce contributed to a negative Fatty Acid score. Next week try avocados or olive oil to strengthen this score.",
+            "food_to_substitute1": "Velveeta Original Melting Cheese Dip",
+            "recommendation2": "La Banderita Yellow Corn Tortilla contributed to negative Refined Grains. Next week try whole grain tortillas to strengthen the score.",
+            "food_to_substitute2": "La Banderita Yellow Corn Tortilla",
+            "recommendation3": "Great Value Sweet Cream Salted Butter Twin Pack contributed to negative Saturated Fat. Next week try nut butters like almond or peanut butter to strengthen the score.",
+            "food_to_substitute3": "Great Value Sweet Cream Salted Butter Twin Pack"
+        }
+    ]
+}

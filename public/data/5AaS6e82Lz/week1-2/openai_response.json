@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Great Value Fiesta Blend Cheese",
+            "good_choice_reason1": "contribute to achieving a perfect score in the Dairy category, showing your focus on a nutrient-rich component",
+            "good_choice_item2": "Almond Breeze Unsweetened Vanilla Almond Milk",
+            "good_choice_reason2": "add to your dairy intake without contributing to added sugars or saturated fats",
+            "good_choice_item3": "Fresh Iceberg Lettuce",
+            "good_choice_reason3": "help in increasing vegetable intake, aligning with your goal for more vegetables"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Great work! You made great progress with increasing vegetable intake. This was due to your inclusion of Fresh Iceberg Lettuce, which is a nutritious addition to your meals.",
+                    "feedback_items": "Fresh Iceberg Lettuce"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Jumex Mango and Peach Nectar from Concentrate, which didn\u2019t contribute to your goal of reducing added sugar because it had high added sugar content.",
+                    "feedback_items": "Jumex Mango and Peach Nectar from Concentrate"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Hillshire Farm Ultra Thin Sliced Honey Roasted Turkey Breast Deli Lunch Meat, which didn\u2019t contribute to your goal of reducing sodium due to its high sodium content.",
+                    "feedback_items": "Hillshire Farm Ultra Thin Sliced Honey Roasted Turkey Breast Deli Lunch Meat"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "44.64 / 100",
+            "fruits_score": "6.28",
+            "fruits_score_label": "Moderate",
+            "fruits_explanation": "The presence of Jumex Mango and Peach Nectar from Concentrate contributed to this score. While fruit juice adds to fruit intake, whole fruits offer more fiber and nutrients. Fruits are essential for providing vitamins, minerals, and fiber. Try getting more whole fruits next time!",
+            "vegetables_score": "3.5",
+            "vegetables_score_label": "Moderate",
+            "vegetables_explanation": "You had a reasonable score due to Fresh Iceberg Lettuce and Fresh Roma Tomato, but there was a lack of greens and beans. Vegetables are great for providing essential nutrients and maintaining a healthy diet. Adding a wider variety of vegetables can improve this score.",
+            "grains_score": "0",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "There was no inclusion of whole grains. Whole grains are important as they contain more fiber and nutrients compared to refined grains. Consider adding whole grains for better health benefits.",
+            "dairy_score": "10",
+            "dairy_score_label": "Great",
+            "dairy_explanation": "Great Value Finely Shredded Fiesta Blend Cheese and Almond Breeze Unsweetened Vanilla Almond Milk contributed to your dairy intake. Dairy products are a good source of calcium and vitamin D. Keep up the great work!",
+            "protein_score": "5.66",
+            "protein_score_label": "Moderate",
+            "protein_explanation": "While Hillshire Farm Ultra Thin Sliced Honey Roasted Turkey Breast Deli Lunch Meat contributed to the protein intake, little seafood and plant proteins were included. Include more plant-based proteins for a balanced diet.",
+            "fattyacids_score": "0",
+            "fattyacids_score_label": "Needs Improvement",
+            "fattyacids_explanation": "There was a lack of foods rich in healthy fatty acids. Fatty acids, especially omega-3s, have been shown to improve heart health by reducing the risk of cardiovascular diseases. Consider incorporating foods high in omega-3s next week."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "10",
+            "refinedgrains_score_label": "Great",
+            "refinedgrains_explanation": "You had a high amount of refined grains in your basket this week such as Rice-A-Roni Rice & Pasta Mix, Mexican Style. Refined grains are lower in fiber and nutrients. Replace them with whole grains like brown rice for better benefits.",
+            "sodium_score": "7.74",
+            "sodium_score_label": "Moderate",
+            "sodium_explanation": "The sodium score was reasonable due to Hillshire Farm Ultra Thin Sliced Honey Roasted Turkey Breast Deli Lunch Meat. Reducing sodium is crucial for maintaining cardiovascular health. Aim to decrease sodium intake next week.",
+            "addedsugars_score": "1.46",
+            "addedsugars_score_label": "Needs Improvement",
+            "addedsugars_explanation": "Jumex Mango and Peach Nectar from Concentrate contributed to higher added sugars. High added sugar intake can contribute to health issues. Limit high-sugar food and beverages next week.",
+            "saturatedfats_score": "0",
+            "saturatedfats_score_label": "Needs Improvement",
+            "saturatedfats_explanation": "Saturated fats were high due to items like Daisy Pure and Natural Squeeze Sour Cream. Excessive saturated fat can lead to heart issues. Opt for reduced-fat options next time."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Jumex Mango and Peach Nectar from Concentrate contributed to negative Added Sugars. Next week try fresh fruits like apples or berries to strengthen your score.",
+            "food_to_substitute1": "Jumex Mango and Peach Nectar from Concentrate",
+            "recommendation2": "Hillshire Farm Ultra Thin Sliced Honey Roasted Turkey Breast Deli Lunch Meat contributed to negative Sodium. Next week try fresh turkey breast which is typically lower in sodium.",
+            "food_to_substitute2": "Hillshire Farm Ultra Thin Sliced Honey Roasted Turkey Breast Deli Lunch Meat",
+            "recommendation3": "Daisy Pure and Natural Squeeze Sour Cream contributed to negative Saturated Fats. Next week try Greek yogurt as a substitute, which is lower in saturated fats.",
+            "food_to_substitute3": "Daisy Pure and Natural Squeeze Sour Cream"
+        }
+    ]
+}

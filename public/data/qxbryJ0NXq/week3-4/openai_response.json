@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Fresh Gala Apples",
+            "good_choice_reason1": "provide essential vitamins and fiber",
+            "good_choice_item2": "Great Value Greek Plain Nonfat Yogurt",
+            "good_choice_reason2": "boost your dairy score",
+            "good_choice_item3": "Great Value Black Beans",
+            "good_choice_reason3": "contribute to the protein HEI score"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Hawaiian Punch Lemonade Juice which didn\u2019t contribute to your goal of reducing added sugar because it is high in added sugars.",
+                    "feedback_items": "Hawaiian Punch Lemonade Juice"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Kraft House Italian Lite Salad Dressing which didn\u2019t contribute to your goal of reducing sodium because it contains a notable amount of sodium.",
+                    "feedback_items": "Kraft House Italian Lite Salad Dressing"
+                },
+                {
+                    "feedback_text": "Great work! You made great progress with increasing vegetable intake. This was due to your purchases of Fresh Roma Tomato because it added to your vegetable intake significantly.",
+                    "feedback_items": "Fresh Roma Tomato"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "85.96 / 100",
+            "fruits_score": "10",
+            "fruits_score_label": "Great",
+            "fruits_explanation": "Including Fresh Gala Apples and Great Value 100% Orange Juice boosted your fruit score. Fruits provide essential vitamins, minerals, and dietary fiber that are vital for maintaining overall health. Keep balancing the intake of whole fruits and juices.",
+            "vegetables_score": "10",
+            "vegetables_score_label": "Great",
+            "vegetables_explanation": "You had a great score due to Fresh Roma Tomato and Great Value Cut Green Beans. Vegetables are high in essential vitamins and minerals while being low in calories, supporting overall health. Keep it up!",
+            "grains_score": "5.17",
+            "grains_score_label": "Moderate",
+            "grains_explanation": "You included Quaker Quick 1 Minute Oats, contributing to your whole grain score. Whole grains contain more fiber and nutrients than refined grains, which can aid in digestion and reduce the risk of chronic diseases. Try to increase your whole grain purchases next week.",
+            "dairy_score": "8.05",
+            "dairy_score_label": "Great",
+            "dairy_explanation": "The inclusion of Great Value 2% Reduced Fat Milk and Great Value Greek Plain Nonfat Yogurt helped achieve a high dairy score. Dairy provides essential nutrients like calcium and vitamin D that are important for bone health. Nice work!",
+            "protein_score": "10",
+            "protein_score_label": "Great",
+            "protein_explanation": "You had a great score due to Perdue Harvestland Fresh Ground Turkey and Great Value Black Beans. Protein foods are important for body repair and growth. Great job incorporating diverse proteins!",
+            "fattyacids_score": "6.53",
+            "fattyacids_score_label": "Moderate",
+            "fattyacids_explanation": "You did well with Great Value Reduced Fat Mayonnaise with Olive Oil. Fatty acids, especially omega-3s, improve heart health and reduce cardiovascular disease risks. Try to include more sources like fish or nuts next week."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "10",
+            "refinedgrains_score_label": "Great",
+            "refinedgrains_explanation": "You had a high intake of refined grains with minimal items like Minute Instant White Rice. Though not harmful in small amounts, frequent refined grains consumption can lead to spikes in blood sugar levels. Continue balancing with whole grains.",
+            "sodium_score": "6.49",
+            "sodium_score_label": "Moderate",
+            "sodium_explanation": "The use of products like Kraft House Italian Lite Salad Dressing contributed to a moderate sodium score. High sodium intake can lead to increased blood pressure. Opt for low-sodium options when possible.",
+            "addedsugars_score": "10",
+            "addedsugars_score_label": "Great",
+            "addedsugars_explanation": "You chose items with minimal added sugars like Great Value 1% Milkfat Small Curd Lowfat Cottage Cheese, which is beneficial since high added sugar intake can contribute to weight gain and dental problems. Keep it up!",
+            "saturatedfats_score": "9.73",
+            "saturatedfats_score_label": "Great",
+            "saturatedfats_explanation": "You maintained a low saturated fat intake, evidenced by products like Land O Lakes Salted Stick Butter in moderation. Lower saturated fat reduces the risk of heart diseases. Good job!"
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Hawaiian Punch Lemonade Juice contributed to a negative added sugars score. Next week try water flavored with fresh fruit slices to manage sugar intake.",
+            "food_to_substitute1": "Hawaiian Punch Lemonade Juice",
+            "recommendation2": "Kraft House Italian Lite Salad Dressing contributed to a negative sodium score. Next week try homemade dressing with olive oil and vinegar to keep sodium levels in check.",
+            "food_to_substitute2": "Kraft House Italian Lite Salad Dressing",
+            "recommendation3": "Minute Instant White Rice contributed to negative whole grains scores. Next week try brown rice or quinoa to increase your whole grain intake.",
+            "food_to_substitute3": "Minute Instant White Rice"
+        }
+    ]
+}

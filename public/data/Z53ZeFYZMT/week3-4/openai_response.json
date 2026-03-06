@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Fresh Blueberries",
+            "good_choice_reason1": "it's rich in antioxidants and vitamins that contribute to overall health and a high fruit component score",
+            "good_choice_item2": "Fresh Romaine Lettuce Hearts",
+            "good_choice_reason2": "they are packed with vitamins and fiber, leading to an excellent score in the vegetables component",
+            "good_choice_item3": "Tyson All Natural, Fresh, Boneless, Skinless Chicken Breasts",
+            "good_choice_reason3": "it provides a lean protein source, contributing to a full score in protein foods"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake.",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Great work! You made great progress with increasing vegetable intake. This was due to your purchases of Fresh Romaine Lettuce Hearts because they provided a significant boost to your vegetable score.",
+                    "feedback_items": "Fresh Romaine Lettuce Hearts"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased SAPJACK Grade A Golden Maple Syrup which didn\u2019t contribute to your goal of reducing added sugar because it contains high levels of sugar.",
+                    "feedback_items": "SAPJACK Grade A Golden Maple Syrup"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Great Value Zucchini Blend which didn\u2019t contribute to your goal of reducing sodium because it has a relatively high sodium content.",
+                    "feedback_items": "Great Value Zucchini Blend"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "73.33",
+            "fruits_score": "3.97",
+            "fruits_score_label": "Moderate",
+            "fruits_explanation": "Fresh Blueberries had a positive impact on your score. Including more whole fruits instead of primarily juices is beneficial because whole fruits contain more fiber and nutrients. Fruits are essential for providing vitamins, minerals, and fiber. Try getting more whole fruits next time!",
+            "vegetables_score": "10",
+            "vegetables_score_label": "Great",
+            "vegetables_explanation": "You had a great score due to Fresh Romaine Lettuce Hearts and Birds Eye Teriyaki Stir Fry Veggies and Sauce. Vegetables are great to include in your diet as they are high in essential vitamins and minerals and low in calories, supporting overall health. Keep it up!",
+            "grains_score": "6.59",
+            "grains_score_label": "Moderate",
+            "grains_explanation": "Kodiak Protein-Packed Buttermilk and Vanilla Power Waffles contributed to your whole grains score, but there is room to increase your whole grain intake. Whole grains are a great source of fiber and help with maintaining energy levels. Consider including more whole grain options.",
+            "dairy_score": "5.1",
+            "dairy_score_label": "Moderate",
+            "dairy_explanation": "Great Value Whole Vitamin D Milk contributed to your dairy score, but there is room for improvement. Dairy provides calcium and vitamin D, which are essential for bone health. Try incorporating a variety of dairy products like yogurt and cheese.",
+            "protein_score": "10",
+            "protein_score_label": "Great",
+            "protein_explanation": "You had a perfect score due to Tyson All Natural, Fresh, Boneless, Skinless Chicken Breasts and Marketside Organic Grass-Fed Ground Beef. Protein is important for building and repairing tissues and is essential for maintaining muscle mass. Excellent job!",
+            "fattyacids_score": "6.41",
+            "fattyacids_score_label": "Moderate",
+            "fattyacids_explanation": "You had a moderate score due to Freshness Guaranteed Chunky Guacamole which provided healthy fats. Fatty acids, especially omega-3s, have been shown to improve heart health by reducing the risk of cardiovascular diseases. Keep choosing sources of healthy fats."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "10",
+            "refinedgrains_score_label": "Great",
+            "refinedgrains_explanation": "You minimized your intake of refined grains, which is commendable. Refined grains can cause spikes in blood sugar as they are lower in fiber and nutrients. Keep it up!",
+            "sodium_score": "3.82",
+            "sodium_score_label": "Needs Improvement",
+            "sodium_explanation": "You had high sodium products, such as the Great Value Zucchini Blend. High sodium intake can lead to increased blood pressure and heart issues. Reduce processed and packaged foods to manage sodium levels better.",
+            "addedsugars_score": "9.3",
+            "addedsugars_score_label": "Great",
+            "addedsugars_explanation": "You chose items with minimal added sugars such as Kashi Breakfast Cereal, Organic, Whole Grain, Blueberry Clusters. This is beneficial, as high added sugar intake can contribute to weight gain and dental problems. Keep it up!",
+            "saturatedfats_score": "5.29",
+            "saturatedfats_score_label": "Moderate",
+            "saturatedfats_explanation": "Marketside Organic Grass-Fed Ground Beef was a significant source of saturated fats. Reducing saturated fat intake can help maintain heart health and lower cholesterol levels. Opt for leaner cuts of meat or plant-based proteins."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "SAPJACK Grade A Golden Maple Syrup contributed to negative Added Sugars. Next week try fresh fruits like apples or pears to satisfy sweet cravings naturally.",
+            "food_to_substitute1": "SAPJACK Grade A Golden Maple Syrup",
+            "recommendation2": "Great Value Zucchini Blend contributed to negative Sodium. Next week try using fresh or lower sodium canned vegetables to reduce sodium levels.",
+            "food_to_substitute2": "Great Value Zucchini Blend",
+            "recommendation3": "Marketside Organic Grass-Fed Ground Beef contributed to negative Saturated Fats. Next week try leaner meats such as turkey or incorporate plant-based proteins like lentils.",
+            "food_to_substitute3": "Marketside Organic Grass-Fed Ground Beef"
+        }
+    ]
+}

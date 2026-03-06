@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Fresh Banana",
+            "good_choice_reason1": "provide essential potassium and fiber",
+            "good_choice_item2": "Fresh Orange Bell Pepper",
+            "good_choice_reason2": "be high in vitamin C and add vibrant color to meals",
+            "good_choice_item3": "Jimmy Dean Fully Cooked Turkey Sausage Links",
+            "good_choice_reason3": "provide a significant source of protein"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Great work! You made great progress with increasing vegetable intake. This was due to your purchases of Fresh Orange Bell Pepper and Fresh Red Bell Pepper because they contribute valuable vitamins and minerals to your diet.",
+                    "feedback_items": "Fresh Orange Bell Pepper"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Great Value Wild Strawberry Drink Mix which didn\u2019t contribute to your goal of reducing added sugar because it contained significant added sugars that could be reduced.",
+                    "feedback_items": "Great Value Wild Strawberry Drink Mix"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Jimmy Dean Fully Cooked Turkey Sausage Links which didn\u2019t contribute to your goal of reducing sodium because it contained higher sodium levels than alternatives.",
+                    "feedback_items": "Jimmy Dean Fully Cooked Turkey Sausage Links"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "46.43 / 100",
+            "fruits_score": "10/10",
+            "fruits_score_label": "Great",
+            "fruits_explanation": "Your basket included Fresh Banana, which provided a healthy dose of vitamins, fiber, and minerals. Fruits are essential for providing vitamins, minerals, and fiber. Keep it up!",
+            "vegetables_score": "10/10",
+            "vegetables_score_label": "Great",
+            "vegetables_explanation": "You had a great score due to Fresh Orange Bell Pepper, Fresh Red Bell Pepper, and Hunt's Fire Roasted Diced Tomatoes with Garlic. Vegetables are great to include in your diet as they are high in essential vitamins and minerals and low in calories, supporting overall health. Keep it up!",
+            "grains_score": "0.9/10",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "Your score was low as there were minimal whole grains such as the Pepperidge Farm Sweet Hawaiian Hot Dog Buns. Whole grains provide more fiber and nutrients than refined grains and help maintain a healthy weight. Try incorporating more whole grains like oatmeal, brown rice, or whole-grain bread next time.",
+            "dairy_score": "0.29/10",
+            "dairy_score_label": "Needs Improvement",
+            "dairy_explanation": "The Patti Labelle Peach Apple Cobbler contributed to dairy intake, but you scored low probably due to its sweet content rather than dairy benefits. Dairy is important for calcium and vitamin D, which support bone health. Consider adding more low-fat dairy options like yogurt or milk next time.",
+            "protein_score": "10/10",
+            "protein_score_label": "Great",
+            "protein_explanation": "You leaned on Jimmy Dean Fully Cooked Turkey Sausage Links and Bush's Dark Red Kidney Beans for a good variety of protein sources in your diet. Protein is vital for muscle repair and immune function. Great job!",
+            "fattyacids_score": "0/10",
+            "fattyacids_score_label": "Needs Improvement",
+            "fattyacids_explanation": "You had a low score in fatty acids, influenced by items like Johnsonville Smoked Beef Bratwurst. Fatty acids, especially omega-3s, have been shown to improve heart health by reducing the risk of cardiovascular diseases. Try adding more oily fish like salmon or flaxseeds next week."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "3.25/10",
+            "refinedgrains_score_label": "Needs Improvement",
+            "refinedgrains_explanation": "There was a high amount of refined grains in your basket this week such as Thomas' Plain Bagels and others. Refined grains, such as white rice, white flour, and many types of pasta and bread are lower in fiber and nutrients, and they can cause spikes in blood sugar. Replace them with whole grains like brown rice, quinoa, or whole wheat pasta next week for better nutritional benefits.",
+            "sodium_score": "5.81/10",
+            "sodium_score_label": "Moderate",
+            "sodium_explanation": "Jimmy Dean Fully Cooked Turkey Sausage Links contributed significantly to your sodium scores. High sodium intake can increase blood pressure, a risk factor for heart disease. Reducing processed and packaged foods could help.",
+            "addedsugars_score": "6.17/10",
+            "addedsugars_score_label": "Moderate",
+            "addedsugars_explanation": "You had moderate added sugars from items such as the Great Value Wild Strawberry Drink Mix. This is beneficial, as high added sugar intake can contribute to weight gain and dental problems. Try to keep it up with more foods without added sugars.",
+            "saturatedfats_score": "0/10",
+            "saturatedfats_score_label": "Needs Improvement",
+            "saturatedfats_explanation": "High saturated fat content from items like Daisy Pure and Natural Squeeze Sour Cream influenced your score. Minimizing saturated fat benefits heart health by lowering cholesterol levels. Consider replacing it with healthy fats from nuts, seeds, and avocados."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Great Value Wild Strawberry Drink Mix contributed to negative Added Sugars. Next week, try swapping with unsweetened tea or water infused with fresh fruits for a healthier option.",
+            "food_to_substitute1": "Great Value Wild Strawberry Drink Mix",
+            "recommendation2": "Thomas' Plain Bagels contributed to negative Refined Grains. Next week, try whole grain or sprouted grain bagels as an alternative.",
+            "food_to_substitute2": "Thomas' Plain Bagels",
+            "recommendation3": "Daisy Pure and Natural Squeeze Sour Cream contributed to negative Saturated Fats. Next week, try Greek yogurt as a creamy substitute for lower saturated fat content.",
+            "food_to_substitute3": "Daisy Pure and Natural Squeeze Sour Cream"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Great Value Frozen Broccoli Florets",
+            "good_choice_reason1": "contribute to your vegetable intake with a high level of dark green vegetables.",
+            "good_choice_item2": "Great Value Large White Eggs",
+            "good_choice_reason2": "provide a high-quality source of protein.",
+            "good_choice_item3": "Great Value Frozen Orange Juice",
+            "good_choice_reason3": "add to your fruit intake, especially with its rich vitamin C content."
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar; reduce sodium; increase vegetable intake.",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Great Value Sweet Brewed Iced Tea, which didn\u2019t contribute to your goal of reducing added sugar because it contains pre-sweetened sugar.",
+                    "feedback_items": "Great Value Sweet Brewed Iced Tea"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Great Value Sweet Gherkins, which didn\u2019t contribute to your goal of reducing sodium because pickles are high in sodium.",
+                    "feedback_items": "Great Value Sweet Gherkins"
+                },
+                {
+                    "feedback_text": "Great work! You made great progress with increasing vegetable intake. This was due to your purchase of the Great Value Frozen Broccoli Florets because they are rich in essential vitamins and minerals.",
+                    "feedback_items": "Great Value Frozen Broccoli Florets"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "34.77 / 100",
+            "fruits_score": "1.53/10",
+            "fruits_score_label": "Needs Improvement",
+            "fruits_explanation": "The inclusion of Great Value Frozen Orange Juice was beneficial for fruits, but there were no whole fruits that could increase your fiber and nutrient intake. Whole fruits are essential for providing vitamins, minerals, and fiber. Try getting more whole fruits next time.",
+            "vegetables_score": "6.06/10",
+            "vegetables_score_label": "Moderate",
+            "vegetables_explanation": "You had a decent score due to Great Value Frozen Broccoli Florets. Including a variety of vegetables is excellent as they are low in calories but high in vitamins and minerals, supporting overall health. Keep increasing your vegetable variety!",
+            "grains_score": "0/10",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "There were no whole grains in your purchases this time. Whole grains are helpful in achieving better digestive health and reducing heart disease risk. Consider adding whole grains like brown rice or whole wheat bread.",
+            "dairy_score": "1.88/10",
+            "dairy_score_label": "Needs Improvement",
+            "dairy_explanation": "Your score was low possibly due to only including Great Value Greek Vanilla Nonfat Yogurt. Dairy foods provide key nutrients like calcium and vitamin D, important for bone health. Try incorporating more diverse dairy products.",
+            "protein_score": "5.06/10",
+            "protein_score_label": "Moderate",
+            "protein_explanation": "You maintained a protein component score with Great Value Large White Eggs. Including seafood and plant proteins would further enhance this score, offering a range of health benefits like improved cardiovascular health. Enhance your protein variety by including different protein sources.",
+            "fattyacids_score": "0.66/10",
+            "fattyacids_score_label": "Needs Improvement",
+            "fattyacids_explanation": "Low score due to Great Value Hickory Smoked Bacon. Fatty acids, especially omega-3s, have been shown to improve heart health by reducing the risk of cardiovascular diseases. Try getting more fish or plant-based fat sources next week."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "9.22/10",
+            "refinedgrains_score_label": "Great",
+            "refinedgrains_explanation": "You had a high presence of refined grains with products like Great Value White Sandwich Bread. While this score is high, refined grains are low in fiber and nutrients. They can cause spikes in blood sugar. Replace them with whole grains.",
+            "sodium_score": "0.03/10",
+            "sodium_score_label": "Needs Improvement",
+            "sodium_explanation": "A low score due to high-sodium products like Great Value Sweet Gherkins. High sodium intake can raise blood pressure and increase the risk of heart disease. Try reducing high-sodium snacks and processed foods.",
+            "addedsugars_score": "9.16/10",
+            "addedsugars_score_label": "Needs Improvement",
+            "addedsugars_explanation": "Your basket included items like Great Value Sweet Brewed Iced Tea, which led to a high intake of added sugars. Excess sugars can contribute to weight gain and dental issues. Aim to reduce drinks with added sugars.",
+            "saturatedfats_score": "0/10",
+            "saturatedfats_score_label": "Needs Improvement",
+            "saturatedfats_explanation": "Due to items like Great Value Original Snack Meat Sticks, saturated fats are high in your diet. Such fats can lead to increased cholesterol levels and should be moderated. Opt for leaner cuts of meat or plant-based protein."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Great Value Sweet Brewed Iced Tea contributed to the negative Added Sugars score. Next week, try sourcing unsweetened iced tea or making your own with fresh lemons.",
+            "food_to_substitute1": "Great Value Sweet Brewed Iced Tea",
+            "recommendation2": "Great Value Sweet Gherkins contributed to the negative Sodium score. Next week, try fresh cucumbers or low-sodium pickles to maintain flavor with less salt.",
+            "food_to_substitute2": "Great Value Sweet Gherkins",
+            "recommendation3": "Great Value White Sandwich Bread contributed to a negative Whole Grains score. Next week try 100% whole wheat bread to boost your intake of fiber and nutrients.",
+            "food_to_substitute3": "Great Value White Sandwich Bread"
+        }
+    ]
+}

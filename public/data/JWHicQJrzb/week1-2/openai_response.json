@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Fresh Strawberries",
+            "good_choice_reason1": "are high in vitamin C and fiber, contributing significantly to your fruit component score.",
+            "good_choice_item2": "Freshness Guaranteed Sliced White Mushrooms",
+            "good_choice_reason2": "added essential vitamins and minerals like selenium and potassium, contributing to a high vegetable component score.",
+            "good_choice_item3": "Wonderful Pistachios",
+            "good_choice_reason3": "provided healthy fats, fiber, and protein, which helped contribute to your protein and fatty acid scores."
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake.",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Great work! You made great progress with increasing vegetable intake. This was due to your purchases of Freshness Guaranteed Sliced White Mushrooms because they are rich in nutrients and added to your vegetable component score.",
+                    "feedback_items": "Freshness Guaranteed Sliced White Mushrooms"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Milo's Lemonade Juice Drink, which didn\u2019t contribute to your goal of reducing added sugar because it contains high sugar levels.",
+                    "feedback_items": "Milo's Lemonade Juice Drink"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Great Value Mesquite Smoked Turkey Breast Lunchmeat, which didn\u2019t contribute to your goal of reducing sodium because it contains high sodium levels.",
+                    "feedback_items": "Great Value Mesquite Smoked Turkey Breast Lunchmeat"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "62.58/100",
+            "fruits_score": "10/10",
+            "fruits_score_label": "Great",
+            "fruits_explanation": "Your selection of Fresh Strawberries and Marketside Pineapple contributed to a strong fruit intake, offering essential vitamins and fiber. Fruits are essential for providing vitamins, minerals, and fiber. Keep including a variety of fruits in your diet!",
+            "vegetables_score": "10/10",
+            "vegetables_score_label": "Great",
+            "vegetables_explanation": "Freshness Guaranteed Sliced White Mushrooms and Fresh Green Cabbage led to a high score. Vegetables are great to include in your diet as they are high in essential vitamins and minerals and low in calories, supporting overall health. Keep it up!",
+            "grains_score": "2.89/10",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "Though you chose SunChips Minis Garden Salsa, a whole grain, more whole grains could be included for better variety and nutritional balance. Whole grains are important as they provide more fiber and nutrients compared to refined grains. Try including more whole grains next time!",
+            "dairy_score": "4.19/10",
+            "dairy_score_label": "Moderate",
+            "dairy_explanation": "Kraft Singles American Cheese Slices contributed to the dairy score. Dairy is important for bone health because it\u2019s rich in calcium. Consider choosing lower-fat dairy options to improve your score next time.",
+            "protein_score": "7.89/10",
+            "protein_score_label": "Moderate",
+            "protein_explanation": "Items like Great Value Mesquite Smoked Turkey Breast Lunchmeat contributed to the protein score. Achieving a variety of protein sources, including plant-based proteins, can offer balanced nutrition. Try some plant-based proteins like beans or lentils.",
+            "fattyacids_score": "0.72/10",
+            "fattyacids_score_label": "Needs Improvement",
+            "fattyacids_explanation": "The score was low. Fatty acids, especially omega-3s, have been shown to improve heart health by reducing the risk of cardiovascular diseases. Consider choosing fatty fish or flaxseeds next time."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "10/10",
+            "refinedgrains_score_label": "Great",
+            "refinedgrains_explanation": "You did not choose many refined grains, which contributed positively to your score. Refined grains are typically lower in nutrients and can cause spikes in blood sugar; it's beneficial to limit them in favor of whole grains. Keep it up!",
+            "sodium_score": "8.17/10",
+            "sodium_score_label": "Moderate",
+            "sodium_explanation": "The score was moderate due to items like Great Value Mesquite Smoked Turkey Breast Lunchmeat, which are high in sodium. High sodium levels can lead to high blood pressure, so try to opt for lower sodium alternatives.",
+            "addedsugars_score": "4.85/10",
+            "addedsugars_score_label": "Moderate",
+            "addedsugars_explanation": "Milo's Lemonade Juice Drink contributed to higher added sugar levels. While moderate, reducing added sugars is crucial as excessive intake can lead to weight gain and dental problems.",
+            "saturatedfats_score": "3.87/10",
+            "saturatedfats_score_label": "Needs Improvement",
+            "saturatedfats_explanation": "Products like Kraft Singles American Cheese Slices added to your saturated fat levels. High saturated fat intake can increase the risk of heart disease. Limiting these is beneficial to heart health."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Milo's Lemonade Juice Drink contributed to negative added sugars. Next week try including more whole fruits like apples or oranges, which satisfy a sweet tooth with natural sugars.",
+            "food_to_substitute1": "Milo's Lemonade Juice Drink",
+            "recommendation2": "Great Value Mesquite Smoked Turkey Breast Lunchmeat contributed to negative sodium intake. Next week try turkey breast or chicken breast without added salts.",
+            "food_to_substitute2": "Great Value Mesquite Smoked Turkey Breast Lunchmeat",
+            "recommendation3": "Kraft Singles American Cheese Slices contributed to negative saturated fats. Next week try choosing lower-fat cheese options or plant-based cheeses.",
+            "food_to_substitute3": "Kraft Singles American Cheese Slices"
+        }
+    ]
+}

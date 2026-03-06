@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Concord Foods Lemon Juice",
+            "good_choice_reason1": "provide a concentrated source of Vitamin C without added sugars, contributing positively to your fruit score.",
+            "good_choice_item2": "Fresh Whole Brown Mushrooms",
+            "good_choice_reason2": "be low in calories and high in essential nutrients, which helped boost your vegetable score.",
+            "good_choice_item3": "Great Value 100% Whole Wheat & Honey Bread Loaf",
+            "good_choice_reason3": "include whole grains, which are rich in fiber and beneficial for digestive health."
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake.",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Great work! You made great progress with reducing added sugar. Your purchase of Great Value Cranberry Pineapple Juice Cocktail contributed minimal added sugars because it's a smarter choice compared to sugary sodas.",
+                    "feedback_items": "Great Value Cranberry Pineapple Juice Cocktail"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals for reducing sodium. You purchased Great Value Thin Sliced Black Forest Ham Lunchmeat, which is high in sodium, thus not supporting your goal.",
+                    "feedback_items": "Great Value Thin Sliced Black Forest Ham Lunchmeat"
+                },
+                {
+                    "feedback_text": "Great work! You made great progress with increasing vegetable intake. This was due to your purchases of Fresh Whole Brown Mushrooms, which added a nutrient-rich vegetable to your meals.",
+                    "feedback_items": "Fresh Whole Brown Mushrooms"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "56.71/100",
+            "fruits_score": "10/10",
+            "fruits_score_label": "Great",
+            "fruits_explanation": "The inclusion of Concord Foods Lemon Juice and other whole fruits added to your fruit score, providing you with essential vitamins like Vitamin C that support immune health. Keep up the good work!",
+            "vegetables_score": "10/10",
+            "vegetables_score_label": "Great",
+            "vegetables_explanation": "Fresh choices like Fresh Whole Brown Mushrooms and various other vegetables were great additions. Vegetables are high in essential nutrients and low in calories, supporting overall health. Keep it up!",
+            "grains_score": "2.25/10",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "The low whole grains score was due to limited purchases like Great Value 100% Whole Wheat & Honey Bread Loaf, while white breads may have dominated. Whole grains provide fiber, iron, and B vitamins. Try incorporating more whole grains next time!",
+            "dairy_score": "2.05/10",
+            "dairy_score_label": "Needs Improvement",
+            "dairy_explanation": "Limited dairy choices, like Great Value Whole Vitamin D Milk, contributed to the low score. Dairy products are good sources of calcium and vitamin D, supporting bone health. Try incorporating more low-fat or fat-free dairy products.",
+            "protein_score": "5.03/10",
+            "protein_score_label": "Moderate",
+            "protein_explanation": "High intake of Great Value Thin Sliced Black Forest Ham Lunchmeat, which contributed elementally but could improve by adding more seafood or plant proteins like beans for a balanced intake. Protein is essential for muscle growth and overall bodily function.",
+            "fattyacids_score": "0.54/10",
+            "fattyacids_score_label": "Needs Improvement",
+            "fattyacids_explanation": "Limited sources rich in omega-3s, such as Small Hass Avocados, resulted in a low score. Fatty acids, particularly omega-3s, are vital for heart health. Try incorporating more fatty fish and nuts next time."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "9.91/10",
+            "refinedgrains_score_label": "Great",
+            "refinedgrains_explanation": "Your selection included minimal refined grains like Guerrero Caseras Flour Tortillas, Fajita Size, 20 Count, indicating a well-balanced intake. Keep it up!",
+            "sodium_score": "6.93/10",
+            "sodium_score_label": "Moderate",
+            "sodium_explanation": "Great Value Thin Sliced Black Forest Ham Lunchmeat contributed to moderate sodium levels. It's important to monitor sodium intake as excess can lead to hypertension. Consider alternative products with lower sodium next week.",
+            "addedsugars_score": "10/10",
+            "addedsugars_score_label": "Great",
+            "addedsugars_explanation": "You chose items with minimal added sugars, such as Great Value Cranberry Pineapple Juice Cocktail. This is beneficial for preventing weight gain and maintaining dental health. Keep it up!",
+            "saturatedfats_score": "0/10",
+            "saturatedfats_score_label": "Needs Improvement",
+            "saturatedfats_explanation": "High saturated fats like in Great Value Original Sour Cream contributed to a low score. High saturated fat intake can increase the risk of cardiovascular diseases. Opt for low-fat dairy products to improve this score."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Great Value Original Sour Cream contributed to negative saturated fats. Next week try Greek Yogurt as a healthier alternative that is lower in saturated fat.",
+            "food_to_substitute1": "Great Value Original Sour Cream",
+            "recommendation2": "Guerrero Caseras Flour Tortillas, Fajita Size, 20 Count contributed to negative whole grains. Next week try Whole Wheat Tortillas to increase fiber and whole grain intake.",
+            "food_to_substitute2": "Guerrero Caseras Flour Tortillas",
+            "recommendation3": "Great Value Thin Sliced Black Forest Ham Lunchmeat contributed to negative sodium. Next week try Low-Sodium Turkey Breast as it can help achieve your sodium reduction goals.",
+            "food_to_substitute3": "Great Value Thin Sliced Black Forest Ham Lunchmeat"
+        }
+    ]
+}

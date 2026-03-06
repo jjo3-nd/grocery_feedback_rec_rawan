@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Fresh Cosmic Crisp Apples",
+            "good_choice_reason1": "contribute to a high whole fruit intake, providing essential vitamins and fiber",
+            "good_choice_item2": "Great Value 2% Reduced Fat Milk",
+            "good_choice_reason2": "contribute to a perfect score in the dairy category, supplying calcium and vitamin D for strong bones",
+            "good_choice_item3": "Sara Lee Honey Wheat Bread",
+            "good_choice_reason3": "help increase your whole grain intake, which is rich in fiber and essential nutrients"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Great work! You made progress with reducing added sugar. This was due to your choice of Fresh Cosmic Crisp Apples, which have natural sugars rather than added sugars.",
+                    "feedback_items": "Fresh Cosmic Crisp Apples"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Great Value Medium Soft Taco Flour Tortillas, which didn\u2019t contribute to your goal of reducing sodium because they contain a significant amount of sodium.",
+                    "feedback_items": "Great Value Medium Soft Taco Flour Tortillas"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. Home Run Inn Classic Crust Uncured Pepperoni Pizza didn\u2019t contribute to your goal of increasing vegetable intake as it contained minimal vegetables.",
+                    "feedback_items": "Home Run Inn Classic Crust Uncured Pepperoni Pizza"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "40.62 / 100",
+            "fruits_score": "7.91/10",
+            "fruits_score_label": "Great",
+            "fruits_explanation": "The purchase of Fresh Cosmic Crisp Apples was beneficial in achieving a high fruit score. Fruits are essential for providing vitamins, minerals, and fiber. Keep it up!",
+            "vegetables_score": "0.28/10",
+            "vegetables_score_label": "Needs Improvement",
+            "vegetables_explanation": "You didn\u2019t have enough vegetables, leading to a low score. The small amount provided by Home Run Inn Classic Crust Uncured Pepperoni Pizza was not sufficient. Vegetables are great for overall health due to their high nutrient and fiber content. Try including more varied vegetables next time!",
+            "grains_score": "4.52/10",
+            "grains_score_label": "Moderate",
+            "grains_explanation": "While Sara Lee Honey Wheat Bread helped improve your grain score due to its whole grain content, refined grains such as those in other products did not support a higher score. Whole grains are important as they provide more fiber and nutrients compared to refined grains. Consider increasing whole grain products to boost this score.",
+            "dairy_score": "10/10",
+            "dairy_score_label": "Great",
+            "dairy_explanation": "Great Value 2% Reduced Fat Milk and other dairy products contributed to the perfect score in this category. Dairy is important as it provides calcium and vitamin D for bone health. Keep up the good work!",
+            "protein_score": "3.14/10",
+            "protein_score_label": "Needs Improvement",
+            "protein_explanation": "Your score was low because most protein consumption came from Smucker\u2019s Uncrustables Peanut Butter & Grape Jelly Sandwiches, which is not diverse enough in plant proteins or seafood. Protein is vital for muscle and tissue maintenance. Try including a more varied protein intake next week.",
+            "fattyacids_score": "0/10",
+            "fattyacids_score_label": "Needs Improvement",
+            "fattyacids_explanation": "The selection of products like Doritos Nacho Cheese Tortilla Snack Chips did not provide the necessary healthy fatty acids. Fatty acids, especially omega-3s, are important for heart health. Aim for foods that are rich in omega-3 fatty acids."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "0/10",
+            "refinedgrains_score_label": "Great",
+            "refinedgrains_explanation": "Your minimal selection of refined grains contributed positively to your score, keeping refined grains low is beneficial for maintaining stable blood sugar levels.",
+            "sodium_score": "8.09/10",
+            "sodium_score_label": "Great",
+            "sodium_explanation": "Great Value Medium Soft Taco Flour Tortillas and other choices handled sodium well, but try to keep mindful to not exceed this level in the future. High sodium intake can lead to increased blood pressure and is not recommended.",
+            "addedsugars_score": "5.77/10",
+            "addedsugars_score_label": "Moderate",
+            "addedsugars_explanation": "Though your choice of Fresh Cosmic Crisp Apples accounted for natural sugars, consider reducing products with added sugars next time. High added sugar intake can contribute to weight gain and dental problems.",
+            "saturatedfats_score": "0.9/10",
+            "saturatedfats_score_label": "Needs Improvement",
+            "saturatedfats_explanation": "Items like Great Value Colby & Monterey Jack Cheese Sticks contributed to a higher saturated fat intake. High saturated fat can lead to increased cholesterol levels, so aim to choose options lower in saturated fat next week."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Great Value Medium Soft Taco Flour Tortillas contributed to negative sodium levels. Next week, try Mission Whole Wheat Tortillas for lower sodium content.",
+            "food_to_substitute1": "Great Value Medium Soft Taco Flour Tortillas",
+            "recommendation2": "Doritos Nacho Cheese Tortilla Snack Chips impacted your fatty acid score. Next week, consider Blue Diamond Almonds to improve healthy fatty acid intake.",
+            "food_to_substitute2": "Doritos Nacho Cheese Tortilla Snack Chips",
+            "recommendation3": "Great Value Colby & Monterey Jack Cheese Sticks led to a high saturated fat score. Next week, substitute with Laughing Cow Light Cheese Wedges to lower saturated fat consumption.",
+            "food_to_substitute3": "Great Value Colby & Monterey Jack Cheese Sticks"
+        }
+    ]
+}

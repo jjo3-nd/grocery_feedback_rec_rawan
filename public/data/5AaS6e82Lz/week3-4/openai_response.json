@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Fresh Strawberries",
+            "good_choice_reason1": "it's rich in vitamins C and fiber, making it excellent for your overall health",
+            "good_choice_item2": "Marketside Spring Mix Salad Blend",
+            "good_choice_reason2": "it's packed with a variety of nutrients and fiber along with greens which are great for your diet",
+            "good_choice_item3": "Fresh Blueberries",
+            "good_choice_reason3": "they are high in antioxidants, which can support heart health and overall wellness"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake.",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Outshine Strawberry Frozen Fruit Bars which didn\u2019t contribute to your goal of reducing added sugar because they contain added sugars.",
+                    "feedback_items": "Outshine Strawberry Frozen Fruit Bars"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Hillshire Farm Ultra Thin Sliced Honey Roasted Turkey Breast which didn\u2019t contribute to your goal of reducing sodium because it's high in sodium.",
+                    "feedback_items": "Hillshire Farm Ultra Thin Sliced Honey Roasted Turkey Breast"
+                },
+                {
+                    "feedback_text": "Great work! You made great progress with increasing vegetable intake. This was due to your purchases of Marketside Spring Mix Salad Blend because it includes a variety of greens, contributing positively to your health.",
+                    "feedback_items": "Marketside Spring Mix Salad Blend"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "59.54",
+            "fruits_score": "10",
+            "fruits_score_label": "Great",
+            "fruits_explanation": "Your fruit selection was excellent, including items like Fresh Strawberries. Fruits are essential for providing vitamins, minerals, and fiber. Keep up the great work!",
+            "vegetables_score": "10",
+            "vegetables_score_label": "Great",
+            "vegetables_explanation": "You had a great score due to Marketside Spring Mix Salad Blend, Fresh Green Bell Pepper, and Fresh Broccoli Crowns. Vegetables are great to include in your diet as they are high in essential vitamins and minerals and low in calories, supporting overall health. Keep it up!",
+            "grains_score": "0.6",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "This week, there was a lack of whole grains in your basket. Including whole grains is beneficial as they contain more fiber and nutrients which are great for your digestive health and can aid in long-term weight management. Try getting more whole grains next time!",
+            "dairy_score": "5.56",
+            "dairy_score_label": "Moderate",
+            "dairy_explanation": "Your score is moderate due to products like Great Value Whole Vitamin D Milk. Dairy is important for maintaining bone health as it contains calcium and vitamin D. Consider including low-fat options to increase your score.",
+            "protein_score": "10",
+            "protein_score_label": "Great",
+            "protein_explanation": "Fantastic score with protein foods like StarKist Chunk Light Tuna in Water. Proteins are crucial for muscle building and repairing tissues. Keep it up!",
+            "fattyacids_score": "0",
+            "fattyacids_score_label": "Needs Improvement",
+            "fattyacids_explanation": "You had a low score this week due to a lack of foods rich in Omega-3 fatty acids. Fatty acids, especially omega-3s, have been shown to improve heart health by reducing the risk of cardiovascular diseases. Try getting more fatty fish like salmon next week."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "10",
+            "refinedgrains_score_label": "Great",
+            "refinedgrains_explanation": "You had the perfect amount of refined grains this week with items like Aunt Millie's Deli Mini Sub Buns. Consider moderation efforts even in high scores for long-term healthfulness. Keep monitoring your intake!",
+            "sodium_score": "3.38",
+            "sodium_score_label": "Moderate",
+            "sodium_explanation": "Your choices included Hillshire Farm Ultra Thin Sliced Honey Roasted Turkey Breast, which contributed to a high sodium level. High sodium can lead to blood pressure issues. Aim to choose lower-sodium options next time to improve this score.",
+            "addedsugars_score": "10",
+            "addedsugars_score_label": "Great",
+            "addedsugars_explanation": "You chose items with minimal added sugars such as Outshine Strawberry Frozen Fruit Bars. This is beneficial, as high added sugar intake can contribute to weight gain and dental problems. Keep it up!",
+            "saturatedfats_score": "0",
+            "saturatedfats_score_label": "Needs Improvement",
+            "saturatedfats_explanation": "You had a high intake of saturated fats due to Great Value Sweet Cream Unsalted Butter. It's important to limit saturated fats to maintain heart health. Try using healthier fats like olive oil next time."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Outshine Strawberry Frozen Fruit Bars contributed to negative added sugars score. Next week try fresh fruits like apples or pears that are naturally sweet and don\u2019t have added sugars.",
+            "food_to_substitute1": "Outshine Strawberry Frozen Fruit Bars",
+            "recommendation2": "Hillshire Farm Ultra Thin Sliced Honey Roasted Turkey Breast contributed to negative sodium score. Next week try reducing processed meats and opting for fresh chicken breasts or turkey.",
+            "food_to_substitute2": "Hillshire Farm Ultra Thin Sliced Honey Roasted Turkey Breast",
+            "recommendation3": "Great Value Sweet Cream Unsalted Butter contributed to negative saturated fats score. Next week try using plant-based spread or olive oil for cooking.",
+            "food_to_substitute3": "Great Value Sweet Cream Unsalted Butter"
+        }
+    ]
+}

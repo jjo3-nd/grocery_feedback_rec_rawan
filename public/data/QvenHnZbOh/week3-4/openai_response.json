@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Fresh Seedless Watermelon",
+            "good_choice_reason1": "provide hydration and vitamins like vitamin C and A",
+            "good_choice_item2": "Fresh Zucchini Squash",
+            "good_choice_reason2": "contain healthy fats and provide dietary fiber",
+            "good_choice_item3": "Fresh Strawberries",
+            "good_choice_reason3": "pack vitamin C for immune support"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Great work! You made great progress with increasing your vegetable intake. This was due to your purchases of Cucumber bulk hm because it is a low-calorie, hydrating vegetable that adds bulk and fiber to your diet.",
+                    "feedback_items": "Cucumber bulk hm"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Coca-Cola Classic Soda Pop and Pepsi Cola Soda Pop, which didn\u2019t contribute to your goal of reducing added sugar because they are high in added sugars.",
+                    "feedback_items": "Coca-Cola Classic Soda Pop"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Great Value Tomato Sauce, which didn\u2019t contribute to your goal of reducing sodium because it contains a significant amount of sodium per serving.",
+                    "feedback_items": "Great Value Tomato Sauce"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "50.44 / 100",
+            "fruits_score": "10",
+            "fruits_score_label": "Great",
+            "fruits_explanation": "You included a variety of fruits such as Fresh Seedless Watermelon and Fresh Strawberries, contributing positively to your fruit intake. Fruits are essential for providing vitamins, minerals, and fiber. Keep up the good work!",
+            "vegetables_score": "5",
+            "vegetables_score_label": "Moderate",
+            "vegetables_explanation": "You had a moderate score due to Cucumber bulk hm and Fresh Whole Carrots. Vegetables are great to include in your diet as they are high in essential vitamins and minerals and low in calories, supporting overall health. Try including a variety of vegetables, especially dark green and red/orange ones, next time.",
+            "grains_score": "0",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "You did not have any whole grain products in your basket. Whole grains are important as they contain more nutrients and fiber compared to refined grains, supporting heart health and digestion. Consider adding whole grains like brown rice or whole wheat bread to your shopping list.",
+            "dairy_score": "3.62",
+            "dairy_score_label": "Moderate",
+            "dairy_explanation": "You had a moderate score due to Great Value 1% Low-Fat Milk. Dairy products supply calcium and vitamin D for bone health. Consider choosing a variety of dairy options or dairy alternatives to meet daily recommendations.",
+            "protein_score": "0.33",
+            "protein_score_label": "Needs Improvement",
+            "protein_explanation": "This score was due to the protein content in Freshness Guaranteed Madeleines Cookies. Consuming a variety of protein sources is beneficial for muscle health and metabolism. Consider adding lean meats, eggs, legumes, or plant-based proteins.",
+            "fattyacids_score": "4.06",
+            "fattyacids_score_label": "Needs Improvement",
+            "fattyacids_explanation": "Your score was low; although Fresh Zucchini Squash contributed to this component, it was not enough. Fatty acids, especially omega-3s, have been shown to improve heart health by reducing the risk of cardiovascular diseases. Try including food rich in omega-3 fatty acids, like nuts or fish."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "7.26",
+            "refinedgrains_score_label": "Moderate",
+            "refinedgrains_explanation": "You had a high amount of refined grains in your basket this week such as Sunbeam Giant White Bread Loaf. Refined grains, such as white rice, white flour, and many types of pasta and bread are lower in fiber and nutrients, and they can cause spikes in blood sugar. Replace them with whole grains like brown rice, quinoa, or whole wheat pasta next week for better nutritional benefits.",
+            "sodium_score": "7.11",
+            "sodium_score_label": "Moderate",
+            "sodium_explanation": "You need improvement here due to Great Value Tomato Sauce. While you mostly stayed within moderation, it's important to reduce sodium intake to maintain healthy blood pressure.",
+            "addedsugars_score": "3.16",
+            "addedsugars_score_label": "Needs Improvement",
+            "addedsugars_explanation": "Your low score was due to high-sugar items, especially Coca-Cola Classic Soda Pop and Pepsi Cola Soda Pop. High added sugar intake can contribute to weight gain and dental problems. Reducing sugary drinks is a great way to lower sugar intake.",
+            "saturatedfats_score": "9.91",
+            "saturatedfats_score_label": "Great",
+            "saturatedfats_explanation": "You kept your saturated fat intake low, primarily due to moderation in high-saturated fat foods like Great Value Heavy Whipping Cream. This is beneficial because reducing saturated fats helps in heart health. Keep it up!"
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Coca-Cola Classic Soda Pop contributed to negative Added Sugars. Next week try unsweetened iced tea or sparkling water to strengthen the score.",
+            "food_to_substitute1": "Coca-Cola Classic Soda Pop",
+            "recommendation2": "Great Value Tomato Sauce contributed to negative Sodium. Next week try fresh tomato salsa or low-sodium tomato sauce to strengthen the score.",
+            "food_to_substitute2": "Great Value Tomato Sauce",
+            "recommendation3": "Sunbeam Giant White Bread Loaf contributed to negative Whole Grains. Next week try whole-grain bread to improve your grains score.",
+            "food_to_substitute3": "Sunbeam Giant White Bread Loaf"
+        }
+    ]
+}

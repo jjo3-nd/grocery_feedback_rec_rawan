@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Marketside Fresh Organic Bananas",
+            "good_choice_reason1": "provide essential vitamins and potassium, contributing to a balanced fruit intake",
+            "good_choice_item2": "Fresh Roma Tomato",
+            "good_choice_reason2": "are low in calories and provide a good source of Vitamin C and antioxidants, supporting a high score in the vegetable category",
+            "good_choice_item3": "Fresh Broccoli Crowns",
+            "good_choice_reason3": "is high in fiber and vitamins minerals, contributing to your vegetables and greens and beans components"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Great work! You made great progress with your goal to reduce added sugar. This was due to your purchases of foods with minimal added sugars like Fresh Zucchini Squash. This low presence of added sugars in your purchases helps support weight management and dental health.",
+                    "feedback_items": "Fresh Zucchini Squash"
+                },
+                {
+                    "feedback_text": "Great work! You made great progress with your goal to reduce sodium. This was due to choosing items like Fresh Cauliflower, which naturally has low sodium content and supports heart health.",
+                    "feedback_items": "Fresh Cauliflower"
+                },
+                {
+                    "feedback_text": "Great work! You made progress with your goal to increase vegetable intake. Your basket included a variety of vegetables like Fresh Iceberg Lettuce, which contributed to a strong score in the vegetable category, improving essential nutrient intake and dietary balance.",
+                    "feedback_items": "Fresh Iceberg Lettuce"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "67.17/100",
+            "fruits_score": "10/10",
+            "fruits_score_label": "Great!",
+            "fruits_explanation": "Your score here is perfect, mainly due to the purchase of Fresh Mandarin Oranges. Fruits are crucial for vitamins, minerals, and fiber. Keep up the excellent work!",
+            "vegetables_score": "10/10",
+            "vegetables_score_label": "Great!",
+            "vegetables_explanation": "This high score is supported by your purchase of Fresh Iceberg Lettuce. Vegetables are important for providing essential vitamins and minerals. Fantastic job maintaining variety and quantity!",
+            "grains_score": "0/10",
+            "grains_score_label": "Needs Improvement.",
+            "grains_explanation": "No whole grain items were purchased, contributing to this low score. Whole grains are important for fiber and maintaining energy levels. Try including some next week!",
+            "dairy_score": "0.91/10",
+            "dairy_score_label": "Needs Improvement.",
+            "dairy_explanation": "The limited dairy products in your purchase, such as Fresh Zucchini Squash, contributed to this low score. Dairy contributes calcium and vitamin D for bone health. Consider more dairy options in future shopping.",
+            "protein_score": "0.3/10",
+            "protein_score_label": "Needs Improvement.",
+            "protein_explanation": "Low scores in protein-related components indicate room for improvement. Protein-rich foods like seafood, beans, or nuts should be added.",
+            "fattyacids_score": "10/10",
+            "fattyacids_score_label": "Great!",
+            "fattyacids_explanation": "You've selected foods like RITZ Fresh Stacks Original Crackers that contributed to this perfect score. Balancing omega-3 and omega-6 fatty acids supports heart health and cognitive function. Well done!"
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "5.96/10",
+            "refinedgrains_score_label": "Moderate.",
+            "refinedgrains_explanation": "Your selection of Cheez-It Original Cheese Crackers contributed to your score. Moderating refined grain intake is beneficial for keeping blood sugar levels stable. Consider whole-grain options.",
+            "sodium_score": "10/10",
+            "sodium_score_label": "Great!",
+            "sodium_explanation": "Fresh Cauliflower significantly contributed to this high score, providing less sodium. Low sodium intake helps reduce the risk of hypertension. You are doing great here.",
+            "addedsugars_score": "10/10",
+            "addedsugars_score_label": "Great!",
+            "addedsugars_explanation": "Your choices did not significantly add unnecessary sugars, thanks to options like Fresh Zucchini Squash. Maintaining low added sugar helps in managing weight and maintaining dental health. Wonderful job!",
+            "saturatedfats_score": "10/10",
+            "saturatedfats_score_label": "Great!",
+            "saturatedfats_explanation": "Cheez-It Original Cheese Crackers was moderate in saturated fats, which is ideal. Keeping saturated fats low reduces heart disease risk. Excellent work!"
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Whole Grains contributed to negative Whole Grains score. Next week try incorporating more whole grain options like whole wheat bread or quinoa to improve this score.",
+            "food_to_substitute1": "whole wheat bread",
+            "recommendation2": "Dairy contributed to negative Dairy score. Consider purchasing low-fat milk or yogurt next time to boost your score in the Dairy category.",
+            "food_to_substitute2": "low-fat milk",
+            "recommendation3": "Total Protein contributed to negative Total Protein score. Try including seafood, beans, or a variety of nuts to enhance your protein intake for overall better dietary quality.",
+            "food_to_substitute3": "seafood"
+        }
+    ]
+}

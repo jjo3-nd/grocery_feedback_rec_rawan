@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Fresh Field Packed Blackberries",
+            "good_choice_reason1": "provide essential nutrients without added sugars",
+            "good_choice_item2": "Fresh Iceberg Lettuce",
+            "good_choice_reason2": "provide essential vitamins and minerals",
+            "good_choice_item3": "Organic Fresh Whole Carrots",
+            "good_choice_reason3": "provide antioxidants and contribute to vegetable intake"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake",
+            "goal_feedback": [
+                {
+                    "feedback_text": "You made progress with your goal to increase vegetable intake. This was due to your purchases of Fresh Iceberg Lettuce because it contributed significantly to your overall vegetable consumption.",
+                    "feedback_items": "Fresh Iceberg Lettuce"
+                },
+                {
+                    "feedback_text": "You purchased Nestle La Lechera Sweetened Condensed Milk which didn't contribute to your goal of reducing added sugar because it has a high sugar content.",
+                    "feedback_items": "Nestle La Lechera Sweetened Condensed Milk"
+                },
+                {
+                    "feedback_text": "You purchased Great Value Oven Roasted Turkey Breast Lunchmeat Mega Pack which didn't contribute to your goal of reducing sodium because it contains sodium in processed foods.",
+                    "feedback_items": "Great Value Oven Roasted Turkey Breast Lunchmeat Mega Pack"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "67.1/100",
+            "fruits_score": "10/10",
+            "fruits_score_label": "Great",
+            "fruits_explanation": "The inclusion of Fresh Field Packed Blackberries and Fresh Banana boosted your fruit score to a full 10. Fruits are essential for providing vitamins, minerals, and fiber, supporting overall health. Keep it up!",
+            "vegetables_score": "8.88/10",
+            "vegetables_score_label": "Great",
+            "vegetables_explanation": "You had a great score due to Fresh Iceberg Lettuce and Organic Fresh Whole Carrots. Vegetables are great to include in your diet as they are high in essential vitamins and minerals and low in calories, supporting overall health. Keep it up!",
+            "grains_score": "2.05/10",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "Cinnamon Chex Cereal contributed to the whole grains score, but the score is low. Whole grains provide more fiber and nutrients than refined grains, promoting heart health. Try incorporating more whole grain options!",
+            "dairy_score": "4.52/10",
+            "dairy_score_label": "Moderate",
+            "dairy_explanation": "Great Value Singles American Pasteurized Prepared Cheese Product contributed moderately to the dairy component. Dairy products are essential for bone health as they are rich in calcium and vitamin D. Consider including a variety of dairy products like yogurt or milk next time.",
+            "protein_score": "2.81/10",
+            "protein_score_label": "Moderate",
+            "protein_explanation": "Great Value Oven Roasted Turkey Breast Lunchmeat Mega Pack added to your total protein intake but didn't include Seafood or Plant Proteins. Including more plant-based proteins can help improve diet diversity and heart health. Try adding nuts, seeds, or beans next time!",
+            "fattyacids_score": "7.95/10",
+            "fattyacids_score_label": "Great",
+            "fattyacids_explanation": "Your high score was supported by Great Value Creamy Caesar Salad Dressing & Dip, which contains beneficial fats. Fatty acids, especially omega-3s, are important for heart health and inflammation reduction. Keep up the great choices!"
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "6.95/10",
+            "refinedgrains_score_label": "Moderate",
+            "refinedgrains_explanation": "Products like Sunbeam Giant White Bread Loaf contributed to a moderate level of refined grains. Limit refined grains, as they can raise blood sugar levels and contain fewer nutrients. Try substituting with whole grains for more benefits.",
+            "sodium_score": "8.67/10",
+            "sodium_score_label": "Great",
+            "sodium_explanation": "The high sodium content in Great Value Oven Roasted Turkey Breast Lunchmeat Mega Pack contributed to your sodium intake. Lower sodium intake by choosing fresh over processed options. Keep an eye on reducing these in future purchases.",
+            "addedsugars_score": "5.26/10",
+            "addedsugars_score_label": "Moderate",
+            "addedsugars_explanation": "Items like Nestle La Lechera Sweetened Condensed Milk contributed to moderate sugar levels. High added sugar intake can lead to health issues like weight gain. Opt for natural sweeteners or lower-sugar alternatives.",
+            "saturatedfats_score": "10/10",
+            "saturatedfats_score_label": "Great",
+            "saturatedfats_explanation": "You maintained a healthy level of saturated fats, with minimal contribution from high-fat items like Great Value Original Dairy Whipped Topping. Limiting saturated fat is key for heart health, so good job!"
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Nestle La Lechera Sweetened Condensed Milk contributed to negative Added Sugars. Next week try unsweetened yogurt or fresh fruit.",
+            "food_to_substitute1": "Nestle La Lechera Sweetened Condensed Milk",
+            "recommendation2": "Sunbeam Giant White Bread Loaf contributed to negative Refined Grains. Next week try whole grain bread or wraps.",
+            "food_to_substitute2": "Sunbeam Giant White Bread Loaf",
+            "recommendation3": "Great Value Oven Roasted Turkey Breast Lunchmeat Mega Pack contributed to negative Sodium. Next week try fresh turkey or chicken breast for lower sodium.",
+            "food_to_substitute3": "Great Value Oven Roasted Turkey Breast Lunchmeat Mega Pack"
+        }
+    ]
+}

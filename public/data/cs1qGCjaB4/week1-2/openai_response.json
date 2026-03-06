@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Semi-Sweet Baked Soft Chocolate Chip Cookies by Little Dutch Boy Bakery",
+            "good_choice_reason1": "provide some total protein due to its nuts and seeds content",
+            "good_choice_item2": "Semi-Sweet Baked Soft Chocolate Chip Cookies by Little Dutch Boy Bakery",
+            "good_choice_reason2": "contribute positively due to refined grain content",
+            "good_choice_item3": "Freshness Guaranteed Vanilla Cake with Buttercream Icing",
+            "good_choice_reason3": "contribute to the fatty acid component through monounsaturated fats"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Great Value Cream Soda Pop which didn\u2019t contribute to your goal of reducing added sugar because it contains a high level of added sugars.",
+                    "feedback_items": "Great Value Cream Soda Pop"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Freshness Guaranteed Vanilla Cake with Buttercream Icing which didn\u2019t contribute to your goal of reducing sodium because it contains significant sodium.",
+                    "feedback_items": "Freshness Guaranteed Vanilla Cake with Buttercream Icing"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. There were no vegetables purchased, which didn\u2019t contribute to your goal of increasing vegetable intake.",
+                    "feedback_items": "N/A"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "30.77 / 100",
+            "fruits_score": "0",
+            "fruits_score_label": "Needs Improvement",
+            "fruits_explanation": "There were no fruit items in your basket, which resulted in a low score. Fruits are essential for providing vitamins, minerals, and fiber, which are vital for good health. Try incorporating more whole fruits like apples or bananas next time.",
+            "vegetables_score": "0",
+            "vegetables_score_label": "Needs Improvement",
+            "vegetables_explanation": "No vegetables were purchased, leading to a low score. Vegetables provide essential vitamins, minerals, and fiber. They are also low in calories and can support your health. Including more dark green and legumes can boost your score and health.",
+            "grains_score": "0",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "There was no purchase of whole grains, which could enhance your nutrient intake. Whole grains are beneficial as they are a good source of fiber, B vitamins, and trace minerals. Consider adding items like brown rice or oatmeal for better health next trip.",
+            "dairy_score": "0",
+            "dairy_score_label": "Needs Improvement",
+            "dairy_explanation": "No dairy products were selected this week, contributing to a low score. Dairy is an important source of calcium and vitamin D, which strengthen bones and teeth. Including low-fat milk or yogurt can help you meet recommendations.",
+            "protein_score": "0.22",
+            "protein_score_label": "Needs Improvement",
+            "protein_explanation": "The inclusion of Semi-Sweet Baked Soft Chocolate Chip Cookies added some protein, but a variety of protein sources such as lean meats or plant-based options can improve health and scores. Consider incorporating seafood or plant-based proteins next time.",
+            "fattyacids_score": "0",
+            "fattyacids_score_label": "Needs Improvement",
+            "fattyacids_explanation": "Freshness Guaranteed Vanilla Cake with Buttercream Icing didn\u2019t provide a significant source of beneficial fatty acids. Fatty acids, especially omega-3s, improve heart health by reducing cardiovascular risks. Aiming for sources like fish or nuts might improve this component."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "10",
+            "refinedgrains_score_label": "Great",
+            "refinedgrains_explanation": "Your basket had a balanced amount of refined grains like Semi-Sweet Baked Soft Chocolate Chip Cookies. Refined grains lower in fiber can cause blood sugar spikes, so it\u2019s good to moderate them. Keep striving to balance with whole grains!",
+            "sodium_score": "10",
+            "sodium_score_label": "Great",
+            "sodium_explanation": "Sodium intake was moderated with the choice of Freshness Guaranteed Vanilla Cake with Buttercream Icing. Moderating sodium intake helps maintain healthy blood pressure. Aim to continue balancing sodium treats with lower sodium options in the future.",
+            "addedsugars_score": "0",
+            "addedsugars_score_label": "Needs Improvement",
+            "addedsugars_explanation": "Choice of Great Value Cream Soda Pop led to a high added sugar intake. High added sugar can contribute to weight gain and dental issues. Moderating the intake of sugary beverages can be beneficial.",
+            "saturatedfats_score": "10",
+            "saturatedfats_score_label": "Great",
+            "saturatedfats_explanation": "You managed to moderate your saturated fat intake well with choices like Semi-Sweet Baked Soft Chocolate Chip Cookies. Saturated fats can raise cholesterol levels, so balancing this is beneficial for heart health."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Great Value Cream Soda Pop contributed to negative Added Sugars. Next week try beverages like sparkling water or unsweetened tea to strengthen score.",
+            "food_to_substitute1": "Great Value Cream Soda Pop",
+            "recommendation2": "Freshness Guaranteed Vanilla Cake with Buttercream Icing contributed to negative Sodium. Next week try choosing lower-sodium snacks like fresh fruits or unsalted nuts.",
+            "food_to_substitute2": "Freshness Guaranteed Vanilla Cake with Buttercream Icing",
+            "recommendation3": "Neglected whole grains contributed to negative Whole Grains. Next week try adding whole grain bread or cereals to strengthen score.",
+            "food_to_substitute3": "N/A"
+        }
+    ]
+}

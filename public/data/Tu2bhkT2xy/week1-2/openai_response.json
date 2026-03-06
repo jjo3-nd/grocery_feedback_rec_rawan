@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Taylor Farms Caesar Mini Salad Kit",
+            "good_choice_reason1": "provide a high amount of vegetables, including dark greens, which are rich in essential vitamins and minerals",
+            "good_choice_item2": "Great Value Frozen Cooked Small Peeled & Deveined, Tail-off Shrimp",
+            "good_choice_reason2": "contribute to a high score for seafood and plant proteins, which are heart-healthy sources of protein and omega-3 fatty acids",
+            "good_choice_item3": "Dole Fruit Bowls Pineapple Tidbits",
+            "good_choice_reason3": "enhance your fruit intake and add essential vitamins and minerals to your diet"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reducing added sugar, reducing sodium, and increasing vegetable intake.",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Great work! You made great progress with reducing added sugar. This was due to your purchase of Miracle Whip Mayo-like Dressing because it had minimal added sugars.",
+                    "feedback_items": "Miracle Whip Mayo-like Dressing"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Carl Buddig Original Honey Ham Lunchmeat which didn\u2019t contribute to your goal of reducing sodium because it has a high sodium content.",
+                    "feedback_items": "Carl Buddig Original Honey Ham Lunchmeat"
+                },
+                {
+                    "feedback_text": "Great work! You made great progress with increasing vegetable intake. This was due to your purchase of Taylor Farms Caesar Mini Salad Kit because it included a variety of vegetables, enhancing your vegetable intake significantly.",
+                    "feedback_items": "Taylor Farms Caesar Mini Salad Kit"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "69.72 / 100",
+            "fruits_score": "9.73/10",
+            "fruits_score_label": "Great",
+            "fruits_explanation": "Your purchase of Dole Fruit Bowls Pineapple Tidbits contributed to a high score in this category. Fruits are vital for providing vitamins, minerals, and fiber which support overall health. Keep it up!",
+            "vegetables_score": "10/10",
+            "vegetables_score_label": "Great",
+            "vegetables_explanation": "Your high score was bolstered by foods like Fresh Long English Cucumber, providing essential vitamins while being low in calories. Vegetables are a key part of a healthy diet, and your choices supported overall well-being. Keep it up!",
+            "grains_score": "0.59/10",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "The inclusion of Triscuit Original Whole Grain Wheat Crackers was a plus, but overall whole grain intake was low. Whole grains provide more nutrients and fiber than refined grains. Try to include more whole grains in the future.",
+            "dairy_score": "2.57/10",
+            "dairy_score_label": "Needs Improvement",
+            "dairy_explanation": "Great Value Milk was a positive choice, but overall dairy variety and volume were low. Dairy provides important nutrients like calcium and vitamin D for bone health. Increasing dairy intake could enhance nutritional benefits.",
+            "protein_score": "10/10",
+            "protein_score_label": "Great",
+            "protein_explanation": "With Carl Buddig Original Honey Ham Lunchmeat, your protein intake was excellent, contributing to muscle health and overall body function. Keep up the great choices for protein!",
+            "fattyacids_score": "10/10",
+            "fattyacids_score_label": "Great",
+            "fattyacids_explanation": "Achieving a great score here, likely due to choices like Miracle Whip Mayo-like Dressing, is fantastic. Healthy fats are important for heart health and cognitive function. Keep it up!"
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "6.84/10",
+            "refinedgrains_score_label": "Moderate",
+            "refinedgrains_explanation": "Foods such as Bays Original English Muffins added refined grains. These are low in fiber and nutrients, possibly raising blood sugar levels. Moderation in refined grains is beneficial for health, so continue balancing with more whole grains.",
+            "sodium_score": "0/10",
+            "sodium_score_label": "Needs Improvement",
+            "sodium_explanation": "A high sodium score, notably from items like Carl Buddig Original Honey Ham Lunchmeat, affects heart health and blood pressure. Reducing sodium-rich foods is crucial for meeting health goals.",
+            "addedsugars_score": "10/10",
+            "addedsugars_score_label": "Great",
+            "addedsugars_explanation": "Your choice of products such as Miracle Whip Mayo-like Dressing resulted in low added sugar intake, preventing weight gain and other health issues. Well done!",
+            "saturatedfats_score": "10/10",
+            "saturatedfats_score_label": "Great",
+            "saturatedfats_explanation": "Excellent control in this area with foods like Bob Evans Original Roll Pork Sausage contributing to a healthy saturated fat intake, supporting heart health. Keep it up!"
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Carl Buddig Original Honey Ham Lunchmeat contributed to negative Sodium scores. Next week, try choosing lower-sodium options like fresh turkey or chicken breast.",
+            "food_to_substitute1": "Carl Buddig Original Honey Ham Lunchmeat",
+            "recommendation2": "Bays Original English Muffins contributed to negative Whole Grains scores. Next week, try whole grain bread or oatmeal for better nutritional benefits.",
+            "food_to_substitute2": "Bays Original English Muffins",
+            "recommendation3": "Great Value Milk contributed to negative Dairy scores. Next week, try increasing dairy variety with Greek yogurt or low-fat cheese for more calcium and vitamin D.",
+            "food_to_substitute3": "Great Value Milk"
+        }
+    ]
+}

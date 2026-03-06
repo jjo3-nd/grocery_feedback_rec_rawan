@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Fresh Strawberries",
+            "good_choice_reason1": "contribute to your excellent fruit score",
+            "good_choice_item2": "Fresh Whole Brown Mushrooms",
+            "good_choice_reason2": "help achieve a high vegetable score",
+            "good_choice_item3": "Prairie Farms Dairy Whole Vitamin D Milk",
+            "good_choice_reason3": "improve your dairy score"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Great work! You made exemplary progress with your goal to increase vegetable intake. This was due to your purchase of Fresh Whole Brown Mushrooms, as they are nutritious and low in calories.",
+                    "feedback_items": "Fresh Whole Brown Mushrooms"
+                },
+                {
+                    "feedback_text": "Great work! You successfully reduced your sodium consumption, as shown by your perfect sodium score of 10/10, with Hunt\u2019s Tomato Paste having minimal influence on increasing sodium.",
+                    "feedback_items": "Hunt\u2019s Tomato Paste"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals to reduce added sugar. You purchased SUNNYD Smooth Orange Juice Drink, which didn\u2019t contribute to your goal of reducing added sugar because it contains added sugars.",
+                    "feedback_items": "SUNNYD Smooth Orange Juice Drink"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "55.04 / 100",
+            "fruits_score": "10/10",
+            "fruits_score_label": "Great",
+            "fruits_explanation": "The inclusion of Fresh Strawberries contributed to a perfect fruit score. Fruits are essential for providing vitamins, minerals, and fiber. Keep up with including whole fruits in your diet!",
+            "vegetables_score": "10/10",
+            "vegetables_score_label": "Great",
+            "vegetables_explanation": "You had a perfect score due to Fresh Whole Brown Mushrooms. Vegetables are great for your health as they provide essential vitamins and minerals and support overall well-being. Fantastic choice!",
+            "grains_score": "0/10",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "No whole grains were included, which contributed to the low score. Whole grains are essential as they provide more fiber and nutrients than refined grains. Try to include more whole grains next time for their health benefits.",
+            "dairy_score": "7.42/10",
+            "dairy_score_label": "Great",
+            "dairy_explanation": "Prairie Farms Dairy Whole Vitamin D Milk contributed effectively to your dairy score. Dairy provides calcium and vitamin D, supporting bone health. Keep including dairy products that are low in saturated fats!",
+            "protein_score": "0.22/10",
+            "protein_score_label": "Needs Improvement",
+            "protein_explanation": "93% Lean / 7% Fat Lean Ground Beef minimally influenced your score. Total protein should include a variety of proteins, including seafood and plant-based proteins, for better heart health and reduced cancer risk. Try to diversify your protein sources.",
+            "fattyacids_score": "0.65/10",
+            "fattyacids_score_label": "Needs Improvement",
+            "fattyacids_explanation": "Lay's Potato Chips, Limon Flavor contributed to a low fatty acids score. Fatty acids, especially omega-3s, are essential for heart health. Incorporate more fatty acids from sources like fish, flaxseeds, and walnuts."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "6.86/10",
+            "refinedgrains_score_label": "Moderate",
+            "refinedgrains_explanation": "Your score is moderate, mainly due to foods like Mueller's Sodium-Free Cholesterol-Free Linguine Pasta. Consider replacing refined grains with whole grains for better dietary quality.",
+            "sodium_score": "10/10",
+            "sodium_score_label": "Great",
+            "sodium_explanation": "Excellent job maintaining low sodium levels across your purchases, with Hunt\u2019s Tomato Paste having minimal sodium.",
+            "addedsugars_score": "8.75/10",
+            "addedsugars_score_label": "Great",
+            "addedsugars_explanation": "You successfully chose items with minimal added sugars such as SUNNYD Smooth Orange Juice Drink. This is beneficial as high added sugar intake can contribute to weight gain and dental problems. Keep it up!",
+            "saturatedfats_score": "1.15/10",
+            "saturatedfats_score_label": "Needs Improvement",
+            "saturatedfats_explanation": "Daisy Pure and Natural Sour Cream was high in saturated fats. High saturated fat intake can increase heart disease risk, so consider options like low-fat or non-fat alternatives."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "SUNNYD Smooth Orange Juice Drink contributed negatively to Added Sugars. Next week, try using unsweetened beverages such as plain water infused with fruits like lemon or cucumber.",
+            "food_to_substitute1": "SUNNYD Smooth Orange Juice Drink",
+            "recommendation2": "93% Lean / 7% Fat Lean Ground Beef provided limited benefits for Protein. Next week, try including a variety of beans, lentils, or tofu for plant-based protein options.",
+            "food_to_substitute2": "93% Lean / 7% Fat Lean Ground Beef",
+            "recommendation3": "Lay's Potato Chips, Limon Flavor contributed negatively to Fatty Acids. Next week, try nuts or seeds such as almonds or walnuts as healthier snack alternatives.",
+            "food_to_substitute3": "Lay's Potato Chips, Limon Flavor"
+        }
+    ]
+}

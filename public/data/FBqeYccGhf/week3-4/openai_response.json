@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Great Value Finely Shredded Parmesan Cheese",
+            "good_choice_reason1": "was a good choice because it provided a significant amount of calcium and protein, contributing to your high dairy score.",
+            "good_choice_item2": "Broccoli Florets",
+            "good_choice_reason2": "was a good choice because it is rich in fiber and vitamins, contributing greatly to your vegetable score.",
+            "good_choice_item3": "Great Value Dark Red Kidney Beans",
+            "good_choice_reason3": "was a good choice because they are high in protein and fiber, contributing to a good total protein score."
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake.",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Great work! You made great progress with increasing vegetable intake. This was due to your purchases of Broccoli Florets because they are a nutrient-dense vegetable that provided substantial vitamins and minerals.",
+                    "feedback_items": "Broccoli Florets"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Great Value Squeezable Grape Jelly which didn\u2019t contribute to your goal of reducing added sugar because it contains significant amounts of added sugars.",
+                    "feedback_items": "Great Value Squeezable Grape Jelly"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Hunt's Tomato Sauce Small which didn\u2019t contribute to your goal of reducing sodium because it contains a high level of sodium.",
+                    "feedback_items": "Hunt's Tomato Sauce"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "55.43",
+            "fruits_score": "7.4",
+            "fruits_score_label": "Moderate",
+            "fruits_explanation": "The inclusion of Mott's No Sugar Added Vacation Vibes Applesauce and Juicy Juice 100% Juice, Apple contributed to your fruit intake. Including whole fruits instead of primarily juices is beneficial because whole fruits contain more fiber and nutrients. Fruits are essential for providing vitamins, minerals, and fiber. Aim for more whole fruits next time!",
+            "vegetables_score": "10",
+            "vegetables_score_label": "Great",
+            "vegetables_explanation": "You had a perfect vegetable score thanks to choices like Broccoli Florets and Del Monte Sweet Peas. Vegetables are crucial for a healthy diet, providing vitamins, minerals, and fiber. Keep up the good work!",
+            "grains_score": "0",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "You did not include whole grains in your purchases this week, leading to a low score in this category. Whole grains are beneficial as they provide more fiber and nutrients compared to refined grains. Try including more whole grains like brown rice or whole wheat bread next time.",
+            "dairy_score": "8.01",
+            "dairy_score_label": "Great",
+            "dairy_explanation": "Great Value Finely Shredded Parmesan Cheese significantly contributed to your high dairy score. Dairy products are excellent sources of calcium and vitamin D, which are important for bone health. Keep it up!",
+            "protein_score": "9.22",
+            "protein_score_label": "Great",
+            "protein_explanation": "Your selection of Great Value Dark Red Kidney Beans contributed to an excellent protein score. Adequate protein intake is essential for muscle repair and growth. Maintain your current protein intake!",
+            "fattyacids_score": "0",
+            "fattyacids_score_label": "Needs Improvement",
+            "fattyacids_explanation": "You had a low score due to the lack of products containing healthy fatty acids. Fatty acids, especially omega-3s, have been shown to improve heart health by reducing the risk of cardiovascular diseases. Consider adding foods like salmon or walnuts next time."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "10",
+            "refinedgrains_score_label": "Great",
+            "refinedgrains_explanation": "You had a perfect score for refined grains due to the inclusion of Doritos Nacho Cheese Flavored Tortilla Chips and other similar items. However, these foods are lower in nutrients and can spike blood sugar. Consider reducing their intake for better health.",
+            "sodium_score": "2.77",
+            "sodium_score_label": "Needs Improvement",
+            "sodium_explanation": "High sodium items like Hunt's Tomato Sauce Small contributed to the low score. High sodium consumption can lead to high blood pressure. Try limiting items high in sodium next week.",
+            "addedsugars_score": "8.03",
+            "addedsugars_score_label": "Moderate",
+            "addedsugars_explanation": "The purchase of Great Value Squeezable Grape Jelly was a significant source of added sugars. Reducing intake of added sugars can lower risk of obesity and improve dental health.",
+            "saturatedfats_score": "0",
+            "saturatedfats_score_label": "Needs Improvement",
+            "saturatedfats_explanation": "Foods such as Great Value Sweet Cream Salted Butter Twin Pack contributed to a high saturated fat intake. High saturated fat can increase the risk of heart disease. Aim to replace these with healthier fats."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Great Value Squeezable Grape Jelly contributed to negative Added Sugars. Next week try fresh fruit like strawberries or bananas to satisfy sweet cravings while reducing sugar intake.",
+            "food_to_substitute1": "Great Value Squeezable Grape Jelly",
+            "recommendation2": "Hunt's Tomato Sauce Small contributed to negative Sodium. Next week try using fresh herbs and spices for flavor without added sodium.",
+            "food_to_substitute2": "Hunt's Tomato Sauce",
+            "recommendation3": "Great Value Sweet Cream Salted Butter Twin Pack contributed to negative Saturated Fat. Next week try swapping for plant-based spreads or olive oil for cooking and baking.",
+            "food_to_substitute3": "Great Value Sweet Cream Salted Butter Twin Pack"
+        }
+    ]
+}

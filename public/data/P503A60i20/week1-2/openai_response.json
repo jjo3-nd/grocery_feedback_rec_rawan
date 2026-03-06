@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Great Value Pitted Dark Sweet Cherries",
+            "good_choice_reason1": "provide a great source of natural sugars and fiber, contributing to a high fruit score",
+            "good_choice_item2": "Great Value Extra Large White Eggs",
+            "good_choice_reason2": "provide a significant source of high-quality protein, contributing well to your protein score",
+            "good_choice_item3": "Peter Pan Creamy Peanut Butter",
+            "good_choice_reason3": "contain healthy fats and essential nutrients, aiding in your fatty acid intake"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "(1) reduce added sugar, (2) reduce sodium, and (3) increase vegetable intake.",
+            "goal_feedback": [
+                {
+                    "feedback_text": "You made great progress with reducing added sugars. This was due to your choice of Mott's 100% Original Apple Juice because it contains no added sugars and offers natural sweetness.",
+                    "feedback_items": "Mott's 100% Original Apple Juice"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Campbell's Condensed Tomato Soup which didn\u2019t contribute to your goal of reducing sodium because it contains high sodium levels.",
+                    "feedback_items": "Campbell's Condensed Tomato Soup"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Knorr No Artificial Flavors Chicken Fried Rice, which didn\u2019t contribute to your goal of increasing vegetable intake because it had limited vegetable content.",
+                    "feedback_items": "Knorr No Artificial Flavors Chicken Fried Rice"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "55.83",
+            "fruits_score": "10/10",
+            "fruits_score_label": "Great",
+            "fruits_explanation": "Including Great Value Pitted Dark Sweet Cherries, Fresh Green Seedless Grapes, and Fresh Mandarin Oranges contributed to this great score. Fruits provide essential vitamins and fiber, supporting overall health. Keep it up!",
+            "vegetables_score": "5.1/10",
+            "vegetables_score_label": "Moderate",
+            "vegetables_explanation": "While V8 Splash Watermelon Cherry Flavored Juice Beverage contributed, it was primarily juice. Vegetables offer vital nutrients and fiber important for digestion and health. Try adding more whole vegetables next time!",
+            "grains_score": "1.95/10",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "Lacking whole grains resulted in the low score. Grains, particularly whole grains, are crucial for energy and provide fiber. Consider incorporating more whole grains like brown rice or quinoa.",
+            "dairy_score": "6.07/10",
+            "dairy_score_label": "Moderate",
+            "dairy_explanation": "Prairie Farms 2% Reduced Fat Milk supported your dairy score. Dairy is essential for calcium and vitamin D, aiding in bone health. Keep a balanced amount in your diet.",
+            "protein_score": "7.37/10",
+            "protein_score_label": "Moderate",
+            "protein_explanation": "Great Value Extra Large White Eggs supported your score by providing complete protein sources. Protein is vital for muscle and tissue repair. Focus on diverse protein sources for balanced nutrition.",
+            "fattyacids_score": "2.38/10",
+            "fattyacids_score_label": "Needs Improvement",
+            "fattyacids_explanation": "While Peter Pan Creamy Peanut Butter added some healthy fats, overall options were limited. Fatty acids, especially omega-3s, are beneficial for heart health. Include more sources such as fish or seeds."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "2.62/10",
+            "refinedgrains_score_label": "Needs Improvement",
+            "refinedgrains_explanation": "Mueller's Sodium-Free, Cholesterol-Free Rotini Pasta and similar products added many refined grains. Replace them with whole grains like whole wheat bread for greater nutritional benefits.",
+            "sodium_score": "6.86/10",
+            "sodium_score_label": "Moderate",
+            "sodium_explanation": "High sodium in Campbell's Condensed Tomato Soup affected your goals. High sodium can lead to increased blood pressure. Aim to choose low-sodium options next time.",
+            "addedsugars_score": "9.08/10",
+            "addedsugars_score_label": "Great",
+            "addedsugars_explanation": "Minimal added sugars from Country Time Lemonade Naturally Flavored Powdered Drink Mix positively contributed to your low sugar score. Reducing added sugars is beneficial for maintaining a healthy weight and preventing dental issues. Keep it up!",
+            "saturatedfats_score": "4.4/10",
+            "saturatedfats_score_label": "Moderate",
+            "saturatedfats_explanation": "Bob Evans Original Roll Pork Sausage increased saturated fat. High saturated fat levels can impact heart health. Choose lean protein sources to improve."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Mueller's Sodium-Free, Cholesterol-Free Rotini Pasta contributed to negative refined grains. Next week try quinoa or brown rice to strengthen the whole grain score.",
+            "food_to_substitute1": "Mueller's Sodium-Free, Cholesterol-Free Rotini Pasta",
+            "recommendation2": "Campbell's Condensed Tomato Soup contributed to negative sodium. Next week try low-sodium vegetable soups.",
+            "food_to_substitute2": "Campbell's Condensed Tomato Soup",
+            "recommendation3": "Bob Evans Original Roll Pork Sausage contributed to negative saturated fats. Next week try chicken breast or plant-based proteins to strengthen the fatty acid score.",
+            "food_to_substitute3": "Bob Evans Original Roll Pork Sausage"
+        }
+    ]
+}

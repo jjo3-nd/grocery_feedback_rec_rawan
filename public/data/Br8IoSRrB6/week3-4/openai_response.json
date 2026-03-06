@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Great Value Original Applesauce",
+            "good_choice_reason1": "add to your fruit consumption and are low in calories",
+            "good_choice_item2": "Yoplait Original Orange Cr\u00e8me Flavored Low Fat Yogurt Cup",
+            "good_choice_reason2": "contribute positively to your dairy intake as a good source of calcium and vitamin D",
+            "good_choice_item3": "Yoplait Original Low Fat Key Lime Pie Yogurt Cup",
+            "good_choice_reason3": "help maintain a healthy balance in your diet as a low-fat dairy option"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Snack Pack Strawberry and Orange Flavored Juicy Gels which didn\u2019t contribute to your goal of reducing added sugar because it contains a high amount of sugars.",
+                    "feedback_items": "Snack Pack Strawberry and Orange Flavored Juicy Gels"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Fresh, Hot, Ready-to-Eat Fried Chicken which didn\u2019t contribute to your goal of reducing sodium because it's typically high in sodium.",
+                    "feedback_items": "Fresh, Hot, Ready-to-Eat Fried Chicken"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You did not purchase vegetables, which didn\u2019t contribute to your goal of increasing vegetable intake.",
+                    "feedback_items": "vegetables"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "49.64",
+            "fruits_score": "10",
+            "fruits_score_label": "Great",
+            "fruits_explanation": "Your great score was due to Great Value Original Applesauce. Fruits are essential for providing vitamins, minerals, and fiber. Keep it up!",
+            "vegetables_score": "0",
+            "vegetables_score_label": "Needs Improvement",
+            "vegetables_explanation": "You did not have vegetables in your basket. Vegetables are high in vitamins and minerals and low in calories, supporting overall health. Try adding more dark greens and legumes next time.",
+            "grains_score": "0",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "You might consider incorporating whole grains like brown rice or whole wheat pasta. Whole grains are higher in fiber and nutrients.",
+            "dairy_score": "10",
+            "dairy_score_label": "Great",
+            "dairy_explanation": "With items like Yoplait Original Orange Cr\u00e8me Flavored Low Fat Yogurt Cup, you're getting good calcium intake. Dairy products are important for bone health.",
+            "protein_score": "1.84",
+            "protein_score_label": "Needs Improvement",
+            "protein_explanation": "Fresh, Hot, Ready-to-Eat Fried Chicken was the main contributor, but try to include a variety of seafood or plant-based proteins for a better balance.",
+            "fattyacids_score": "0",
+            "fattyacids_score_label": "Needs Improvement",
+            "fattyacids_explanation": "Improve your score by including sources of healthy fats, like fish, nuts, and seeds. Healthy fats can improve heart health."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "10",
+            "refinedgrains_score_label": "Great",
+            "refinedgrains_explanation": "While your score for refined grains was high, consider this an area to explore whole grains. Whole grains are more nutritious.",
+            "sodium_score": "10",
+            "sodium_score_label": "Needs Improvement",
+            "sodium_explanation": "Foods like Fresh, Hot, Ready-to-Eat Fried Chicken have high sodium. High sodium can increase blood pressure. Aim for low-sodium options.",
+            "addedsugars_score": "3.11",
+            "addedsugars_score_label": "Moderate",
+            "addedsugars_explanation": "Products like Snack Pack Strawberry and Orange Flavored Juicy Gels added to high sugar consumption. High added sugar intake can contribute to weight gain. Continue reducing this next time.",
+            "saturatedfats_score": "4.68",
+            "saturatedfats_score_label": "Moderate",
+            "saturatedfats_explanation": "Considering foods like Great Value Vanilla Bean Flavored Ice Cream contributed, try reducing high-fat products. High saturated fat can risk heart health."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Snack Pack Strawberry and Orange Flavored Juicy Gels contributed to negative Added Sugars. Next week try replacing it with fresh fruits.",
+            "food_to_substitute1": "Snack Pack Strawberry and Orange Flavored Juicy Gels",
+            "recommendation2": "Fresh, Hot, Ready-to-Eat Fried Chicken contributed to negative Sodium. Next week try grilled chicken.",
+            "food_to_substitute2": "Fresh, Hot, Ready-to-Eat Fried Chicken",
+            "recommendation3": "Lack of Vegetables contributed to negative Vegetables component. Next week try adding spinach or kale to your meals.",
+            "food_to_substitute3": "vegetables"
+        }
+    ]
+}

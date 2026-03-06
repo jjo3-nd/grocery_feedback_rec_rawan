@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Fresh Strawberries",
+            "good_choice_reason1": "contribute to high levels of vitamins, fiber, and a robust Whole Fruits score",
+            "good_choice_item2": "Great Value Finely Shredded Low-Moisture Part-Skim Mozzarella Cheese",
+            "good_choice_reason2": "enhance your Dairy score, which helps in maintaining bone health",
+            "good_choice_item3": "Marketside Fresh Shredded Iceberg Lettuce",
+            "good_choice_reason3": "contribute positively to your Vegetable score by providing essential vitamins and minerals"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, increase vegetable intake",
+            "goal_feedback": [
+                {
+                    "feedback_text": "You made great progress with your goal to reduce added sugar. This was due to including Cheerios Protein Cereal, which contributed minimally to added sugars. This is beneficial as high sugar can contribute to weight gain and dental issues.",
+                    "feedback_items": "Cheerios Protein Cereal"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased COLUMBUS Italian Dry Pork Salame which didn\u2019t contribute to your goal of reducing sodium because this item can have high sodium content, which can affect heart health.",
+                    "feedback_items": "COLUMBUS Italian Dry Pork Salame"
+                },
+                {
+                    "feedback_text": "You made great progress with your goal to increase vegetable intake. This was due to your purchase of Marketside Fresh Shredded Iceberg Lettuce, which contributed to a higher vegetable score. Including vegetables helps provide essential nutrients and fibers.",
+                    "feedback_items": "Marketside Fresh Shredded Iceberg Lettuce"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "65.59",
+            "fruits_score": "10",
+            "fruits_score_label": "Great",
+            "fruits_explanation": "You had a good score with Fresh Strawberries contributing positively. Fruits provide important vitamins and fiber, beneficial for health. Keep up the good work!",
+            "vegetables_score": "10",
+            "vegetables_score_label": "Great",
+            "vegetables_explanation": "A great score with the inclusion of vegetables like Marketside Fresh Shredded Iceberg Lettuce. Vegetables offer essential nutrients for health maintenance. Keep it up!",
+            "grains_score": "6.08",
+            "grains_score_label": "Great",
+            "grains_explanation": "Kellogg's Frosted Mini-Wheats Breakfast Cereal contributed to your whole grains score. Whole grains are great for fiber and essential nutrients. Keep choosing whole grains often!",
+            "dairy_score": "9.26",
+            "dairy_score_label": "Great",
+            "dairy_explanation": "Great Value Finely Shredded Low-Moisture Part-Skim Mozzarella Cheese elevated your Dairy score. Dairy products are vital for bone health. Excellent choice!",
+            "protein_score": "0.46",
+            "protein_score_label": "Needs Improvement",
+            "protein_explanation": "COLUMBUS Italian Dry Pork Salame was the main contributor, but the score was low because it is a cured meat with little variety in plant-based proteins. Including a diversity of protein sources is great for muscle growth and repair.",
+            "fattyacids_score": "0",
+            "fattyacids_score_label": "Needs Improvement",
+            "fattyacids_explanation": "There was a lack of foods contributing positively to this score. Fatty acids are crucial for heart health. Consider including more foods like fish or nuts."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "10",
+            "refinedgrains_score_label": "Great",
+            "refinedgrains_explanation": "Freshness Guaranteed Sliced Plain French Bread contributed minimally. Reducing refined grains is good as they are low in nutrients.",
+            "sodium_score": "10",
+            "sodium_score_label": "Great",
+            "sodium_explanation": "A score influenced by COLUMBUS Italian Dry Pork Salame, but moderate sodium is important for heart health. So try to maintain or reduce high sodium foods next time.",
+            "addedsugars_score": "9.79",
+            "addedsugars_score_label": "Great",
+            "addedsugars_explanation": "Mainly affected by Cheerios Protein Cereal. Reducing added sugars is beneficial for maintaining a healthy weight and avoiding dental issues. Keep it up!",
+            "saturatedfats_score": "0",
+            "saturatedfats_score_label": "Needs Improvement",
+            "saturatedfats_explanation": "Affected by Savia Coconut Milk and Great Value Coconut Milk. High saturated fats are less ideal as they can raise cholesterol levels and contribute to heart disease."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "COLUMBUS Italian Dry Pork Salame contributed to low Total Protein score. Next week, try including legumes, nuts, or seeds to strengthen your protein intake.",
+            "food_to_substitute1": "COLUMBUS Italian Dry Pork Salame",
+            "recommendation2": "Savia Coconut Milk contributed to negative Saturated Fat score. Next week, try unsweetened almond or soy milk for healthier fat options.",
+            "food_to_substitute2": "Savia Coconut Milk",
+            "recommendation3": "Great Value Whole Vitamin D Milk contributed to negative Saturated Fat scores. Consider selecting low-fat or fat-free milk options.",
+            "food_to_substitute3": "Great Value Whole Vitamin D Milk"
+        }
+    ]
+}

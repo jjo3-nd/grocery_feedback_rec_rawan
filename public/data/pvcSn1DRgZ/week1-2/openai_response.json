@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Fresh Mini Cucumbers",
+            "good_choice_reason1": "provide fiber and nutrients, contributing to vegetable intake",
+            "good_choice_item2": "Juicy Juice 100% Juice, Berry",
+            "good_choice_reason2": "add to fruit intake with essential vitamins",
+            "good_choice_item3": "Great Value Brown Rice Instant",
+            "good_choice_reason3": "provide whole grains beneficial for energy and fiber"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake.",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Great work! You made great progress with your goal to increase vegetable intake. This was due to your purchases of Fresh Mini Cucumbers because they are a great source of vegetables and provide essential nutrients.",
+                    "feedback_items": "Fresh Mini Cucumbers"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Capri Sun Strawberry Kiwi Flavored Juice Drink Blend which didn\u2019t contribute to your goal of reducing added sugar because it contains a high amount of added sugars.",
+                    "feedback_items": "Capri Sun Strawberry Kiwi Flavored Juice Drink Blend"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Great Value Stuffed Manzanilla Olives with Minced Pimento which didn\u2019t contribute to your goal of reducing sodium because they contain a significant amount of sodium.",
+                    "feedback_items": "Great Value Stuffed Manzanilla Olives with Minced Pimento"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "49.82 / 100",
+            "fruits_score": "3.9/10",
+            "fruits_score_label": "Needs Improvement",
+            "fruits_explanation": "You did not have whole fruits in your basket which contributed to a low score. However, the inclusion of Juicy Juice 100% Juice, Berry added to your fruit intake. Consuming whole fruits instead of primarily juices would be more beneficial as whole fruits contain more fiber and nutrients. Fruits are essential for providing vitamins, minerals, and fiber.",
+            "vegetables_score": "7.94/10",
+            "vegetables_score_label": "Great",
+            "vegetables_explanation": "You had a great score due to Fresh Mini Cucumbers. Vegetables are great to include in your diet as they are high in essential vitamins and minerals and low in calories, supporting overall health. Keep it up!",
+            "grains_score": "1.16/10",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "Your grain score was low because you purchased primarily refined grain products. Grains are important for providing energy and essential nutrients. Whole grains like brown rice are more beneficial than refined grains.",
+            "dairy_score": "4.07/10",
+            "dairy_score_label": "Moderate",
+            "dairy_explanation": "Your dairy score was moderate because of your choice of Great Value Finely Shredded Fiesta Blend Cheese. Dairy products provide calcium and vitamin D which are important for bone health.",
+            "protein_score": "7.44/10",
+            "protein_score_label": "Great",
+            "protein_explanation": "You had a great protein score, largely due to John Morrell Diced Ham. Protein is crucial for building and repairing tissues and is a key building block of bones, muscles, cartilage, skin, and blood.",
+            "fattyacids_score": "1.66/10",
+            "fattyacids_score_label": "Needs Improvement",
+            "fattyacids_explanation": "You had a low score this week due to fewer choices of items rich in beneficial fatty acids. Fatty acids, especially omega-3s, have been shown to improve heart health by reducing the risk of cardiovascular diseases."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "8.85/10",
+            "refinedgrains_score_label": "Great",
+            "refinedgrains_explanation": "Your score indicates a good moderation of refined grain intake due to selections like Great Value Original English Muffins that have less refined grains.",
+            "sodium_score": "3.59/10",
+            "sodium_score_label": "Moderate",
+            "sodium_explanation": "The substantial sodium content in items like Great Value Stuffed Manzanilla Olives with Minced Pimento affected your sodium score. Reducing sodium helps lower blood pressure and decreases the risk of heart disease.",
+            "addedsugars_score": "8.94/10",
+            "addedsugars_score_label": "Needs Improvement",
+            "addedsugars_explanation": "You had a high intake of added sugars mostly from Capri Sun Strawberry Kiwi Flavored Juice Drink Blend. Reducing added sugar intake can help with weight management and reduce the risk of chronic diseases.",
+            "saturatedfats_score": "2.27/10",
+            "saturatedfats_score_label": "Needs Improvement",
+            "saturatedfats_explanation": "Your score was affected by items such as Great Value Original Sour Cream, which are higher in saturated fats. Lowering saturated fat intake is beneficial for heart health."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Capri Sun Strawberry Kiwi Flavored Juice Drink Blend contributed to negative Added Sugars score. Next week try reducing flavored drinks or go for unsweetened beverages.",
+            "food_to_substitute1": "Capri Sun Strawberry Kiwi Flavored Juice Drink Blend",
+            "recommendation2": "Great Value Stuffed Manzanilla Olives with Minced Pimento contributed to negative Sodium score. Next week try choosing lower sodium snacks like unsalted nuts or fresh fruits and vegetables.",
+            "food_to_substitute2": "Great Value Stuffed Manzanilla Olives with Minced Pimento",
+            "recommendation3": "Great Value Original Sour Cream contributed to negative Saturated Fats score. Next week try choosing low-fat yogurt or kefir as substitutes to improve your health.",
+            "food_to_substitute3": "Great Value Original Sour Cream"
+        }
+    ]
+}

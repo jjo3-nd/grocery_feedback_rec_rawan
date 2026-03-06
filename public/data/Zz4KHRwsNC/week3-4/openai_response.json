@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Fresh Lime",
+            "good_choice_reason1": "provide a great source of Vitamin C and contribute positively to your fruit intake",
+            "good_choice_item2": "Brownberry Whole Wheat Bread",
+            "good_choice_reason2": "provide a high amount of whole grains, which are rich in fiber and essential nutrients",
+            "good_choice_item3": "Great Value Lactose Free 2% Reduced Fat Milk",
+            "good_choice_reason3": "contribute significantly to your dairy intake and are a good source of calcium and vitamin D"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Great work! You made great progress with reducing added sugar. This was due to your purchase of Great Value Raw Honey because although honey has natural sugars, it was likely used minimally, keeping your added sugar intake lower compared to other sweeteners.",
+                    "feedback_items": "Great Value Raw Honey"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your goal of reducing sodium. You purchased Great Value Thin Sliced Black Forest Ham Lunchmeat, which is high in sodium, making it challenging to achieve this goal.",
+                    "feedback_items": "Great Value Thin Sliced Black Forest Ham Lunchmeat"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your goal of increasing vegetable intake. You had Fresh Yellow Baby Potatoes, but other vegetables like dark greens and beans were lacking, so you might not have added as many different types of vegetables.",
+                    "feedback_items": "Fresh Yellow Baby Potatoes"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "58.41",
+            "fruits_score": "10",
+            "fruits_score_label": "Great",
+            "fruits_explanation": "You included Fresh Lime, which contributes positively to your fruit intake. Fruits are essential for providing vitamins, minerals, and fiber. Keep enjoying a variety of fruits!",
+            "vegetables_score": "1.61",
+            "vegetables_score_label": "Needs Improvement",
+            "vegetables_explanation": "You included Fresh Yellow Baby Potatoes, but not having a variety of vegetables like greens and beans contributed to a lower score. Vegetables are rich in vitamins and minerals, critical for health. Include a more diverse range of vegetables next time!",
+            "grains_score": "8.04",
+            "grains_score_label": "Great",
+            "grains_explanation": "Your purchase of Brownberry Whole Wheat Bread contributed to a good whole grain intake. Whole grains are a good source of fiber and nutrients. Keep it up!",
+            "dairy_score": "10",
+            "dairy_score_label": "Great",
+            "dairy_explanation": "Great Value Lactose Free 2% Reduced Fat Milk added to your dairy score, providing calcium and vitamin D. Dairy supports bone health, so keep enjoying your favorite dairy products!",
+            "protein_score": "5",
+            "protein_score_label": "Moderate",
+            "protein_explanation": "While Great Value Thin Sliced Black Forest Ham Lunchmeat added to your protein intake, it didn't have as much seafood or plant proteins. Balancing with seafood and plant proteins can provide diverse nutrients. Consider adding seafood or legumes for balance next time!",
+            "fattyacids_score": "0",
+            "fattyacids_score_label": "Needs Improvement",
+            "fattyacids_explanation": "Your purchase of Eckrich Skinless Polska Kielbasa Rope lacked omega-3s found in seafood and plant oils. Fatty acids, especially omega-3s, are important for heart health. Try including more fatty fish like salmon next time!"
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "10",
+            "refinedgrains_score_label": "Great",
+            "refinedgrains_explanation": "You successfully limited refined grains. This is beneficial as refined grains often lack nutrients and fiber. Keep choosing whole grains like Brownberry Whole Wheat Bread.",
+            "sodium_score": "6.07",
+            "sodium_score_label": "Moderate",
+            "sodium_explanation": "The Great Value Thin Sliced Black Forest Ham Lunchmeat contributed to a moderate sodium level. Sodium can raise blood pressure, so reducing foods high in sodium is beneficial. Aim to choose lower-sodium options next time.",
+            "addedsugars_score": "7.68",
+            "addedsugars_score_label": "Great",
+            "addedsugars_explanation": "Your choices like Great Value Raw Honey helped keep added sugars low. High sugar intake can contribute to weight gain and dental problems. Keep selecting natural sweeteners when necessary!",
+            "saturatedfats_score": "0",
+            "saturatedfats_score_label": "Needs Improvement",
+            "saturatedfats_explanation": "The Great Value Deli Style Sliced Muenster Cheese contributed to higher saturated fat intake. High saturated fat intake can raise LDL cholesterol, affecting heart health. Try selecting lower-fat cheese options next time."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Eckrich Skinless Polska Kielbasa Rope contributed to a negative Fatty Acid score. Next week try using more fatty fish like salmon to strengthen the score.",
+            "food_to_substitute1": "Eckrich Skinless Polska Kielbasa Rope",
+            "recommendation2": "Great Value Thin Sliced Black Forest Ham Lunchmeat contributed to high sodium. Next week try using low-sodium deli meats to help reduce sodium intake.",
+            "food_to_substitute2": "Great Value Thin Sliced Black Forest Ham Lunchmeat",
+            "recommendation3": "Great Value Deli Style Sliced Muenster Cheese contributed to a negative Saturated Fat score. Next week try a low-fat cheese to improve your saturated fat score.",
+            "food_to_substitute3": "Great Value Deli Style Sliced Muenster Cheese"
+        }
+    ]
+}

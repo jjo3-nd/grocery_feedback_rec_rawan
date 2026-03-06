@@ -1,0 +1,76 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Great Value Large White Eggs",
+            "good_choice_reason1": "are a good source of high-quality protein which played a role in achieving the Total Protein Foods score",
+            "good_choice_item2": "Great Value Melt'n Dip Easy Melt Cheese",
+            "good_choice_reason2": "contributed positively to the Dairy score by providing essential calcium",
+            "good_choice_item3": "Great Value Purified Drinking Water",
+            "good_choice_reason3": "reducing added sugars and unnecessary calories is essential for maintaining a healthy diet"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "You indicated your goals were to reduce added sugar, reduce sodium, and increase vegetable intake.",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Great Value Melt'n Dip Easy Melt Cheese which didn\u2019t contribute to your goal of reducing sodium because it contains a high sodium content, contributing to a lower sodium score.",
+                    "feedback_items": "Great Value Melt'n Dip Easy Melt Cheese"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Great Value Medium Wing Sauce which didn\u2019t contribute to your goal of increasing vegetable intake because its vegetable content is very low.",
+                    "feedback_items": "Great Value Medium Wing Sauce"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "34.98",
+            "fruits_score": "0",
+            "fruits_score_label": "Needs Improvement",
+            "fruits_explanation": "There's been no whole fruit consumption noted this week. Including whole fruits instead of primarily focusing on fruit products is beneficial because whole fruits contain more fiber and nutrients. Fruits are essential for providing vitamins, minerals, and fiber. Try including more whole fruits next time to improve this score!",
+            "vegetables_score": "0.03",
+            "vegetables_score_label": "Needs Improvement",
+            "vegetables_explanation": "The inclusion of Great Value Medium Wing Sauce, which has a minimal vegetable content, did not substantially raise your score. Vegetables are high in essential vitamins and minerals and support overall health. Try incorporating a wider range of vegetables for a more balanced diet.",
+            "grains_score": "0",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "There was no inclusion of whole grains noted this week. Whole grains provide important fiber and nutrients that refined grains do not have. Try to substitute refined grains with whole grains for improved digestion and heart health.",
+            "dairy_score": "4.7",
+            "dairy_score_label": "Moderate",
+            "dairy_explanation": "Great Value Melt'n Dip Easy Melt Cheese contributed to this score by adding calcium. Dairy provides essential vitamins and nutrients like calcium and vitamin D, beneficial for bone health. Keep incorporating these sources, but also consider low-fat options.",
+            "protein_score": "5",
+            "protein_score_label": "Moderate",
+            "protein_explanation": "The inclusion of Great Value Large White Eggs provided a substantial amount of protein, improving this score. Protein supports muscle growth and repair and overall health. Keep it up, and try to diversify with plant-based protein next week!",
+            "fattyacids_score": "5.25",
+            "fattyacids_score_label": "Moderate",
+            "fattyacids_explanation": "The cheese dip contributed to this score by providing some fatty acids. Fatty acids, especially omega-3s, have been shown to improve heart health by reducing the risk of cardiovascular diseases. Try getting more fish or other sources of omega-3s next week."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "10",
+            "refinedgrains_score_label": "Great",
+            "refinedgrains_explanation": "However, there is a lack of whole grains like brown rice or whole wheat, which would be healthier alternatives. While refined grains are fine occasionally, whole grains should be the priority for better health outcomes. Keep striving to include more whole grains!",
+            "sodium_score": "0",
+            "sodium_score_label": "Needs Improvement",
+            "sodium_explanation": "Great Value Melt'n Dip Easy Melt Cheese is high in sodium. Excessive sodium can lead to high blood pressure and other health issues. Consider reducing foods that are high in sodium.",
+            "addedsugars_score": "10",
+            "addedsugars_score_label": "Great",
+            "addedsugars_explanation": "You chose items with minimal added sugars, contributing to a healthier dietary pattern. This is beneficial, as high added sugar intake can contribute to weight gain and dental problems. Keep it up!",
+            "saturatedfats_score": "0",
+            "saturatedfats_score_label": "Needs Improvement",
+            "saturatedfats_explanation": "The inclusion of items like Great Value Medium Wing Sauce raised the levels of saturated fats. Consuming too much saturated fat can increase the risk of heart disease. Choose leaner proteins and low-fat dairy next week."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Great Value Medium Wing Sauce contributed to negative Vegetable intake. Next week try adding more leafy greens like spinach or kale to strengthen the vegetable component.",
+            "food_to_substitute1": "Great Value Medium Wing Sauce",
+            "recommendation2": "Great Value Large White Eggs contributed to negative Sodium intake. Next week try opting for foods naturally lower in sodium, like fresh lean meats or fish, and consider using herbs and spices for seasoning.",
+            "food_to_substitute2": "Great Value Large White Eggs",
+            "recommendation3": "Great Value Melt'n Dip Easy Melt Cheese contributed to negative Saturated Fat score. Next week try reducing the number of high-fat cheeses and choosing lower-fat cheese options, such as mozzarella or cottage cheese.",
+            "food_to_substitute3": "Great Value Melt'n Dip Easy Melt Cheese"
+        }
+    ]
+}

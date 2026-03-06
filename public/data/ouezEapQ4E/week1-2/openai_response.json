@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Fresh Papaya",
+            "good_choice_reason1": "provide vitamins and fiber, contributing positively to your fruit intake",
+            "good_choice_item2": "Fresh Yellow Bell Pepper",
+            "good_choice_reason2": "provide essential vitamins and minerals, such as Vitamin C and A, helping improve your vegetable score",
+            "good_choice_item3": "Lactaid 2% Reduced Fat Milk",
+            "good_choice_reason3": "deliver calcium and protein, supporting your dairy intake"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Great work! You made great progress with reducing added sugar. This was due to your choice of Marzetti Light Classic Caramel Dip Singles, which provided minimal added sugars.",
+                    "feedback_items": "Marzetti Light Classic Caramel Dip Singles"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goal to reduce sodium. You purchased Great Value Alfredo Pasta Sauce which didn't contribute positively because it contained a high amount of sodium.",
+                    "feedback_items": "Great Value Alfredo Pasta Sauce"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your goal to increase vegetable intake. You could focus more on deliberately including vegetables like Fresh Jicama to improve your vegetable score.",
+                    "feedback_items": "Fresh Jicama"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "38.14 / 100",
+            "fruits_score": "10",
+            "fruits_score_label": "Great!",
+            "fruits_explanation": "The inclusion of Fresh Personal Watermelon contributed greatly to your fruit intake. Including fruits is beneficial as they provide essential vitamins, minerals, and fiber. Keep up the good work!",
+            "vegetables_score": "2.22",
+            "vegetables_score_label": "Moderate",
+            "vegetables_explanation": "The inclusion of Fresh Yellow Bell Pepper helped, but a wider variety would improve this. Vegetables contribute necessary nutrients like vitamins and minerals, supporting overall health. Try to incorporate more diverse vegetables next time!",
+            "grains_score": "3.98",
+            "grains_score_label": "Moderate",
+            "grains_explanation": "Great Value Cinnamon Graham Crackers contributed to this score. Whole grains are important as they provide fiber and other nutrients. Look for more whole grain options next time!",
+            "dairy_score": "2.75",
+            "dairy_score_label": "Moderate",
+            "dairy_explanation": "Lactaid 2% Reduced Fat Milk contributed to your dairy intake. Dairy provides calcium and vitamin D, which are essential for bone health. Consider more dairy options!",
+            "protein_score": "0.01",
+            "protein_score_label": "Needs Improvement",
+            "protein_explanation": "Low score due to minimal protein sources like King's Hawaiian Original Hawaiian Sweet Dinner Rolls. Protein is vital for building and repairing tissues. Try including more plant-based proteins, seafood, or meats.",
+            "fattyacids_score": "0",
+            "fattyacids_score_label": "Needs Improvement",
+            "fattyacids_explanation": "Low score due to insufficient sources of fatty acids. Fatty acids are important for heart health. Consider adding items like fish or avocados next week."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "2.17",
+            "refinedgrains_score_label": "Needs Improvement",
+            "refinedgrains_explanation": "You had a high amount of refined grains in your basket this week such as King's Hawaiian Original Hawaiian Sweet Dinner Rolls. Refined grains are lower in fiber and nutrients, and they can cause spikes in blood sugar. Replace them with whole grains for better nutritional benefits.",
+            "sodium_score": "10",
+            "sodium_score_label": "Great!",
+            "sodium_explanation": "You made great progress in keeping your sodium levels low with many items such as minimizes like Great Value Alfredo Pasta Sauce. This is beneficial as it can help lower blood pressure and reduce the risk of cardiovascular diseases. Keep it up!",
+            "addedsugars_score": "5.64",
+            "addedsugars_score_label": "Moderate",
+            "addedsugars_explanation": "You kept your added sugars to a minimum with items like Marzetti Light Classic Caramel Dip Singles. Keeping added sugars low can help prevent weight gain and dental problems. Try to keep this up!",
+            "saturatedfats_score": "1.37",
+            "saturatedfats_score_label": "Needs Improvement",
+            "saturatedfats_explanation": "The score is due to items like Great Value Alfredo Pasta Sauce. High saturated fat intake can lead to increased cholesterol levels and heart problems. Focus on finding low-fat alternatives."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "King's Hawaiian Original Hawaiian Sweet Dinner Rolls contributed to a negative refined grain score. Next week try whole grain bread to strengthen your whole grains score.",
+            "food_to_substitute1": "King's Hawaiian Original Hawaiian Sweet Dinner Rolls",
+            "recommendation2": "Great Value Alfredo Pasta Sauce contributed to negative saturated fat scores. Next week try marinara sauce as a healthier alternative.",
+            "food_to_substitute2": "Great Value Alfredo Pasta Sauce",
+            "recommendation3": "RITZ Original Crackers contributed to a low fatty acids score. Next week try almonds or walnuts to increase your intake of beneficial fatty acids.",
+            "food_to_substitute3": "RITZ Original Crackers"
+        }
+    ]
+}

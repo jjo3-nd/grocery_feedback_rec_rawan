@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Fresh Strawberries",
+            "good_choice_reason1": "provide rich vitamins, particularly vitamin C, and contribute to your fruit intake",
+            "good_choice_item2": "Fresh Green Kale Bunch",
+            "good_choice_reason2": "supply high levels of vitamins, minerals, and fiber",
+            "good_choice_item3": "Prairie Farms 2% Reduced Fat Milk",
+            "good_choice_reason3": "offer essential calcium and vitamin D, vital for bone health"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Great work! You made great progress with your goal to increase vegetable intake due to the inclusion of Fresh Green Kale Bunch, which is packed with essential nutrients and fiber.",
+                    "feedback_items": "Fresh Green Kale Bunch"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your goal to reduce added sugar. You purchased Nature Valley Crunchy Oats and Honey Granola Pouch which didn\u2019t contribute to your goal because it contains added sugars.",
+                    "feedback_items": "Nature Valley Crunchy Oats and Honey Granola Pouch"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your goal to reduce sodium. You purchased Claussen Kosher Dill Pickle Halves and McClure's Garlic & Dill Chip Cut Pickle Slices, contributing high sodium levels against your goal.",
+                    "feedback_items": "Claussen Kosher Dill Pickle Halves"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "68.68",
+            "fruits_score": "9.7",
+            "fruits_score_label": "Great",
+            "fruits_explanation": "You included Fresh Strawberries and Fresh Banana, which provided a high intake of fruits. Fruits are crucial for essential vitamins and fiber. Keep up the good work!",
+            "vegetables_score": "10",
+            "vegetables_score_label": "Great",
+            "vegetables_explanation": "Fresh Green Kale Bunch and Fresh Red Bell Pepper helped you reach a perfect score in vegetables. These provide vital nutrients and vitamins needed for health. Keep it up!",
+            "grains_score": "3.0",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "Your low score was due to insufficient whole grain choices like Multi Grain Cheerios, Heart Healthy Breakfast Cereal. Whole grains are important for fiber and long-lasting energy. Try adding more whole grain options next time.",
+            "dairy_score": "10",
+            "dairy_score_label": "Great",
+            "dairy_explanation": "Prairie Farms Whole Vitamin D Milk and Stonyfield Organic Plain Whole Milk Probiotic Yogurt contributed to an excellent dairy score. Dairy is important for calcium and vitamin D. Maintain your current choices!",
+            "protein_score": "10",
+            "protein_score_label": "Great",
+            "protein_explanation": "You made great protein choices with Rosarita Traditional Refried Beans and Black Beans. Protein is essential for muscle repair and growth. Keep up the great choices!",
+            "fattyacids_score": "0",
+            "fattyacids_score_label": "Needs Improvement",
+            "fattyacids_explanation": "This component was low due to a lack of products high in healthy fats like avocado or nuts. Fatty acids are vital for heart health. Consider adding these to your diet."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "10",
+            "refinedgrains_score_label": "Great",
+            "refinedgrains_explanation": "Great job limiting refined grains. Choosing foods like Club Multigrain Crackers helps you maintain a balanced diet low in refined grains. Keep it up!",
+            "sodium_score": "5.98",
+            "sodium_score_label": "Moderate",
+            "sodium_explanation": "The sodium content in Claussen Kosher Dill Pickle Halves and McClure's Garlic & Dill Chip Cut Pickle Slices contributed to a moderate score. High sodium intake can lead to high blood pressure. Aim to reduce high-sodium foods next time.",
+            "addedsugars_score": "10",
+            "addedsugars_score_label": "Great",
+            "addedsugars_explanation": "Despite including items like Nature Valley Crunchy Oats and Honey Granola Pouch, your overall intake of added sugars is within a reasonable range. This helps prevent health issues like obesity and dental problems. Keep managing your choices!",
+            "saturatedfats_score": "0",
+            "saturatedfats_score_label": "Needs Improvement",
+            "saturatedfats_explanation": "Cabot Creamery Extra Sharp Cheddar Cheese Block contributed to a high level of saturated fats in your diet. Saturated fats can affect heart health negatively. Consider finding alternatives with lower saturated fat content."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Nature Valley Crunchy Oats and Honey Granola Pouch contributed to negative added sugars. Next week try fresh fruits like apples or pears instead.",
+            "food_to_substitute1": "Nature Valley Crunchy Oats and Honey Granola Pouch",
+            "recommendation2": "Claussen Kosher Dill Pickle Halves contributed to negative sodium scores. Next week try fresh cucumbers or low sodium alternatives to manage sodium better.",
+            "food_to_substitute2": "Claussen Kosher Dill Pickle Halves",
+            "recommendation3": "Cabot Creamery Extra Sharp Cheddar Cheese Block contributed to negative saturated fat. Next week try Sargento Reduced Fat Cheese Slices for better heart health.",
+            "food_to_substitute3": "Cabot Creamery Extra Sharp Cheddar Cheese Block"
+        }
+    ]
+}

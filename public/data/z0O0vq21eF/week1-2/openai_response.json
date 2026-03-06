@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Marketside Fresh Spinach",
+            "good_choice_reason1": "is rich in vitamins like Vitamin A and K, and it's low in calories while being nutritious",
+            "good_choice_item2": "Fresh Grape Tomato",
+            "good_choice_reason2": "is high in vitamins such as Vitamin C, low in calories, and packed with antioxidants like lycopene",
+            "good_choice_item3": "Fresh Cucumber",
+            "good_choice_reason3": "is primarily water, which helps keep you hydrated, and it's a good source of nutrients like Vitamin K"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Great work! You made significant progress with your vegetable intake. This was due to your purchase of Marketside Fresh Spinach because it significantly contributed to your vegetable scores.",
+                    "feedback_items": "Marketside Fresh Spinach"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goal to reduce added sugar. You purchased Dole Powder Drink Mix Variety Pack, which contributed to high added sugar because it contains a significant amount of added sugars per serving.",
+                    "feedback_items": "Dole Powder Drink Mix Variety Pack"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goal to reduce sodium. You purchased John Morrell Diced Ham, which didn\u2019t help reduce your sodium intake because processed meats like ham often contain high levels of sodium.",
+                    "feedback_items": "John Morrell Diced Ham"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "42.6/100",
+            "fruits_score": "0",
+            "fruits_score_label": "Needs Improvement",
+            "fruits_explanation": "You did not have whole fruits in your basket, contributing to a low score. Including whole fruits like apples or bananas is beneficial because they provide essential vitamins, minerals, and fiber. Fruits are important for keeping our bodies healthy. Try getting more whole fruits next time!",
+            "vegetables_score": "9.89",
+            "vegetables_score_label": "Great",
+            "vegetables_explanation": "You had a great score due to Marketside Fresh Spinach, Fresh Grape Tomato, and Fresh Cucumber. Vegetables are great to include in your diet as they are high in essential vitamins and minerals and low in calories, supporting overall health. Keep it up!",
+            "grains_score": "1.67",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "Act II Xtreme Butter Microwave Popcorn contributed to a low whole grains score. Grains are a core source of energy and also deliver fiber and essential nutrients. Try incorporating more whole grains like brown rice and oats for better health benefits next week!",
+            "dairy_score": "5.61",
+            "dairy_score_label": "Moderate",
+            "dairy_explanation": "Great Value Singles American Pasteurized Prepared Cheese Product added to this score. Dairy products provide calcium, vitamin D, and protein, which are important for strong bones and teeth. Consider adding more diverse dairy products like low-fat milk or yogurt.",
+            "protein_score": "5.08",
+            "protein_score_label": "Moderate",
+            "protein_explanation": "You had a moderate protein score mainly from John Morrell Diced Ham. Protein foods are crucial for muscle building and repair. However, consider incorporating more seafood and plant-based proteins like beans or lentils for comprehensive protein benefits.",
+            "fattyacids_score": "0",
+            "fattyacids_score_label": "Needs Improvement",
+            "fattyacids_explanation": "Great Value Buttermilk Ranch Dressing & Dip was used but didn\u2019t enhance your score significantly. Fatty acids, especially omega-3s, are essential for heart health and brain function. Try integrating sources like fish or flaxseeds for next week for better nutrition."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "10",
+            "refinedgrains_score_label": "Great",
+            "refinedgrains_explanation": "You excelled in this category by including Great Value Butter Flavor Jumbo Biscuits. However, refined grains are lower in fiber and nutrients compared to whole grains. Opting for whole grains like whole-wheat bread can provide more nutritional benefits.",
+            "sodium_score": "3.37",
+            "sodium_score_label": "Needs Improvement",
+            "sodium_explanation": "The high sodium content in John Morrell Diced Ham contributed to a lower score. A high sodium intake can elevate blood pressure and harm heart health. Managing your sodium intake continues to be a good goal for overall well-being.",
+            "addedsugars_score": "6.97",
+            "addedsugars_score_label": "Moderate",
+            "addedsugars_explanation": "The purchase of Dole Powder Drink Mix Variety Pack was a primary contributor. Consuming high added sugars can contribute to weight gain and dental issues. Keep working toward minimizing these sources.",
+            "saturatedfats_score": "0",
+            "saturatedfats_score_label": "Needs Improvement",
+            "saturatedfats_explanation": "Daisy Pure and Natural Squeeze Sour Cream contributed significantly to the saturated fat score. High levels of saturated fat can increase cholesterol levels and risk of heart disease. Try reducing sources of saturated fat in favor of healthier fats like those in avocados."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Dole Powder Drink Mix Variety Pack contributed to a negative added sugars score. Next week try water infused with fresh fruits or unsweetened tea as healthier alternatives to drink mixes.",
+            "food_to_substitute1": "Dole Powder Drink Mix Variety Pack",
+            "recommendation2": "John Morrell Diced Ham contributed to a negative sodium score. Next week, try baked chicken breast or turkey as protein choices that tend to have lower sodium levels.",
+            "food_to_substitute2": "John Morrell Diced Ham",
+            "recommendation3": "Great Value Butter Flavor Jumbo Biscuits contributed to a negative whole grains score. Next week try whole grain bread or oatmeal, which are packed with fiber and nutrients, making them better options than refined grain products.",
+            "food_to_substitute3": "Great Value Butter Flavor Jumbo Biscuits"
+        }
+    ]
+}

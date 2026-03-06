@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Fresh Cosmic Crisp Apples",
+            "good_choice_reason1": "provide excellent whole fruit content, contributing to your total fruit and whole fruit scores",
+            "good_choice_item2": "Fresh Iceberg Lettuce",
+            "good_choice_reason2": "add variety and nutrients to your vegetable intake",
+            "good_choice_item3": "Great Value Creamy Caesar Salad Dressing & Dip",
+            "good_choice_reason3": "help achieve a perfect score for fatty acids due to the monounsaturated fats in the product"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake",
+            "goal_feedback": [
+                {
+                    "feedback_text": "You made great progress with reducing added sugar. This was due to your purchase of items like Nestle La Lechera Sweetened Condensed Milk, despite its sugar content, overall added sugar intake was minimal.",
+                    "feedback_items": "Nestle La Lechera Sweetened Condensed Milk"
+                },
+                {
+                    "feedback_text": "You made great progress with reducing sodium. This was due to your purchase of Great Value Oven Roasted Turkey Breast Lunchmeat Mega Pack, as it contributed but stayed within limits.",
+                    "feedback_items": "Great Value Oven Roasted Turkey Breast Lunchmeat Mega Pack"
+                },
+                {
+                    "feedback_text": "You made great progress with increasing vegetable intake. This was due to your purchase of Fresh Iceberg Lettuce, which added diversity to your diet.",
+                    "feedback_items": "Fresh Iceberg Lettuce"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "79.44 / 100",
+            "fruits_score": "10",
+            "fruits_score_label": "Great",
+            "fruits_explanation": "Fruits like Fresh Cosmic Crisp Apples helped you achieve a perfect fruit score. Consuming a variety of fruits provides essential vitamins and prevents nutritional deficiencies. Keep filling your basket with a colorful array of fruits!",
+            "vegetables_score": "10",
+            "vegetables_score_label": "Great",
+            "vegetables_explanation": "You had a great score due to items like Fresh Iceberg Lettuce. Vegetables are great to include in your diet as they are high in essential vitamins and minerals and low in calories, supporting overall health. Keep it up!",
+            "grains_score": "2.71",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "You had items like Cinnamon Chex Cereal, but the deficiency of whole grains muted your score. Whole grains provide more nutrients and fiber than refined grains. Let\u2019s aim for more whole grains for improved health benefits next time.",
+            "dairy_score": "4.77",
+            "dairy_score_label": "Moderate",
+            "dairy_explanation": "You had a moderate score due to items like Great Value Singles American Pasteurized Prepared Cheese Product. Dairy is important for bone health due to its calcium content. Incorporating more low-fat dairy options could boost this score.",
+            "protein_score": "3.51",
+            "protein_score_label": "Moderate",
+            "protein_explanation": "Great Value Oven Roasted Turkey Breast Lunchmeat Mega Pack contributed mostly to this category. Consider adding more plant-based proteins like beans or lentils for added variety and nutrition.",
+            "fattyacids_score": "10",
+            "fattyacids_score_label": "Great",
+            "fattyacids_explanation": "You achieved a great score with products like Great Value Creamy Caesar Salad Dressing & Dip. Fatty acids, especially omega-3s, have been shown to improve heart health by reducing the risk of cardiovascular diseases. Keep making choices that include healthy fats!"
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "9.95",
+            "refinedgrains_score_label": "Great",
+            "refinedgrains_explanation": "Your choice of products like Aunt Millie's Potato Bread Loaf fits within moderation parameters. Refined grains can be part of a balanced diet when enjoyed in moderation. Keep making similar choices!",
+            "sodium_score": "9.46",
+            "sodium_score_label": "Great",
+            "sodium_explanation": "You managed to keep sodium intake in check, even with items like Great Value Oven Roasted Turkey Breast Lunchmeat Mega Pack in your basket. This is beneficial for managing blood pressure levels and overall heart health.",
+            "addedsugars_score": "9.04",
+            "addedsugars_score_label": "Great",
+            "addedsugars_explanation": "You chose items with minimal added sugars, which is fantastic given your goal to reduce sugar. This helps manage weight and reduce the risk of chronic diseases. Keep it up!",
+            "saturatedfats_score": "10",
+            "saturatedfats_score_label": "Great",
+            "saturatedfats_explanation": "You had a diverse selection, such as Great Value Original Dairy Whipped Topping, that didn't push your saturated fats over limit. It's excellent to continue these choices for heart health."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Cinnamon Chex Cereal contributed to negative Whole Grains. Next week try swapping it for some whole grain cereal options.",
+            "food_to_substitute1": "Cinnamon Chex Cereal",
+            "recommendation2": "Nestle La Lechera Sweetened Condensed Milk contributed to negative Added Sugars. Next week incorporate more natural sweeteners or low sugar options.",
+            "food_to_substitute2": "Nestle La Lechera Sweetened Condensed Milk",
+            "recommendation3": "Aunt Millie's Potato Bread Loaf contributed to negative Whole Grains. Next week, try whole wheat or multigrain bread options for more fiber and nutrients.",
+            "food_to_substitute3": "Aunt Millie's Potato Bread Loaf"
+        }
+    ]
+}

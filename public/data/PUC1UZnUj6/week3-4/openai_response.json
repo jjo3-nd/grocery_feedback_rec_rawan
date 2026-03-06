@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Pink Lady Apples",
+            "good_choice_reason1": "provide a great source of whole fruits, adding fiber and essential nutrients",
+            "good_choice_item2": "Yellow Onions",
+            "good_choice_reason2": "contribute to vegetable intake when combined with baby food options",
+            "good_choice_item3": "Great Value 2% Reduced Fat Milk",
+            "good_choice_reason3": "provide calcium and essential nutrients in the dairy category"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake.",
+            "goal_feedback": [
+                {
+                    "feedback_text": "You made great progress with reducing sodium. This was due to your purchases of Gerber 1st Foods Natural for Baby Baby Food, Carrot which has a reasonable sodium content compared to many processed foods.",
+                    "feedback_items": "Gerber 1st Foods Natural for Baby Baby Food, Carrot"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased SWEDISH FISH Mini Glow Ups Strawberry-Watermelon Soft & Chewy Candy which didn\u2019t contribute to your goal of reducing added sugar because these candies have high sugar content.",
+                    "feedback_items": "SWEDISH FISH Mini Glow Ups Strawberry-Watermelon Soft & Chewy Candy"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Great Value Heavy Whipping Cream which is high in saturated fat, and while not directly related to sodium, it\u2019s good to consider nutrient density in all aspects of eating for health.",
+                    "feedback_items": "Great Value Heavy Whipping Cream"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "45.8 / 100",
+            "fruits_score": "10/10",
+            "fruits_score_label": "Great",
+            "fruits_explanation": "Fresh Pink Lady Apples were the main contributors to your great fruit score. Fruits are essential for providing vitamins, minerals, and fiber. Keep up the great work with consuming a variety of fruits!",
+            "vegetables_score": "4.43/10",
+            "vegetables_score_label": "Moderate",
+            "vegetables_explanation": "Your score was moderate due to the inclusion of products like Fresh Yellow Onions, but there was a lack of scores from dark green vegetables or beans. Vegetables are high in essential vitamins and minerals and support overall health. Try to incorporate more dark green vegetables to improve your score.",
+            "grains_score": "4.33/10",
+            "grains_score_label": "Moderate",
+            "grains_explanation": "Little Bellies Organic Strawberry Pick-Me Sticks Puff Snack helped your whole grain intake, but more variety and quantity could strengthen your whole grain score. Whole grains are important as they provide essential nutrients and fiber. Consider incorporating more whole-grain foods like oats or whole-grain bread.",
+            "dairy_score": "4.21/10",
+            "dairy_score_label": "Moderate",
+            "dairy_explanation": "Great Value, 2% Reduced Fat Milk contributed to your dairy intake. Dairy products are crucial for calcium, vitamin D, and protein. Supporting bone health with a diverse range of dairy options can enhance this category score.",
+            "protein_score": "0.05/10",
+            "protein_score_label": "Needs Improvement",
+            "protein_explanation": "Your choices this week, such as Freshness Guaranteed Pink Frosted Green Sugar Cookies, did not greatly contribute to your overall protein score. Protein is important for building and repairing tissues. Try including more diverse protein sources, especially plant-based ones, like beans and lentils.",
+            "fattyacids_score": "0/10",
+            "fattyacids_score_label": "Needs Improvement",
+            "fattyacids_explanation": "You had a low score this week due to items like Great Value Heavy Whipping Cream. Fatty acids, especially omega-3s, have been shown to improve heart health by reducing the risk of cardiovascular diseases. Including foods like walnuts or fatty fish can help improve this score."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "4.57/10",
+            "refinedgrains_score_label": "Moderate",
+            "refinedgrains_explanation": "The purchase of Lender's Original Plain Bagels contributed significantly to this moderate score. Refined grains are lower in fiber and nutrients, and they can cause spikes in blood sugar. Replace them with whole grains like brown rice for better nutritional benefits.",
+            "sodium_score": "10/10",
+            "sodium_score_label": "Great",
+            "sodium_explanation": "The balance in sodium intake likely came from smart choices like the controlled sodium content in Gerber foods. Maintaining low sodium intake is beneficial for heart health. Great job on this!",
+            "addedsugars_score": "6.73/10",
+            "addedsugars_score_label": "Moderate",
+            "addedsugars_explanation": "Your choice of candies like SWEDISH FISH and Skittles affected your added sugars score. High added sugar intake can contribute to weight gain. Keep reducing sugar products!",
+            "saturatedfats_score": "1.47/10",
+            "saturatedfats_score_label": "Needs Improvement",
+            "saturatedfats_explanation": "Great Value Heavy Whipping Cream added to saturated fat content. Reducing saturated fats is good for heart health. Consider using lower-fat options where possible."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "SWEDISH FISH Mini Glow Ups Strawberry-Watermelon Soft & Chewy Candy contributed to negative added sugars. Next week try fruits like strawberries or a low-sugar fruit yogurt.",
+            "food_to_substitute1": "SWEDISH FISH Mini Glow Ups Strawberry-Watermelon Soft & Chewy Candy",
+            "recommendation2": "Great Value Heavy Whipping Cream contributed to negative fatty acid balance. Next week try opting for nuts or avocado which provide healthy fats.",
+            "food_to_substitute2": "Great Value Heavy Whipping Cream",
+            "recommendation3": "Freshness Guaranteed Pink Frosted Green Sugar Cookies contributed to negative protein. Next week try incorporating chickpea snacks or Greek yogurt for protein enhancement.",
+            "food_to_substitute3": "Freshness Guaranteed Pink Frosted Green Sugar Cookies"
+        }
+    ]
+}

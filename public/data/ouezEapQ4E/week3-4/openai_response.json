@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Lactaid Lowfat Milk",
+            "good_choice_reason1": "contribute to perfect score in the dairy category, providing essential nutrients such as calcium and vitamin D",
+            "good_choice_item2": "Fresh Lime",
+            "good_choice_reason2": "help achieve a perfect score in the fruits category, providing essential vitamins, including vitamin C",
+            "good_choice_item3": "Fresh Cilantro",
+            "good_choice_reason3": "help score high in the vegetables category, providing important nutrients like vitamin K and fiber"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Great work! You made progress with reducing sodium due to your purchase of Hillshire Farm Ultra-Thin Sliced Oven Roasted Turkey Breast Deli Lunch Meat, which kept your sodium levels moderate for the week.",
+                    "feedback_items": "Hillshire Farm Ultra-Thin Sliced Oven Roasted Turkey Breast"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased La Michoacana Jarritos Tamarind Fruit Ice Pops which didn\u2019t contribute to your goal of reducing added sugar because it contains a significant amount of added sugars.",
+                    "feedback_items": "La Michoacana Jarritos Tamarind Fruit Ice Pops"
+                },
+                {
+                    "feedback_text": "Great work! You made great progress with increasing vegetable intake due to your purchase of Fresh Cilantro, Bunch, which contributed positively to your vegetable goal.",
+                    "feedback_items": "Fresh Cilantro"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "63.8",
+            "fruits_score": "10",
+            "fruits_score_label": "Great",
+            "fruits_explanation": "Your purchase of Fresh Lime contributed to a very high score. Fruits are essential for providing vitamins, minerals, and fiber. Keep it up!",
+            "vegetables_score": "9.5",
+            "vegetables_score_label": "Great",
+            "vegetables_explanation": "Your purchases of Fresh Cilantro and Fresh Roma Tomato contributed to a high score. Vegetables are high in essential vitamins and minerals and low in calories, supporting overall health. Keep up the diverse choices!",
+            "grains_score": "0.15",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "You had very limited grains like Planet Oat, Oatmilk Liquid Coffee Creamer. Whole grains are higher in fiber and nutrients compared to refined grains and are important for long-lasting energy. Try to include a variety of whole-grain options such as whole grain bread, brown rice, or oatmeal next week.",
+            "dairy_score": "10",
+            "dairy_score_label": "Great",
+            "dairy_explanation": "Including Lactaid Lowfat Milk contributed to your great score. Dairy provides important nutrients like calcium and vitamin D, essential for bone health. Keep it up!",
+            "protein_score": "9.14",
+            "protein_score_label": "Great",
+            "protein_explanation": "Items like Hillshire Farm Ultra-Thin Sliced Oven Roasted Turkey Breast and Marketside Organic Cage-Free Brown Eggs boosted your score. A variety of protein sources are vital for muscle building and repair. Continue incorporating a balanced mix of protein-rich foods!",
+            "fattyacids_score": "0",
+            "fattyacids_score_label": "Needs Improvement",
+            "fattyacids_explanation": "There was a lack of foods high in healthy fatty acids. Fatty acids, especially omega-3s, have been shown to improve heart health by reducing the risk of cardiovascular diseases. Consider adding sources like fish or nuts next week."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "10",
+            "refinedgrains_score_label": "Great",
+            "refinedgrains_explanation": "Although you had items like Sara Lee Artesano Original Bread, your overall consumption was balanced with whole grain options. Try to maintain this balance for optimal health. Keep it up!",
+            "sodium_score": "10",
+            "sodium_score_label": "Great",
+            "sodium_explanation": "You managed sodium well with products like Hillshire Farm Ultra-Thin Sliced Oven Roasted Turkey Breast, which helped you maintain a healthy consumption level. Managing sodium intake aids in controlling blood pressure. Keep up the careful selection!",
+            "addedsugars_score": "5",
+            "addedsugars_score_label": "Moderate",
+            "addedsugars_explanation": "You had some added sugars from items like La Michoacana Jarritos Tamarind Fruit Ice Pops. High added sugar intake can contribute to weight gain and dental problems. Look for options with no added sugars next time.",
+            "saturatedfats_score": "0",
+            "saturatedfats_score_label": "Needs Improvement",
+            "saturatedfats_explanation": "Items like V&V Supremo, Queso Fresco contributed to a high saturated fat intake. High levels of saturated fat can increase cholesterol, impacting heart health. Substituting lower-fat options like low-fat yogurt or plant-based spreads may help."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "La Michoacana Jarritos Tamarind Fruit Ice Pops contributed to a negative added sugar score. Next week, try fresh fruits or unsweetened dried fruits to strengthen your score.",
+            "food_to_substitute1": "La Michoacana Jarritos Tamarind Fruit Ice Pops",
+            "recommendation2": "Planet Oat, Oatmilk Liquid Coffee Creamer contributed to a negative whole-grain score. Next week, try oatmeal or whole-grain bread.",
+            "food_to_substitute2": "Planet Oat, Oatmilk Liquid Coffee Creamer",
+            "recommendation3": "V&V Supremo, Queso Fresco contributed to a negative saturated fat score. Next week, try reduced-fat cheese or Greek yogurt.",
+            "food_to_substitute3": "V&V Supremo, Queso Fresco"
+        }
+    ]
+}

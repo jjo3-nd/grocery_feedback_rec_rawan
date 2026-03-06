@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Great Value, 2% Reduced Fat Milk",
+            "good_choice_reason1": "contribute to your dairy intake with essential nutrients like calcium, vitamin D, and protein",
+            "good_choice_item2": "Fresh Strawberries",
+            "good_choice_reason2": "add to your fruit intake, providing fiber, vitamins, and antioxidants",
+            "good_choice_item3": "Tyson All Natural, Fresh, Boneless, Skinless Chicken Breasts",
+            "good_choice_reason3": "contribute to your protein intake, providing lean protein essential for muscle maintenance and repair"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Great work! You made great progress with your goal to reduce added sugar. The items you purchased contained minimal added sugars, such as Minute Maid Fruit Punch Real Fruit Juice Drink, which showed control over added sugars.",
+                    "feedback_items": "Minute Maid Fruit Punch Real Fruit Juice Drink"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Tostitos Restaurant Style Salsa Medium, which didn\u2019t contribute to your goal of reducing sodium because it has a high sodium content.",
+                    "feedback_items": "Tostitos Restaurant Style Salsa Medium"
+                },
+                {
+                    "feedback_text": "Great work! You made great progress with your goal to increase vegetable intake. This was due to your purchases of Fresh Tomatillos, which are versatile vegetables rich in vitamins.",
+                    "feedback_items": "Fresh Tomatillos"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "75.37 / 100",
+            "fruits_score": "10/10",
+            "fruits_score_label": "Great",
+            "fruits_explanation": "Your inclusion of fresh strawberries and limes contributed to this excellent score. Fruits provide essential vitamins, minerals, and fiber which are crucial for maintaining health. Great job keeping a variety of fruits!",
+            "vegetables_score": "10/10",
+            "vegetables_score_label": "Great",
+            "vegetables_explanation": "Your excellent vegetable score is due to diverse choices like Fresh Tomatillos and Fresh Green Bell Pepper. Vegetables are rich in essential vitamins and minerals and low in calories, supporting overall health. Keep it up!",
+            "grains_score": "0.79/10",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "This score was low due to the limited presence of whole grains in your purchases. Including whole grains is important because they provide more fiber and nutrients. Whole grains support heart health and aid digestion.",
+            "dairy_score": "5.15/10",
+            "dairy_score_label": "Moderate",
+            "dairy_explanation": "Your dairy score reflects your purchase of Great Value, 2% Reduced Fat Milk. Including a wider variety of low-fat dairy products could improve this score. Dairy is vital for bone health due to its calcium and vitamin D content.",
+            "protein_score": "10/10",
+            "protein_score_label": "Great",
+            "protein_explanation": "The excellent protein score was due to foods like Tyson All Natural, Fresh, Boneless, Skinless Chicken Breasts. Proteins are essential for maintaining body tissues and supporting metabolic functions.",
+            "fattyacids_score": "3.9/10",
+            "fattyacids_score_label": "Needs Improvement",
+            "fattyacids_explanation": "This score was lowered due to higher consumption of foods without healthy fatty acids such as Munchies? Flamin' Hot Snack Mix. Fatty acids, particularly omega-3s, are important for heart health. Try including sources like fish, nuts, and seeds next week."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "7.45/10",
+            "refinedgrains_score_label": "Moderate",
+            "refinedgrains_explanation": "You consumed moderate amounts of refined grains like Sara Lee Half Loaf White Bread. Refined grains, such as white rice and bread, are lower in fiber and nutrients. Replacing with whole grains like brown rice or whole wheat products can provide better nutritional benefits.",
+            "sodium_score": "8.07/10",
+            "sodium_score_label": "Moderate",
+            "sodium_explanation": "The inclusion of products like Tostitos Restaurant Style Salsa Medium contributed to sodium intake. While sodium is necessary for body functions, high intake can raise blood pressure. Try reducing processed foods for better outcomes.",
+            "addedsugars_score": "10/10",
+            "addedsugars_score_label": "Great",
+            "addedsugars_explanation": "You chose items with minimal added sugars, such as Minute Maid Fruit Punch Real Fruit Juice Drink. This is beneficial, as high added sugar intake can contribute to weight gain and dental problems. Keep it up!",
+            "saturatedfats_score": "10/10",
+            "saturatedfats_score_label": "Great",
+            "saturatedfats_explanation": "You maintained a low intake of saturated fats this week. Foods high in saturated fats, like Daisy Pure and Natural Sour Cream, should be limited as they can lead to heart disease. Continue choosing lean and healthy fats."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Munchies? Flamin' Hot Snack Mix contributed to a negative Fatty Acid score. Next week, try swapping it with more omega-3-rich foods like almonds or chia seeds to strengthen this score.",
+            "food_to_substitute1": "Munchies? Flamin' Hot Snack Mix",
+            "recommendation2": "Sara Lee Half Loaf White Bread contributed to a negative Whole Grains score. Next week, consider trying whole wheat or whole grain bread for better fiber and nutrition benefits.",
+            "food_to_substitute2": "Sara Lee Half Loaf White Bread",
+            "recommendation3": "Tostitos Restaurant Style Salsa Medium contributed to negative Sodium intake. Next week, consider fresh salsa or low-sodium options to better align with your sodium intake goals.",
+            "food_to_substitute3": "Tostitos Restaurant Style Salsa Medium"
+        }
+    ]
+}

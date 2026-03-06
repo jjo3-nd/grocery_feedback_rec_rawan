@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Fresh Strawberries",
+            "good_choice_reason1": "are high in vitamins, especially vitamin C, which is beneficial for your immune system",
+            "good_choice_item2": "Fresh Organic Zucchini Squash",
+            "good_choice_reason2": "is a low-calorie vegetable that is rich in essential nutrients and fiber",
+            "good_choice_item3": "Great Value Deli Style Sliced Swiss Cheese",
+            "good_choice_reason3": "contributed favorably to your dairy intake, providing calcium and protein"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Great work! You made great progress with increasing your vegetable intake. This was due to your purchases of Fresh Organic Zucchini Squash, which are rich in vitamins and fiber, helping you meet this goal.",
+                    "feedback_items": "Fresh Organic Zucchini Squash"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goal of reducing added sugar. You purchased Great Value Sweetened Dried Cranberries, which didn\u2019t contribute to your goal of reducing added sugar due to their high sugar content.",
+                    "feedback_items": "Great Value Sweetened Dried Cranberries"
+                },
+                {
+                    "feedback_text": "Great work! You made good progress reducing sodium. Your sodium intake was moderate, though the Great Value Thin Sliced Black Forest Ham Lunchmeat was a bit higher in sodium. Being mindful of foods like deli meats can help you continue to improve.",
+                    "feedback_items": "Great Value Thin Sliced Black Forest Ham Lunchmeat"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "52.36/100",
+            "fruits_score": "10/10",
+            "fruits_score_label": "Great",
+            "fruits_explanation": "Your selection of Fresh Strawberries and Fresh Pink Lady Apples contributed to your perfect fruit scores. Fruits provide essential vitamins, minerals, and fibers, which are great for maintaining overall health. Keep up the good work by continuing to choose a variety of fruits!",
+            "vegetables_score": "6.47/10",
+            "vegetables_score_label": "Moderate",
+            "vegetables_explanation": "Great Value California Style Vegetable Mix and Fresh Organic Zucchini Squash contributed to your vegetable scores. Vegetables are vital as they are high in essential vitamins and minerals and low in calories, supporting overall health. Try including more dark green and legume vegetables to improve your score.",
+            "grains_score": "0/10",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "You did not have any whole grains in your basket. Whole grains are important as they are high in fiber and can help with digestion and maintaining a healthy weight. Consider adding whole grain products like brown rice or quinoa next time.",
+            "dairy_score": "10/10",
+            "dairy_score_label": "Great",
+            "dairy_explanation": "Purchasing Great Value Deli Style Sliced Swiss Cheese resulted in a perfect dairy score. Dairy products are great for providing calcium and Vitamin D, necessary for bone health. Keep up the good work!",
+            "protein_score": "3.26/10",
+            "protein_score_label": "Needs Improvement",
+            "protein_explanation": "Great Value Oven Roasted Turkey Breast Lunchmeat and Great Value Thin Sliced Black Forest Ham Lunchmeat contributed to your scores. Protein foods are important for building and repairing body tissues. Try adding more seafood, nuts, and plant-based proteins such as beans and lentils for a better score and omega-3s intake.",
+            "fattyacids_score": "0/10",
+            "fattyacids_score_label": "Needs Improvement",
+            "fattyacids_explanation": "Your score was low due to a lack of foods high in fatty acids. Fatty acids, especially omega-3s, have been shown to improve heart health by reducing the risk of cardiovascular diseases. Try getting more fatty fish like salmon or adding walnuts next time."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "10/10",
+            "refinedgrains_score_label": "Great",
+            "refinedgrains_explanation": "You did not consume an excessive amount of refined grains, such as white rice or white bread. Not consuming too many refined grains is good as they can cause spikes in blood sugar.",
+            "sodium_score": "5.87/10",
+            "sodium_score_label": "Moderate",
+            "sodium_explanation": "Great Value Thin Sliced Black Forest Ham Lunchmeat contributed to your sodium intake. While your score was moderate, sodium can affect blood pressure, so focus on low-sodium options for continued improvement next week.",
+            "addedsugars_score": "6.77/10",
+            "addedsugars_score_label": "Moderate",
+            "addedsugars_explanation": "Great Value Sweetened Dried Cranberries contributed to your added sugar intake. Added sugars are not nutrient-dense and can lead to weight gain if consumed in excess. Aim for products with no or low added sugars next time.",
+            "saturatedfats_score": "0/10",
+            "saturatedfats_score_label": "Needs Improvement",
+            "saturatedfats_explanation": "Organic Valley, Organic Cream Cheese contributed to a higher intake of saturated fats. Saturated fats can raise bad cholesterol levels, which may lead to heart disease. Aim for products with lower saturated fat next time."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Great Value Sweetened Dried Cranberries contributed to negative added sugars. Next week try fresh or dried fruits without added sugars like dates or raisins to strengthen your score.",
+            "food_to_substitute1": "Great Value Sweetened Dried Cranberries",
+            "recommendation2": "Great Value Thin Sliced Black Forest Ham Lunchmeat contributed to negative sodium. Next week try fresh chicken or turkey breast without added sodium to strengthen your score.",
+            "food_to_substitute2": "Great Value Thin Sliced Black Forest Ham Lunchmeat",
+            "recommendation3": "Organic Valley, Organic Cream Cheese contributed to negative saturated fats. Next week try Ricotta cheese or Neufchatel cheese for a lower fat option.",
+            "food_to_substitute3": "Organic Valley, Organic Cream Cheese"
+        }
+    ]
+}

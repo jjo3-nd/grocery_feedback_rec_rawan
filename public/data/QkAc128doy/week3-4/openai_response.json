@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Fresh Strawberries",
+            "good_choice_reason1": "provide high vitamins and a great source of fiber and antioxidants",
+            "good_choice_item2": "Boneless, Skinless Chicken Breasts",
+            "good_choice_reason2": "offer high-quality protein crucial for muscle repair and growth",
+            "good_choice_item3": "Great Value Fat-Free Milk",
+            "good_choice_reason3": "provide essential calcium and vitamin D while being low in fat, supporting bone health"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake.",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Hawaiian Punch Green Berry Rush which didn\u2019t contribute to your goal of reducing added sugar because it contains a significant amount of added sugars.",
+                    "feedback_items": "Hawaiian Punch Green Berry Rush"
+                },
+                {
+                    "feedback_text": "Great work! You made great progress with reducing sodium. This was due to your purchase of Panera Bread Vegetarian Ready-to-Heat Mac & Cheese as it contributed moderately to sodium reduction. However, keep monitoring sodium intake to ensure it aligns with your goal.",
+                    "feedback_items": "Panera Bread Vegetarian Ready-to-Heat Mac & Cheese"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. Despite having Fresh Sliced Baby Bella Mushrooms, your goal of increasing vegetable intake wasn't fully achieved because the overall vegetable component was low. Consider including more various vegetables.",
+                    "feedback_items": "Fresh Sliced Baby Bella Mushrooms"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "53.53/100",
+            "fruits_score": "10/10",
+            "fruits_score_label": "Great",
+            "fruits_explanation": "Your inclusion of Fresh Strawberries significantly boosted your fruit score. Fruits provide essential vitamins, minerals, and fiber. Keep up the good work of incorporating a variety of whole fruits!",
+            "vegetables_score": "2.67/10",
+            "vegetables_score_label": "Moderate",
+            "vegetables_explanation": "While Fresh Sliced Baby Bella Mushrooms contributed positively, the overall variety and intake of vegetables were lacking, especially dark green vegetables and legumes. Vegetables are rich in nutrients that support health and well-being. Try adding more varied vegetables next week!",
+            "grains_score": "0/10",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "Whole grains were missing from your purchases. Whole grains are crucial for fiber and several nutrients. Include whole grains like brown rice or whole wheat products next time.",
+            "dairy_score": "6.26/10",
+            "dairy_score_label": "Moderate",
+            "dairy_explanation": "Great Value Fat-Free Milk contributed to your dairy score. Dairy is important for bone health due to its calcium and vitamin D content. Consider balancing with other low-fat dairy products.",
+            "protein_score": "7.23/10",
+            "protein_score_label": "Great",
+            "protein_explanation": "Thanks to Boneless, Skinless Chicken Breasts, your protein score is commendable. Protein supports muscle and tissue health. Keep incorporating a variety of protein sources!",
+            "fattyacids_score": "1.16/10",
+            "fattyacids_score_label": "Needs Improvement",
+            "fattyacids_explanation": "Great Value Dry Roasted Peanuts offered some benefit, but the inclusion of foods high in omega-3 fatty acids was limited. Omega-3s are important for heart health. Consider adding more sources like fatty fish."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "8.99/10",
+            "refinedgrains_score_label": "Great",
+            "refinedgrains_explanation": "You had a moderate amount of refined grains, such as Bimbo Soft White Bread. While occasionally fine, refine grains are lower in nutrients compared to whole grains. Opting for whole grains more often could improve nutrition.",
+            "sodium_score": "8.93/10",
+            "sodium_score_label": "Great",
+            "sodium_explanation": "Panera Bread Vegetarian Ready-to-Heat Mac & Cheese contributed significantly. Be mindful of excessive sodium, which can affect blood pressure. You\u2019re doing well, but careful choices will keep sodium intake in check.",
+            "addedsugars_score": "5.97/10",
+            "addedsugars_score_label": "Moderate",
+            "addedsugars_explanation": "Items like Hawaiian Punch Green Berry Rush added to the added sugars score. High added sugar intake can contribute to weight gain and dental issues. Reducing it can greatly benefit your health.",
+            "saturatedfats_score": "2.32/10",
+            "saturatedfats_score_label": "Needs Improvement",
+            "saturatedfats_explanation": "Great Value Original Dairy Whipped Topping contributed to the saturated fats score. High saturated fat intake can increase cholesterol levels and risk of cardiovascular disease. Focus on healthier fats."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Hawaiian Punch Green Berry Rush contributed negatively to added sugars. Next week, try fresh whole fruits or unsweetened fruit tea to strengthen your score.",
+            "food_to_substitute1": "Hawaiian Punch Green Berry Rush",
+            "recommendation2": "Fresh Sliced Baby Bella Mushrooms were helpful, but your vegetable intake was still low. Next week, try fresh leafy greens like spinach or kale to increase your vegetable score.",
+            "food_to_substitute2": "Fresh Sliced Baby Bella Mushrooms",
+            "recommendation3": "Bimbo Soft White Bread positively impacted refined grains but try swapping with whole grain alternatives like whole wheat bread for the next shopping trip.",
+            "food_to_substitute3": "Bimbo Soft White Bread"
+        }
+    ]
+}

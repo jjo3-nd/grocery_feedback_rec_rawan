@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Fresh Mangoes",
+            "good_choice_reason1": "provide ample whole fruits, contributing to a perfect score in the fruit category.",
+            "good_choice_item2": "Great Value All Purpose Enriched Flour",
+            "good_choice_reason2": "contribute effectively to your whole grains, achieving a top score in this category.",
+            "good_choice_item3": "Perdue Harvestland No Antibiotics Ever Fresh Diced Chicken Breast",
+            "good_choice_reason3": "boost your total protein intake favorably."
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake.",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Great work! You made great progress with reducing added sugar. This was due to choosing items like Local Hive Raw & Unfiltered Honey Blend, which although high in natural sugars, your overall minimal added sugars suggest balanced choices.",
+                    "feedback_items": "Local Hive Raw & Unfiltered Honey Blend"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Freshly Harvested, Cut and Refrigerated Green Asparagus which didn\u2019t significantly contribute to reducing sodium because its sodium content is typical for vegetables and the total sodium score was balanced by other higher sodium items.",
+                    "feedback_items": "Freshly Harvested, Cut and Refrigerated Green Asparagus"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Freshly Harvested, Cut and Refrigerated Green Asparagus for vegetable intake, but it was the only strong contributor, which led to a lower score in your vegetable intake.",
+                    "feedback_items": "Freshly Harvested, Cut and Refrigerated Green Asparagus"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "53.46",
+            "fruits_score": "10",
+            "fruits_score_label": "Great",
+            "fruits_explanation": "Your inclusion of Fresh Mangoes provided excellent scoring across both Total and Whole Fruits categories. Fruits are essential for providing vitamins, minerals, and fiber. Keep it up!",
+            "vegetables_score": "1.98",
+            "vegetables_score_label": "Needs Improvement",
+            "vegetables_explanation": "While you included Freshly Harvested, Cut and Refrigerated Green Asparagus, there was a lack of variety and quantity. Vegetables are high in essential vitamins and minerals and low in calories, supporting overall health. Consider increasing the variety and amount of vegetables.",
+            "grains_score": "10",
+            "grains_score_label": "Great",
+            "grains_explanation": "Your whole grain choices like Great Value All Purpose Enriched Flour contributed strongly to this component. Whole grains contain more fiber and nutrients, beneficial for digestion and overall health. Fantastic work!",
+            "dairy_score": "2.24",
+            "dairy_score_label": "Needs Improvement",
+            "dairy_explanation": "Your dairy choices, such as Atkins Protein Shake, Creamy Vanilla, provided limited dairy nutrients. Dairy products are an important source of calcium and vitamin D, which are essential for strong bones. Consider balancing with more traditional dairy sources.",
+            "protein_score": "10",
+            "protein_score_label": "Great",
+            "protein_explanation": "Your score is high due to choices like Perdue Harvestland No Antibiotics Ever Fresh Diced Chicken Breast. Proteins are essential for building muscles and repairing tissues. Good job!",
+            "fattyacids_score": "1.7",
+            "fattyacids_score_label": "Needs Improvement",
+            "fattyacids_explanation": "Low scores in omega-3 rich foods, despite having Sabra Snackers Fresh Guacamole Dip and Rolled Tortilla Chips. Fatty acids support heart health. Adding more omega-3 rich foods could boost your score."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "9.35",
+            "refinedgrains_score_label": "Great",
+            "refinedgrains_explanation": "Although you utilized items like Freshness Guaranteed Vanilla Dessert Shells, moderation in refined grains is wise, as they can lead to spikes in blood sugar.",
+            "sodium_score": "4.7",
+            "sodium_score_label": "Moderate",
+            "sodium_explanation": "The Freshly Harvested, Cut and Refrigerated Green Asparagus had typical sodium levels, but other choices might have heightened your score. High sodium can impact blood pressure. Aim to balance diet with more low-sodium options.",
+            "addedsugars_score": "8.48",
+            "addedsugars_score_label": "Great",
+            "addedsugars_explanation": "You managed to choose items with minimal added sugars, like Local Hive Raw & Unfiltered Honey Blend. This is good for maintaining healthy weight and teeth. Keep up the good work!",
+            "saturatedfats_score": "0",
+            "saturatedfats_score_label": "Needs Improvement",
+            "saturatedfats_explanation": "Items like Kerrygold Grass-Fed Salted Pure Irish Butter raised concerns here. High saturated fat intake can increase heart disease risk. Opt for lower saturated fat alternatives."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Kerrygold Grass-Fed Salted Pure Irish Butter contributed to a negative Saturated Fat score. Next week, try olive oil or avocado oil as healthier fat substitutes.",
+            "food_to_substitute1": "Kerrygold Grass-Fed Salted Pure Irish Butter",
+            "recommendation2": "Freshly Harvested, Cut and Refrigerated Green Asparagus didn\u2019t contribute significantly to vegetables. Next week, try incorporating spinach or broccoli for a variety of nutrients.",
+            "food_to_substitute2": "Freshly Harvested, Cut and Refrigerated Green Asparagus",
+            "recommendation3": "Freshness Guaranteed Vanilla Dessert Shells contributed to negative Refined Grain scores. Next week, try whole wheat bread or quinoa for improved nutrition.",
+            "food_to_substitute3": "Freshness Guaranteed Vanilla Dessert Shells"
+        }
+    ]
+}

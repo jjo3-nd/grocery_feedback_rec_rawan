@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Freshness Guaranteed Sliced White Mushrooms",
+            "good_choice_reason1": "provide important nutrients like selenium and vitamin B",
+            "good_choice_item2": "Great Value, 2% Reduced Fat Milk",
+            "good_choice_reason2": "source calcium, vital for bone health",
+            "good_choice_item3": "Freshness Guaranteed Homestyle Cole Slaw",
+            "good_choice_reason3": "contributed to your fatty acids intake, and cabbage is known for its high vitamin C and K content"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Smucker's Sundae Syrup Caramel Flavored Syrup which didn\u2019t contribute to your goal of reducing added sugar because it contains a significant amount of added sugars.",
+                    "feedback_items": "Smucker's Sundae Syrup Caramel Flavored Syrup"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Red Gold Fresh Squeezed Tomato Juice which didn\u2019t contribute to your goal of reducing sodium because it has a high sodium content.",
+                    "feedback_items": "Red Gold Fresh Squeezed Tomato Juice"
+                },
+                {
+                    "feedback_text": "Great work! You made great progress with increasing your vegetable intake. This was due to your purchases of Freshness Guaranteed Sliced White Mushrooms because mushrooms are a good source of fiber and vitamins.",
+                    "feedback_items": "Freshness Guaranteed Sliced White Mushrooms"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "42.82 / 100",
+            "fruits_score": "3",
+            "fruits_score_label": "Needs Improvement",
+            "fruits_explanation": "Your basket included Mott's No Sugar Added Applesauce, which improved your score but lacked whole fruits. Including whole fruits is beneficial as they provide fiber and more nutrients. Fruits are essential for providing vitamins, minerals, and fiber. Try getting more whole fruits next time!",
+            "vegetables_score": "10",
+            "vegetables_score_label": "Great",
+            "vegetables_explanation": "You had a great score due to Freshness Guaranteed Sliced White Mushrooms and Fresh Green Bell Pepper. Vegetables are great to include in your diet as they are high in essential vitamins and minerals and low in calories, supporting overall health. Keep it up!",
+            "grains_score": "0",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "You did not have whole grains in your basket. Whole grains are healthier as they contain more fiber and nutrients than refined grains. Grains supply fibers and are beneficial for heart health. Try to include more whole grains.",
+            "dairy_score": "5.85",
+            "dairy_score_label": "Moderate",
+            "dairy_explanation": "Great Value, 2% Reduced Fat Milk contributed to your moderate dairy score. Dairy provides calcium and vitamin D, important for bone health. Including more dairy or dairy alternatives will be beneficial.",
+            "protein_score": "3.9",
+            "protein_score_label": "Moderate",
+            "protein_explanation": "Healthy Choice Cafe Steamers Beef Teriyaki supported your total protein score, but seafood and plant protein sources were minimal. Proteins sustain muscle health, and variety in protein sources can improve nutritional intake. Including fish, nuts, and beans might improve this further.",
+            "fattyacids_score": "0.7",
+            "fattyacids_score_label": "Needs Improvement",
+            "fattyacids_explanation": "You had a low score this week. Fatty acids, especially omega-3s, have been shown to improve heart health by reducing the risk of cardiovascular diseases. Try getting more fish and nuts next time."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "9.5",
+            "refinedgrains_score_label": "Great",
+            "refinedgrains_explanation": "You chose few refined grains, such as Success Boil-in-Bag Rice, Precooked White Rice. This is beneficial, as high intake of refined grains can contribute to increased blood sugar and decreased nutrient intake. Keep choosing whole grains for better health benefits!",
+            "sodium_score": "2.45",
+            "sodium_score_label": "Needs Improvement",
+            "sodium_explanation": "A high sodium score came from items like Red Gold Fresh Squeezed Tomato Juice. Excess sodium can increase blood pressure, leading to heart issues. Reduce packaged and canned items for better results.",
+            "addedsugars_score": "7.58",
+            "addedsugars_score_label": "Moderate",
+            "addedsugars_explanation": "Smucker's Sundae Syrup Caramel Flavored Syrup contributed to a moderate amount of added sugars. High sugar intake contributes to weight gain and dental issues. Reduce sweetened items and choose no-added-sugar options.",
+            "saturatedfats_score": "0",
+            "saturatedfats_score_label": "Needs Improvement",
+            "saturatedfats_explanation": "Philadelphia Original Cream Cheese was a high saturated fat item. Saturated fat can raise bad cholesterol, potentially leading to heart disease. Choose unsaturated fat sources, like nuts and seeds, for health benefits."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Smucker's Sundae Syrup Caramel Flavored Syrup contributed to negative added sugar score. Next week try fruit as natural sweeteners or plain yogurt topped with fresh fruits to strengthen your score.",
+            "food_to_substitute1": "Smucker's Sundae Syrup Caramel Flavored Syrup",
+            "recommendation2": "Success Boil-in-Bag Rice, Precooked White Rice contributed to negative refined grains score. Next week try whole grains like brown rice or quinoa to strengthen your score.",
+            "food_to_substitute2": "Success Boil-in-Bag Rice, Precooked White Rice",
+            "recommendation3": "Philadelphia Original Cream Cheese contributed to negative saturated fat score. Next week try avocado or hummus as a spread to reduce saturated fat intake.",
+            "food_to_substitute3": "Philadelphia Original Cream Cheese"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Fresh Strawberries",
+            "good_choice_reason1": "are rich in vitamins and contribute a high score to the fruit category, essential for your overall health.",
+            "good_choice_item2": "Fresh Whole Brown Mushrooms",
+            "good_choice_reason2": "are an excellent source of vitamin D and contributed significantly to your vegetable score.",
+            "good_choice_item3": "Great Value Deli Style Sliced Swiss Cheese",
+            "good_choice_reason3": "contributed positively to your dairy intake, providing a good source of calcium."
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake.",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Great work! You made great progress with increasing vegetable intake. This was due to your purchases of Fresh Whole Brown Mushrooms and Fresh Whole Carrots because they added significantly to your vegetable intake.",
+                    "feedback_items": "Fresh Whole Carrots"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your goal to reduce added sugar. You purchased Great Value Sweetened Dried Cranberries which didn\u2019t contribute to your goal because it has high added sugar content.",
+                    "feedback_items": "Great Value Sweetened Dried Cranberries"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your goal to reduce sodium. You purchased Great Value Stuffed Manzanilla Olives with Minced Pimento which didn\u2019t contribute to your goal because it's high in sodium.",
+                    "feedback_items": "Great Value Stuffed Manzanilla Olives with Minced Pimento"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "54.14 / 100",
+            "fruits_score": "10/10",
+            "fruits_score_label": "Great",
+            "fruits_explanation": "Fresh Strawberries contributed significantly to a high score, providing essential vitamins and fibers. Keep up the great work!",
+            "vegetables_score": "7.44/10",
+            "vegetables_score_label": "Great",
+            "vegetables_explanation": "Your inclusion of Fresh Whole Brown Mushrooms and Fresh Whole Carrots contributed to a high score. Vegetables provide essential vitamins and minerals, and are low in calories. Consistently including them supports overall health. Keep it up!",
+            "grains_score": "0/10",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "No whole grains were included, contributing to a low score. Whole grains are good for heart health as they contain fiber and other important nutrients. Aim to include whole grain products like brown rice or whole wheat bread next time.",
+            "dairy_score": "10/10",
+            "dairy_score_label": "Great",
+            "dairy_explanation": "You achieved a perfect score by selecting Great Value Deli Style Sliced Swiss Cheese, which is great for building strong bones and teeth as it provides calcium and vitamin D. Keep up the great work!",
+            "protein_score": "5/10",
+            "protein_score_label": "Moderate",
+            "protein_explanation": "Choices like Great Value Thin Sliced Black Forest Ham Lunchmeat contributed to your score. Protein is crucial for building and repairing tissues. However, aim to include more plant-based proteins such as beans or lentils, which also provide fiber and essential nutrients.",
+            "fattyacids_score": "0/10",
+            "fattyacids_score_label": "Needs Improvement",
+            "fattyacids_explanation": "A low score was due to lack of items rich in healthy fats like fatty fish or nuts, which improve heart health. Try including foods rich in omega-3 fatty acids next time, such as walnuts or chia seeds."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "10/10",
+            "refinedgrains_score_label": "Great",
+            "refinedgrains_explanation": "Although you had a great score, it's important to minimize refined grains like those found in Great Value Penne Pasta as they can lead to energy spikes and lack essential nutrients found in whole grains. Continue to focus on whole grains for optimal nutrition.",
+            "sodium_score": "1.7/10",
+            "sodium_score_label": "Needs Improvement",
+            "sodium_explanation": "The inclusion of Great Value Stuffed Manzanilla Olives with Minced Pimento increased sodium intake. High sodium intake can raise blood pressure. Consider low-sodium options next time.",
+            "addedsugars_score": "10/10",
+            "addedsugars_score_label": "Great",
+            "addedsugars_explanation": "You had minimal products with added sugars, which is beneficial for preventing weight gain and avoiding dental issues. Continue to choose whole fruits and unsweetened products.",
+            "saturatedfats_score": "0/10",
+            "saturatedfats_score_label": "Needs Improvement",
+            "saturatedfats_explanation": "Great Value Heavy Whipping Cream contributed to high saturated fats, which can increase cholesterol and risk of heart disease. Choose products with healthier fats like olive oil or avocados."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Great Value Sweetened Dried Cranberries contributed to negative Added Sugars. Next week try unsweetened dried fruits or choosing fresh fruits to strengthen score.",
+            "food_to_substitute1": "Great Value Sweetened Dried Cranberries",
+            "recommendation2": "Great Value Stuffed Manzanilla Olives with Minced Pimento contributed to negative Sodium. Next week try fresh options like cucumbers or bell peppers for snacks to reduce sodium intake.",
+            "food_to_substitute2": "Great Value Stuffed Manzanilla Olives with Minced Pimento",
+            "recommendation3": "Great Value Heavy Whipping Cream contributed to negative Saturated Fats. Next week try substituting with plant-based creams or half-and-half for better health benefits.",
+            "food_to_substitute3": "Great Value Heavy Whipping Cream"
+        }
+    ]
+}

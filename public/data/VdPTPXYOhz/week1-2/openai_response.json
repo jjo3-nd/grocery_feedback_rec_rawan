@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Fresh Blackberries",
+            "good_choice_reason1": "are rich in fiber and vitamins, contributing significantly to your fruit intake",
+            "good_choice_item2": "Freshness Guaranteed Diced Fresh Yellow Onions",
+            "good_choice_reason2": "added variety and nutrients to your vegetable intake, supporting overall health",
+            "good_choice_item3": "Pepperidge Farm Whole Grain 100% Whole Wheat Bread",
+            "good_choice_reason3": "it's high in whole grains, which are crucial for heart and digestive health"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Great work! You made great progress with reducing added sugar. This was due to your choice of Oikos Triple Zero Strawberry and Mixed Berry No Added Sugar Fat Free Greek Yogurt, which contains no added sugars.",
+                    "feedback_items": "Oikos Triple Zero Strawberry and Mixed Berry No Added Sugar Fat Free Greek Yogurt"
+                },
+                {
+                    "feedback_text": "Great work! You made great progress with reducing sodium. This was evident through the careful selection of foods like the Marketside Caesar Salad with Chicken, which was noted for its lower sodium content.",
+                    "feedback_items": "Marketside Caesar Salad with Chicken"
+                },
+                {
+                    "feedback_text": "Great work! You made great progress with increasing your vegetable intake. This was due to your purchases of Freshness Guaranteed Diced Fresh Yellow Onions, which contributed crucial nutrients and variety to your diet.",
+                    "feedback_items": "Freshness Guaranteed Diced Fresh Yellow Onions"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "93.86 / 100",
+            "fruits_score": "10",
+            "fruits_score_label": "Great",
+            "fruits_explanation": "Your selection of Fresh Blackberries significantly boosted your fruit score. Including fruits provides essential vitamins and fiber.",
+            "vegetables_score": "10",
+            "vegetables_score_label": "Great",
+            "vegetables_explanation": "The inclusion of Freshness Guaranteed Diced Fresh Yellow Onions and the variety of salads helped achieve a high vegetable score. Vegetables are low in calories but rich in essential nutrients.",
+            "grains_score": "8.9",
+            "grains_score_label": "Great",
+            "grains_explanation": "The Pepperidge Farm Whole Grain 100% Whole Wheat Bread contributed to a high score in whole grains. Whole grains are excellent for heart health.",
+            "dairy_score": "8.58",
+            "dairy_score_label": "Great",
+            "dairy_explanation": "The fairlife Lactose Free 2% Reduced Fat Ultra Filtered Milk helped maintain a solid score in dairy, which is important for bone health.",
+            "protein_score": "5",
+            "protein_score_label": "Moderate",
+            "protein_explanation": "Your Freshness Guaranteed Traditional Shredded Rotisserie Chicken Breasts added to your protein intake. Aim to include more seafood or plant protein for variety.",
+            "fattyacids_score": "10",
+            "fattyacids_score_label": "Great",
+            "fattyacids_explanation": "Fresh Hass Avocados contributed positively to your fatty acid score. Fatty acids are crucial for heart health."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "10",
+            "refinedgrains_score_label": "Great",
+            "refinedgrains_explanation": "You minimized refined grains with items like the Kellogg's Nutri-Grain Blueberry Chewy Soft Baked Breakfast Bars. Limiting refined grains helps maintain stable blood sugar levels.",
+            "sodium_score": "10",
+            "sodium_score_label": "Great",
+            "sodium_explanation": "The Marketside Caesar Salad with Chicken contributed to a lower sodium score, which supports heart health.",
+            "addedsugars_score": "9.9",
+            "addedsugars_score_label": "Great",
+            "addedsugars_explanation": "Opting for those without added sugars, like Oikos Triple Zero Strawberry and Mixed Berry No Added Sugar Fat Free Greek Yogurt, helped maintain this excellent score.",
+            "saturatedfats_score": "10",
+            "saturatedfats_score_label": "Great",
+            "saturatedfats_explanation": "Your choices, such as Marketside Southwest Style Salad, ensured a controlled saturated fat intake, which is beneficial for cardiovascular health."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Kellogg's Nutri-Grain Blueberry Chewy Soft Baked Breakfast Bars contributed to refined grains. Next week try Bubba's Fine Foods Ungranola Original Nana Chip Cereal to strengthen the whole grains score.",
+            "food_to_substitute1": "Kellogg's Nutri-Grain Blueberry Chewy Soft Baked Breakfast Bars",
+            "recommendation2": "Fairlife Lactose-Free 2% Reduced Fat Ultra Filtered Milk contributed a lower dairy diversity. Next week try adding Chobani Non-Fat Greek Yogurt, Plain for a boost in dairy intake diversification.",
+            "food_to_substitute2": "Fairlife Lactose-Free 2% Reduced Fat Ultra Filtered Milk",
+            "recommendation3": "Freshness Guaranteed Traditional Shredded Rotisserie Chicken Breasts contributed less to plant proteins. Next week try adding Garbanzo Beans to strengthen the score for seafood and plant proteins.",
+            "food_to_substitute3": "Freshness Guaranteed Traditional Shredded Rotisserie Chicken Breasts"
+        }
+    ]
+}

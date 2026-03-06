@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Fresh Strawberries",
+            "good_choice_reason1": "provide rich vitamin C content and natural sweetness, helping achieve your fruit goals",
+            "good_choice_item2": "Little Leaf Farms Baby Crispy Green Leaf Lettuce Salad",
+            "good_choice_reason2": "provide essential vitamins and fiber, contributing positively to your vegetable intake",
+            "good_choice_item3": "Great Value Lentils",
+            "good_choice_reason3": "offer high protein and fiber, beneficial for a balanced diet and ensure a perfect score in protein goals"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Turkey Hill Chocolate Peanut Butter Cup Premium Ice Cream, which didn\u2019t contribute to your goal of reducing added sugar due to its high sugar content.",
+                    "feedback_items": "Turkey Hill Chocolate Peanut Butter Cup Premium Ice Cream"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Campbell's Condensed Cream of Mushroom Soup with Roasted Garlic, which didn\u2019t aid your goal of reducing sodium because of its high sodium content.",
+                    "feedback_items": "Campbell's Condensed Cream of Mushroom Soup with Roasted Garlic"
+                },
+                {
+                    "feedback_text": "Great work! You made great progress with increasing vegetable intake. This was due to your purchases of Little Leaf Farms Baby Crispy Green Leaf Lettuce Salad because it helped you meet your vegetable goal by providing fresh greens to your meals.",
+                    "feedback_items": "Little Leaf Farms Baby Crispy Green Leaf Lettuce Salad"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "58.6",
+            "fruits_score": "9.64",
+            "fruits_score_label": "Great",
+            "fruits_explanation": "Fresh Strawberries were a great choice, boosting your fruit score due to the high intake of whole fruits which are rich in vitamins and antioxidants. Including fruits contributes essential nutrients such as fiber, vitamins A and C, and it supports healthy digestion. Keep it up!",
+            "vegetables_score": "10",
+            "vegetables_score_label": "Great",
+            "vegetables_explanation": "You had a perfect score due to Little Leaf Farms Baby Crispy Green Leaf Lettuce Salad and Marketside Organic Fresh Baby Spinach and Baby Kale Mix. Vegetables are high in essential vitamins and minerals and low in calories, supporting overall health. Keep up the great intake!",
+            "grains_score": "0.93",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "Nature Valley Crunchy Oats and Honey Granola Pouch contributed to your grain intake, but it was mostly whole grains and low in total grains. Whole grains provide fiber, iron, and B vitamins. They help reduce the risk of heart disease. Incorporating more whole grains can improve this score.",
+            "dairy_score": "8.03",
+            "dairy_score_label": "Great",
+            "dairy_explanation": "Your consumption of Prairie Farms Whole Vitamin D Milk and Cabot Creamery Extra Sharp Cheddar Cheese Bar contributed positively to your dairy score, providing calcium and vitamin D, which strengthen bones. This is an excellent level to maintain; keep it up!",
+            "protein_score": "10",
+            "protein_score_label": "Great",
+            "protein_explanation": "Great Value Lentils contributed significantly to a high score. Protein helps build and repair tissues, enzymes, and hormones. It's crucial for muscle and bone health. Fantastic job!",
+            "fattyacids_score": "0",
+            "fattyacids_score_label": "Needs Improvement",
+            "fattyacids_explanation": "You had a low score this week due to foods like Hillshire Farm Smoked Sausage with high unhealthy fats. Fatty acids, especially omega-3s, improve heart health. Aim to include foods like fish or nuts next time!"
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "10",
+            "refinedgrains_score_label": "Great",
+            "refinedgrains_explanation": "You had a low amount of refined grains in your basket this week. Refined grains, such as white rice and many pastas, are often lower in nutrients. Keeping focus on whole grains is nutritionally beneficial. Excellent work!",
+            "sodium_score": "0",
+            "sodium_score_label": "Needs Improvement",
+            "sodium_explanation": "You had a high sodium intake with products like Campbell's Condensed Cream of Mushroom Soup with Roasted Garlic. High sodium levels can lead to increased blood pressure. Look for low-sodium alternatives to enhance nutrient balance.",
+            "addedsugars_score": "10",
+            "addedsugars_score_label": "Needs Improvement",
+            "addedsugars_explanation": "You purchased Turkey Hill Chocolate Peanut Butter Cup Premium Ice Cream, contributing significantly to added sugars. High levels of added sugars can lead to weight gain and diabetes. Consider choosing items with less sugar for better health outcomes.",
+            "saturatedfats_score": "0",
+            "saturatedfats_score_label": "Needs Improvement",
+            "saturatedfats_explanation": "Foods like Cabot Creamery Extra Sharp Cheddar Cheese Bar were high in saturated fats. Consuming too much saturated fat may raise cholesterol and risk of heart disease. Opt for low-fat dairy or plant-based fat choices."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Turkey Hill Chocolate Peanut Butter Cup Premium Ice Cream contributed to negative added sugar scores. Next week try unsweetened Greek yogurt or fresh fruit smoothies to strengthen the score.",
+            "food_to_substitute1": "Turkey Hill Chocolate Peanut Butter Cup Premium Ice Cream",
+            "recommendation2": "Campbell's Condensed Cream of Mushroom Soup with Roasted Garlic contributed to negative sodium scores. Next week try low-sodium broth or homemade vegetable soups to strengthen your score.",
+            "food_to_substitute2": "Campbell's Condensed Cream of Mushroom Soup with Roasted Garlic",
+            "recommendation3": "Hillshire Farm Smoked Sausage contributed to negative saturated fat scores. Next week try lean turkey or chicken sausage or plant-based protein options to strengthen your score.",
+            "food_to_substitute3": "Hillshire Farm Smoked Sausage"
+        }
+    ]
+}

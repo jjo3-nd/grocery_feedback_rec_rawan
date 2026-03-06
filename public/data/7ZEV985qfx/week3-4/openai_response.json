@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Fresh Strawberries",
+            "good_choice_reason1": "provide a significant portion of your fruit intake, helping to achieve a full score in the fruits category",
+            "good_choice_item2": "Fresh Romaine Lettuce",
+            "good_choice_reason2": "contribute positively to your vegetable intake, aiding in a near-perfect score in the vegetables category",
+            "good_choice_item3": "Fresh Hass Avocados",
+            "good_choice_reason3": "contribute beneficial fatty acids to your diet, though this category needs improvement overall"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Great work! You made great progress with reducing added sugar. This was due to your choices like Cookie Crisp Breakfast Cereal, which despite containing some added sugars, you kept within a manageable level for your score.",
+                    "feedback_items": "Cookie Crisp Breakfast Cereal"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your goal to reduce sodium. You purchased Maruchan Instant Lunch Hot & Spicy Chicken Flavor Ramen Noodles, which didn\u2019t contribute to reducing sodium due to its high sodium content.",
+                    "feedback_items": "Maruchan Instant Lunch Hot & Spicy Chicken Flavor Ramen Noodles"
+                },
+                {
+                    "feedback_text": "Awesome job on increasing vegetable intake! Your selection of Fresh Romaine Lettuce contributed greatly to this goal, enhancing your vegetable score.",
+                    "feedback_items": "Fresh Romaine Lettuce"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "51.17 / 100",
+            "fruits_score": "10/10",
+            "fruits_score_label": "Great",
+            "fruits_explanation": "Your fruit score was excellent due to the inclusion of items like Fresh Strawberries. Fruits are vital as they provide essential vitamins, minerals, and fiber, which are important for maintaining overall health. Keep up the great work with your fruit choices!",
+            "vegetables_score": "9.6/10",
+            "vegetables_score_label": "Great",
+            "vegetables_explanation": "Your vegetable intake was quite good, thanks to choices like Fresh Romaine Lettuce and Fresh Tomato on the Vine. Vegetables add important nutrients that support overall health and wellness. Keep it up!",
+            "grains_score": "0/10",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "This week, none of your purchases contributed to whole grains, such as whole grain breads or cereals. Whole grains provide more fiber and nutrients compared to refined grains and are important for maintaining healthy digestive and heart health.",
+            "dairy_score": "2.97/10",
+            "dairy_score_label": "Needs Improvement",
+            "dairy_explanation": "Your dairy score was low due to limited purchases like Great Value Milk Whole Vitamin D. Dairy is important for bone health and provides calcium and vitamin D. Consider incorporating more dairy options next time.",
+            "protein_score": "5.78/10",
+            "protein_score_label": "Moderate",
+            "protein_explanation": "Sources like Pork Assorted Loin Chops contributed to your protein intake. Diverse protein sources, including seafood and plant-based options, are beneficial for heart health and reducing chronic disease risk.",
+            "fattyacids_score": "0.67/10",
+            "fattyacids_score_label": "Needs Improvement",
+            "fattyacids_explanation": "This week, you had a low intake of healthy fatty acids. While Fresh Hass Avocados was a great choice, incorporating more items with healthy oils and fatty acids, especially omega-3s from fish, can improve heart health."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "5.85/10",
+            "refinedgrains_score_label": "Moderate",
+            "refinedgrains_explanation": "You had a moderate amount due to products like Wonder Bread Classic White Sandwich Bread. Refined grains lack nutrients found in whole grains. Consider switching to whole grain alternatives where possible.",
+            "sodium_score": "6.33/10",
+            "sodium_score_label": "Moderate",
+            "sodium_explanation": "Your sodium score was impacted by items such as Maruchan Instant Lunch Hot & Spicy Chicken Flavor Ramen Noodles. Reducing high-sodium foods is important for heart health. Continue efforts to find low-sodium alternatives.",
+            "addedsugars_score": "10/10",
+            "addedsugars_score_label": "Great",
+            "addedsugars_explanation": "You chose items with minimal added sugars, like Cookie Crisp Breakfast Cereal. Limiting added sugars is beneficial for preventing weight gain and reducing the risk of dental issues. Keep up the good work!",
+            "saturatedfats_score": "0/10",
+            "saturatedfats_score_label": "Needs Improvement",
+            "saturatedfats_explanation": "High intake from items like Great Value Finely Shredded Colby Jack Cheese contributed to this low score. High saturated fat consumption can impact heart health negatively."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Wonder Bread Classic White Sandwich Bread contributed to negative whole grains score. Next week try whole wheat bread or oatmeal to strengthen the score.",
+            "food_to_substitute1": "Wonder Bread Classic White Sandwich Bread",
+            "recommendation2": "Maruchan Instant Lunch Hot & Spicy Chicken Flavor Ramen Noodles contributed to negative sodium score. Next week try unsalted nuts or a lower-sodium soup.",
+            "food_to_substitute2": "Maruchan Instant Lunch Hot & Spicy Chicken Flavor Ramen Noodles",
+            "recommendation3": "Great Value Finely Shredded Colby Jack Cheese contributed to negative saturated fats score. Next week try low-fat cheese or nuts to improve this aspect.",
+            "food_to_substitute3": "Great Value Finely Shredded Colby Jack Cheese"
+        }
+    ]
+}

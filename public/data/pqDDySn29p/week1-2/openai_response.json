@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Green Giant Simply Steam Cheesy Rice & Broccoli",
+            "good_choice_reason1": "significantly contribute to your dairy needs",
+            "good_choice_item2": "Birds Eye Steamfresh Sauced Cheesy Broccoli",
+            "good_choice_reason2": "support your protein intake",
+            "good_choice_item3": "Ruffles Potato Chips Sour Cream & Onion Flavor Snack Chips",
+            "good_choice_reason3": "contribute to your vegetable intake"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Great work! You made great progress with reducing added sugar. This was due to your choice of foods with minimal added sugars.",
+                    "feedback_items": "minimal added sugars"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your goal of reducing sodium. You purchased Green Giant Simply Steam Cheesy Rice & Broccoli, which contributed significantly to sodium intake.",
+                    "feedback_items": "Green Giant Simply Steam Cheesy Rice & Broccoli"
+                },
+                {
+                    "feedback_text": "Great work! You made great progress with increasing vegetable intake due to products like Ruffles Potato Chips Sour Cream & Onion Flavor Snack Chips.",
+                    "feedback_items": "Ruffles Potato Chips Sour Cream & Onion Flavor Snack Chips"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "36.95",
+            "fruits_score": "0",
+            "fruits_score_label": "Needs Improvement",
+            "fruits_explanation": "You did not have whole fruits or fruit products in your basket, contributing to zero points. Fruits provide essential vitamins, minerals, and fibers. Try including some whole fruits next time!",
+            "vegetables_score": "9.02",
+            "vegetables_score_label": "Great",
+            "vegetables_explanation": "You had a great score due to purchases like the Ruffles Potato Chips Sour Cream & Onion Flavor Snack Chips. Vegetables are high in essential vitamins and minerals, promoting overall health. Keep it up!",
+            "grains_score": "0",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "There was an absence of whole grain foods in your basket. Whole grains are an important source of fiber and essential nutrients. Aim for more whole grains next week!",
+            "dairy_score": "10",
+            "dairy_score_label": "Great",
+            "dairy_explanation": "Your dairy needs were fully met, thanks to items like Green Giant Simply Steam Cheesy Rice & Broccoli. Dairy is important for strong bones and teeth. Keep up the great work!",
+            "protein_score": "5",
+            "protein_score_label": "Moderate",
+            "protein_explanation": "Foods like Green Giant Simply Steam Cheesy Rice & Broccoli contributed to your protein intake, but consider including seafood or plant proteins for a balanced diet. Protein is crucial for muscle repair and growth.",
+            "fattyacids_score": "0",
+            "fattyacids_score_label": "Needs improvement",
+            "fattyacids_explanation": "There was a lack of fatty acid sources contributing to dietary quality. Fatty acids, especially omega-3s, improve heart health. Try adding foods like fish or nuts next time."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "2.93",
+            "refinedgrains_score_label": "Needs Improvement",
+            "refinedgrains_explanation": "Birds Eye Steamfresh Long Grain White Rice with Mixed Vegetables added refined grains, which are lower in fiber and nutrients. Replace with whole grains like brown rice or whole wheat pasta next week.",
+            "sodium_score": "0",
+            "sodium_score_label": "Needs Improvement",
+            "sodium_explanation": "High sodium scores were due to items like Green Giant Simply Steam Cheesy Rice & Broccoli. High sodium intake can increase blood pressure. Aim for reduced-sodium versions in the future.",
+            "addedsugars_score": "10",
+            "addedsugars_score_label": "Great",
+            "addedsugars_explanation": "You chose items with minimal added sugars. This is beneficial as high added sugar intake can contribute to weight gain and dental problems. Keep it up!",
+            "saturatedfats_score": "0",
+            "saturatedfats_score_label": "Needs improvement",
+            "saturatedfats_explanation": "Items like Land O Lakes Salted Stick Butter contributed significantly to a high saturated fat intake. High saturated fats can impact heart health. Opt for items with unsaturated fats next time."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Birds Eye Steamfresh Long Grain White Rice with Mixed Vegetables contributed to negative Whole Grains. Next week try swapping for brown rice or whole wheat pasta to strengthen score.",
+            "food_to_substitute1": "Birds Eye Steamfresh Long Grain White Rice with Mixed Vegetables",
+            "recommendation2": "Green Giant Simply Steam Cheesy Rice & Broccoli contributed to negative Sodium. Next week try choosing low-sodium mixed vegetables to reduce sodium intake.",
+            "food_to_substitute2": "Green Giant Simply Steam Cheesy Rice & Broccoli",
+            "recommendation3": "Land O Lakes Salted Stick Butter contributed to negative Saturated Fats. Next week try swapping with avocado or olive oil for a healthier fat option.",
+            "food_to_substitute3": "Land O Lakes Salted Stick Butter"
+        }
+    ]
+}

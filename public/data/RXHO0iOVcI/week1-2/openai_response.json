@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Great Value Large White Eggs",
+            "good_choice_reason1": "are an excellent source of high-quality protein and contribute to your total protein score",
+            "good_choice_item2": "Great Value 2% Reduced Fat Milk",
+            "good_choice_reason2": "provides essential nutrients like calcium and vitamin D, enhancing your dairy score",
+            "good_choice_item3": "Lipton Recipe Secrets, Onion Dry Soup and Dip Mix",
+            "good_choice_reason3": "contains healthy fats that contributed to achieving full points in the fatty acids category"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Great work! You made great progress with reducing added sugar. This was due to your purchases of Marketside Tri-Color Cole Slaw because it contains minimal added sugars.",
+                    "feedback_items": "Marketside Tri-Color Cole Slaw"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Mahatma Jasmine Thai Fragrant Long Grain Rice which didn\u2019t contribute to your goal of reducing sodium because it contains added sodium in its preparation process.",
+                    "feedback_items": "Mahatma Jasmine Thai Fragrant Long Grain Rice"
+                },
+                {
+                    "feedback_text": "Great work! You made great progress with increasing vegetable intake. This was due to your purchases of Marketside Tri-Color Cole Slaw because it is a vegetable-rich food that contributed to your vegetable score.",
+                    "feedback_items": "Marketside Tri-Color Cole Slaw"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "52.84",
+            "fruits_score": "0",
+            "fruits_score_label": "Needs Improvement",
+            "fruits_explanation": "You did not have whole fruits in your basket, which contributed to a low score. Fruits are essential for providing vitamins, minerals, and fiber. Try including whole fruits next time!",
+            "vegetables_score": "3.51",
+            "vegetables_score_label": "Moderate",
+            "vegetables_explanation": "You had a moderate score due to Marketside Tri-Color Cole Slaw. Vegetables are great to include in your diet as they are high in essential vitamins, minerals, and low in calories, supporting overall health. Keep it up by exploring more varieties!",
+            "grains_score": "0.33",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "You had a low score because Mahatma Jasmine Thai Fragrant Long Grain Rice is not a whole grain. Whole grains provide fiber and essential nutrients which are beneficial for heart health. Try increasing your whole grain intake.",
+            "dairy_score": "5.66",
+            "dairy_score_label": "Moderate",
+            "dairy_explanation": "You had a moderate score due to Great Value 2% Reduced Fat Milk. Dairy products are vital for bone health. Keep including diverse dairy options.",
+            "protein_score": "5",
+            "protein_score_label": "Great",
+            "protein_explanation": "High score thanks to Great Value Large White Eggs. Protein is essential for tissue repair and muscle mass. Great job maintaining a good protein intake!",
+            "fattyacids_score": "10",
+            "fattyacids_score_label": "Great",
+            "fattyacids_explanation": "You had a great score due to Lipton Recipe Secrets, Onion Dry Soup and Dip Mix. Fatty acids improve heart health by reducing cardiovascular disease risk. Keep it up!"
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "10",
+            "refinedgrains_score_label": "Great",
+            "refinedgrains_explanation": "This score was positively influenced by Mahatma Jasmine Thai Fragrant Long Grain Rice. While it's good to have minimal refined grains, try including more whole grains for improved fiber intake. Continue moderation.",
+            "sodium_score": "3.7",
+            "sodium_score_label": "Needs Improvement",
+            "sodium_explanation": "Your score was low due to Mahatma Jasmine Thai Fragrant Long Grain Rice. High sodium intake can lead to high blood pressure. Opt for low-sodium alternatives next time.",
+            "addedsugars_score": "10",
+            "addedsugars_score_label": "Great",
+            "addedsugars_explanation": "You chose items with minimal added sugars such as Marketside Tri-Color Cole Slaw. This is beneficial, as high added sugar intake can contribute to weight gain and dental problems. Keep it up!",
+            "saturatedfats_score": "4.65",
+            "saturatedfats_score_label": "Moderate",
+            "saturatedfats_explanation": "Influenced by Great Value Large White Eggs, moderate consumption is key. Aim for balance with unsaturated fats for better heart health."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Whole Fruits contributed to negative Fruits score. Next week, try incorporating fresh whole fruits like apples or bananas to strengthen your fruit score.",
+            "food_to_substitute1": "Whole Fruits",
+            "recommendation2": "Mahatma Jasmine Thai Fragrant Long Grain Rice contributed to negative Sodium score. Next week, try using Great Value Instant Brown Rice to lower your sodium intake and boost your whole grain score.",
+            "food_to_substitute2": "Mahatma Jasmine Thai Fragrant Long Grain Rice",
+            "recommendation3": "Vegetable diversity could be improved. Consider adding Fresh Express Spinach to bolster your vegetable intake with greens, enhancing nutrients and fiber.",
+            "food_to_substitute3": "Vegetable"
+        }
+    ]
+}

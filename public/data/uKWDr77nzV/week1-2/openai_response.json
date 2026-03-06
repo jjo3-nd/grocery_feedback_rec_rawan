@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Great Value Provolone Cheese",
+            "good_choice_reason1": "contributed to a high dairy score, helping you achieve a perfect score in this category.",
+            "good_choice_item2": "Great Value White Cheddar Popcorn",
+            "good_choice_reason2": "contributed to a perfect whole grain score, indicating a healthy choice for grains.",
+            "good_choice_item3": "Bai Zambia Bing Cherry Beverage",
+            "good_choice_reason3": "being low in added sugars, aligning with your goal to reduce added sugar intake."
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake.",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Great work! You made great progress with reducing added sugar. This was due to your purchase of Bai Zambia Bing Cherry Antioxidant Infused Water Beverage, which had no added sugars.",
+                    "feedback_items": "Bai Zambia Bing Cherry Beverage"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Bai Zambia Bing Cherry Antioxidant Infused Water Beverage, which didn\u2019t contribute to your goal of reducing sodium because it contains sodium.",
+                    "feedback_items": "Bai Zambia Bing Cherry Beverage"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You did not purchase any vegetables, which didn\u2019t contribute to your goal of increasing vegetable intake.",
+                    "feedback_items": "No specific item identified"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "46.49/100",
+            "fruits_score": "0",
+            "fruits_score_label": "Needs Improvement",
+            "fruits_explanation": "You did not have whole fruits or any fruit products, which contributed to a low score. Including fruits in your diet is important as they provide essential vitamins and minerals. Try adding some whole fruits next week!",
+            "vegetables_score": "0",
+            "vegetables_score_label": "Needs Improvement",
+            "vegetables_explanation": "No vegetables were included in your purchases, leading to no points in this category. Vegetables are packed with nutrients and fiber and are key for a balanced diet. Consider incorporating a variety of vegetables next time!",
+            "grains_score": "10",
+            "grains_score_label": "Great",
+            "grains_explanation": "Your purchase of Great Value White Cheddar Fully Loaded Popcorn gave you a perfect score in this category. Whole grains are excellent as they provide more nutrients and fiber than refined grains. Keep it up!",
+            "dairy_score": "10",
+            "dairy_score_label": "Great",
+            "dairy_explanation": "Great Value Deli Style Sliced Non-Smoked Provolone Cheese contributed to your perfect score in dairy, showing a well-chosen dairy product. Dairy is a great source of calcium and other essential nutrients. Well done!",
+            "protein_score": "0",
+            "protein_score_label": "Needs Improvement",
+            "protein_explanation": "No protein-rich foods were included, which impacted your score. Including a variety of protein sources, like lean meats, seafood, beans, and nuts, is essential for muscle repair and overall health.",
+            "fattyacids_score": "5.82",
+            "fattyacids_score_label": "Moderate",
+            "fattyacids_explanation": "Great Value White Cheddar Fully Loaded Popcorn contributed but there was room for more improvement. Fatty acids, particularly omega-3s, support heart health and cognitive function."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "10",
+            "refinedgrains_score_label": "Great",
+            "refinedgrains_explanation": "You had a low intake of refined grains, which is excellent. Minimizing refined grains helps maintain stable blood sugar levels. Keep it up!",
+            "sodium_score": "0.68",
+            "sodium_score_label": "Needs Improvement",
+            "sodium_explanation": "Bai Zambia Bing Cherry Antioxidant Infused Water Beverage contributed to a higher sodium intake. Reducing sodium is vital for heart health and can help lower blood pressure.",
+            "addedsugars_score": "10",
+            "addedsugars_score_label": "Great",
+            "addedsugars_explanation": "You chose items with minimal added sugars, such as Bai Zambia Bing Cherry Antioxidant Infused Water Beverage. This supports your goal of reducing added sugar intake, helping to prevent weight gain and dental issues. Keep it up!",
+            "saturatedfats_score": "0",
+            "saturatedfats_score_label": "Needs Improvement",
+            "saturatedfats_explanation": "Great Value Deli Style Sliced Non-Smoked Provolone Cheese contributed to a higher saturated fat intake. Reducing saturated fats helps decrease the risk of heart disease."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "No Fruits contributed to negative HEI component scores for Fruit. Next week try adding fresh fruits like apples or oranges to boost your fruit scores.",
+            "food_to_substitute1": "No specific item identified",
+            "recommendation2": "No Vegetables contributed to negative HEI component scores for Vegetables. Next week try including vegetables like spinach or carrots to increase your intake.",
+            "food_to_substitute2": "No specific item identified",
+            "recommendation3": "Great Value Deli Style Sliced Non-Smoked Provolone Cheese contributed to negative scores for saturated fats. Next week, try opting for lower-fat cheese options like part-skim mozzarella.",
+            "food_to_substitute3": "Great Value Provolone Cheese"
+        }
+    ]
+}

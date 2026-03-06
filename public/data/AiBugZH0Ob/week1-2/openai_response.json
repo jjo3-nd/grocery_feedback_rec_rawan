@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Fresh Strawberries",
+            "good_choice_reason1": "significantly contributed to your total fruit intake, helping you meet your fruit goals",
+            "good_choice_item2": "Fresh Romaine Lettuce Hearts",
+            "good_choice_reason2": "contributed to your vegetable intake, rich in essential vitamins and minerals",
+            "good_choice_item3": "Great Value String Low-Moisture Part-Skim Mozzarella Cheese",
+            "good_choice_reason3": "helped achieve a perfect score for dairy, providing calcium and protein"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reducing added sugar, reducing sodium, and increasing vegetable intake",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Great work! You made great progress with increasing your vegetable intake. This was due to your purchases of Fresh Romaine Lettuce Hearts, which are high in essential vitamins and minerals.",
+                    "feedback_items": "Fresh Romaine Lettuce Hearts"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Sensible Portions Garden Veggie Straws, Sea Salt, which didn\u2019t contribute to your goal of reducing added sugar because they contain added sugars that can counteract this goal.",
+                    "feedback_items": "Sensible Portions Garden Veggie Straws, Sea Salt"
+                },
+                {
+                    "feedback_text": "Great work! You made excellent progress with reducing sodium due to your choice of Pace Mild Picante Sauce, which though contributed to sodium, was used moderately.",
+                    "feedback_items": "Pace Mild Picante Sauce"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "66.75/100",
+            "fruits_score": "10/10",
+            "fruits_score_label": "Great",
+            "fruits_explanation": "Your score for fruits was excellent, as items like Fresh Strawberries contributed significantly. Fruits provide essential vitamins, minerals, and fiber, supporting overall health. Keep up the great work!",
+            "vegetables_score": "10/10",
+            "vegetables_score_label": "Great",
+            "vegetables_explanation": "You had a great score due to Fresh Romaine Lettuce Hearts. Vegetables are rich in nutrients and low in calories, beneficial for heart health and digestion. Keep it up!",
+            "grains_score": "3.87/10",
+            "grains_score_label": "Moderate",
+            "grains_explanation": "The moderate score was due to Quaker Gluten-Free Caramel Rice Cakes. Whole grains are important for digestion and can help reduce risks of heart disease. Try incorporating more whole grains like brown rice or quinoa.",
+            "dairy_score": "10/10",
+            "dairy_score_label": "Great",
+            "dairy_explanation": "A strong score here, aided by Great Value String Low-Moisture Part-Skim Mozzarella Cheese. Dairy helps in building and maintaining bone health with its rich calcium content. Continue with these healthy choices.",
+            "protein_score": "2.68/10",
+            "protein_score_label": "Moderate",
+            "protein_explanation": "Great Value All Natural Boneless Skinless Chicken Breasts contributed to your available protein sources. Including more seafood and plant-based proteins can further enhance health benefits such as improved heart health and nutrition variety.",
+            "fattyacids_score": "0/10",
+            "fattyacids_score_label": "Needs Improvement",
+            "fattyacids_explanation": "You had a low score this week due to the absence of foods like fish or nuts that are high in beneficial fatty acids. Fatty acids improve heart health and reduce the risk of cardiovascular disease. Consider including more sources such as walnuts or salmon."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "10/10",
+            "refinedgrains_score_label": "Great",
+            "refinedgrains_explanation": "You did well in limiting refined grains like Aunt Millie's Bagels, Plain. Avoiding too many refined grains helps prevent spikes in blood sugar and aids digestive health. Well done!",
+            "sodium_score": "9.91/10",
+            "sodium_score_label": "Great",
+            "sodium_explanation": "The Sodium score reflects your balanced use of Pace Mild Picante Sauce. Lower sodium intake reduces the risk of high blood pressure. Continue this careful consideration.",
+            "addedsugars_score": "8.71/10",
+            "addedsugars_score_label": "Moderate",
+            "addedsugars_explanation": "Sensible Portions Garden Veggie Straws, Sea Salt contained some added sugars. Reducing added sugars prevents weight gain and tooth decay. Aim to select more foods without added sugars.",
+            "saturatedfats_score": "1.59/10",
+            "saturatedfats_score_label": "Needs Improvement",
+            "saturatedfats_explanation": "The low score was due to Daisy Pure and Natural Squeeze Sour Cream. High saturated fat consumption can lead to heart disease. Consider low-fat substitutes to improve this score."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Great Value All Natural Boneless Skinless Chicken Breasts contributed to a low Seafood and Plant Proteins score. Next week, try including more salmon or legumes.",
+            "food_to_substitute1": "Great Value All Natural Boneless Skinless Chicken Breasts",
+            "recommendation2": "Daisy Pure and Natural Squeeze Sour Cream contributed to negative Saturated Fats score. Next week, try a low-fat Greek yogurt as a substitute.",
+            "food_to_substitute2": "Daisy Pure and Natural Squeeze Sour Cream",
+            "recommendation3": "Sensible Portions Garden Veggie Straws, Sea Salt contributed to moderate Added Sugars score. Next week, try opting for fresh vegetables or nuts for snacks.",
+            "food_to_substitute3": "Sensible Portions Garden Veggie Straws, Sea Salt"
+        }
+    ]
+}

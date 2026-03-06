@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Fresh Strawberries",
+            "good_choice_reason1": "provide a great source of fiber and are high in various vitamins.",
+            "good_choice_item2": "Fresh Cilantro",
+            "good_choice_reason2": "provide important nutrients such as iron and vitamins.",
+            "good_choice_item3": "Act II Butter Lovers Microwave Popcorn",
+            "good_choice_reason3": "support heart health and are rich in dietary fiber."
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake.",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Great work! You made great progress with reducing added sugar. This was due to your purchase of Cocoa Puffs, Chocolatey Breakfast Cereal, which allowed you to maintain low added sugar overall because of the other low-sugar choices you made.",
+                    "feedback_items": "Cocoa Puffs, Chocolatey Breakfast Cereal"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Samyang Spicy Chicken Noodle Carbonara Flavor Ramen, which didn\u2019t contribute to your goal of reducing sodium because it contains high amounts of sodium.",
+                    "feedback_items": "Samyang Spicy Chicken Noodle Carbonara Flavor Ramen"
+                },
+                {
+                    "feedback_text": "Great work! You made progress with increasing vegetable intake due to choices like Fresh Cilantro, which provides important vitamins and minerals.",
+                    "feedback_items": "Fresh Cilantro"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "59.68 / 100",
+            "fruits_score": "10/10",
+            "fruits_score_label": "Great",
+            "fruits_explanation": "You had a high score due to your diverse selection of fruits including Fresh Strawberries. Fruits are essential for providing vitamins, minerals, and fiber. Keep including a variety of fruits in your diet!",
+            "vegetables_score": "7.07/10",
+            "vegetables_score_label": "Moderate",
+            "vegetables_explanation": "Your score was boosted by including Fresh Cilantro in your groceries. Vegetables are great to include in your diet as they are high in essential vitamins, minerals, and low in calories, supporting overall health. Aim for a variety of vegetables every week.",
+            "grains_score": "10/10",
+            "grains_score_label": "Great",
+            "grains_explanation": "Including Act II Butter Lovers Microwave Popcorn boosted your whole grains score. Whole grains are beneficial for heart health and provide important dietary fiber. Continue incorporating whole grains into your meals!",
+            "dairy_score": "2.5/10",
+            "dairy_score_label": "Needs Improvement",
+            "dairy_explanation": "You did not purchase enough dairy products like Prairie Farms Dairy 2% Reduced Fat Milk and Great Value, 2% Reduced Fat Milk to reach a high score. Dairy products provide important nutrients like calcium and vitamin D. Consider including more low-fat or fat-free dairy in your diet.",
+            "protein_score": "1.73/10",
+            "protein_score_label": "Needs Improvement",
+            "protein_explanation": "Your score was low partly because Great Value, Large White Eggs didn't provide enough variety in protein sources. Consuming a variety of protein foods is essential for muscle maintenance and growth. Try including more diverse protein sources next time.",
+            "fattyacids_score": "0/10",
+            "fattyacids_score_label": "Needs Improvement",
+            "fattyacids_explanation": "The consumption of healthy fatty acids was low. Fatty acids, especially omega-3s, improve heart health. Try incorporating foods with healthy fats like fish and nuts into your diet."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "10/10",
+            "refinedgrains_score_label": "Great",
+            "refinedgrains_explanation": "You had whole grains like Golden Star Prime Grade Thai Hom Mali Jasmine Rice, which contributed to a great whole grain score. Whole grains are preferred over refined grains due to higher nutrient content and fiber.",
+            "sodium_score": "8.38/10",
+            "sodium_score_label": "Moderate",
+            "sodium_explanation": "Items like Samyang Spicy Chicken Noodle Carbonara Flavor Ramen contributed to a higher sodium intake. Lower sodium intake can reduce the risk of high blood pressure. Try to choose products labeled as low sodium next time.",
+            "addedsugars_score": "10/10",
+            "addedsugars_score_label": "Great",
+            "addedsugars_explanation": "You chose items with reasonable amounts of added sugars such as Cocoa Puffs, Chocolatey Breakfast Cereal, which contributed to your high score. Lowering added sugar intake can help prevent weight gain and health issues like diabetes.",
+            "saturatedfats_score": "0/10",
+            "saturatedfats_score_label": "Needs Improvement",
+            "saturatedfats_explanation": "Items like V&V Supremo, Queso Fresco Authentic Mexican Style Fresh Farmers Cheese contributed to a higher saturated fat intake. Consuming less saturated fat can reduce the risk of heart disease. Look for products that are lower in saturated fats."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Samyang Spicy Chicken Noodle Carbonara Flavor Ramen contributed to high sodium. Next week, try low-sodium broth-based soups to strengthen your sodium score.",
+            "food_to_substitute1": "Samyang Spicy Chicken Noodle Carbonara Flavor Ramen",
+            "recommendation2": "V&V Supremo, Queso Fresco Authentic Mexican Style Fresh Farmers Cheese lowered your saturated fats component. Consider replacing it with lower-fat cheese options.",
+            "food_to_substitute2": "V&V Supremo, Queso Fresco Authentic Mexican Style Fresh Farmers Cheese",
+            "recommendation3": "Try incorporating more lean proteins like skinless chicken breast or tofu to boost protein sources and improve variety in your diet.",
+            "food_to_substitute3": "skinless chicken breast or tofu"
+        }
+    ]
+}

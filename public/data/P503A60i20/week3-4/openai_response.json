@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "SkinnyPop Gluten-Free Original Popcorn",
+            "good_choice_reason1": "contribute significantly to your high whole grains score",
+            "good_choice_item2": "Swanson 100% Natural Beef Broth",
+            "good_choice_reason2": "help increase your vegetable component score",
+            "good_choice_item3": "minimal added sugars",
+            "good_choice_reason3": "contribute a lot to your high HEI score"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Great work! You made great progress with reducing added sugar. This was due to your choice of foods like M&M's Fun Size Milk Chocolate Candy because it contained minimal added sugars.",
+                    "feedback_items": "M&M's Fun Size Milk Chocolate Candy"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goal to reduce sodium. You purchased Chef Boyardee Cheese Pizza, Homemade Pizza Kit, which had high sodium content, impacting your reduction goal.",
+                    "feedback_items": "Chef Boyardee Cheese Pizza, Homemade Pizza Kit"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goal to increase vegetable intake. While Swanson 100% Natural Beef Broth contributed, additional vegetable-rich foods could have better supported this goal.",
+                    "feedback_items": "Swanson 100% Natural Beef Broth"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "60.63",
+            "fruits_score": "0.29",
+            "fruits_score_label": "Needs Improvement",
+            "fruits_explanation": "You did not have whole fruits in your basket, contributing to a low score. Including more whole fruits such as apples or bananas would improve this score. Whole fruits are rich in fiber, vitamins, and minerals, which are crucial for health.",
+            "vegetables_score": "7.52",
+            "vegetables_score_label": "Moderate",
+            "vegetables_explanation": "You had a decent score due to consuming items like Swanson 100% Natural Beef Broth. Vegetables are packed with nutrients that are vital for good health.",
+            "grains_score": "9.91",
+            "grains_score_label": "Great",
+            "grains_explanation": "SkinnyPop Gluten-Free Original Popcorn greatly contributed to this score. Consuming whole grains is beneficial since they provide fiber and other essential nutrients that help maintain a healthy body.",
+            "dairy_score": "5.88",
+            "dairy_score_label": "Moderate",
+            "dairy_explanation": "Chef Boyardee Cheese Pizza, Homemade Pizza Kit contributed to this score. Consuming adequate dairy can help maintain bone health by supplying calcium and other essential nutrients.",
+            "protein_score": "1.31",
+            "protein_score_label": "Needs Improvement",
+            "protein_explanation": "There is a lack of variety in protein sources, with most being from items like Swanson 100% Natural Beef Broth which is not enough. Incorporating a variety, including plant-based proteins, would enhance this component.",
+            "fattyacids_score": "10",
+            "fattyacids_score_label": "Great",
+            "fattyacids_explanation": "Consuming items like Swanson 100% Natural Beef Broth was beneficial as fatty acids, especially omega-3s, are important for heart health."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "2.94",
+            "refinedgrains_score_label": "Needs Improvement",
+            "refinedgrains_explanation": "You had a high amount of refined grains such as Doritos Nacho Cheese Tortilla Snack Chips, which can lead to less fiber and nutrients. Switching to whole grains like brown rice would be beneficial.",
+            "sodium_score": "4.78",
+            "sodium_score_label": "Moderate",
+            "sodium_explanation": "Some items like Chef Boyardee Cheese Pizza, Homemade Pizza Kit contributed to high sodium levels. Excess sodium can affect blood pressure and heart health.",
+            "addedsugars_score": "10",
+            "addedsugars_score_label": "Great",
+            "addedsugars_explanation": "Your basket this week included minimal added sugars, which is beneficial because it helps prevent weight gain and dental problems. Keep it up!",
+            "saturatedfats_score": "8.0",
+            "saturatedfats_score_label": "Moderate",
+            "saturatedfats_explanation": "Items such as Chef Boyardee Cheese Pizza, Homemade Pizza Kit contributed to this score. Moderating saturated fat is pivotal to maintaining heart health."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Doritos Nacho Cheese Tortilla Snack Chips contributed to negative refined grain score. Next week try whole grain chips or crackers to strengthen the whole grains score.",
+            "food_to_substitute1": "Doritos Nacho Cheese Tortilla Snack Chips",
+            "recommendation2": "Chef Boyardee Cheese Pizza, Homemade Pizza Kit contributed to negative sodium score. Next week try low sodium homemade pizza kits to reduce sodium levels.",
+            "food_to_substitute2": "Chef Boyardee Cheese Pizza, Homemade Pizza Kit",
+            "recommendation3": "Swanson 100% Natural Beef Broth fell short on providing versatile proteins. Next week try including legumes or tofu to improve protein component.",
+            "food_to_substitute3": "Swanson 100% Natural Beef Broth"
+        }
+    ]
+}

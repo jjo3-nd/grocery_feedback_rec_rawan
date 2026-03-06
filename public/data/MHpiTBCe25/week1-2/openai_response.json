@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Fresh Pineapple",
+            "good_choice_reason1": "contribute positively to your fruit score with its natural sweetness and high vitamin C content",
+            "good_choice_item2": "Taylor Farms Sweet Kale Mini Chopped Salad Kit",
+            "good_choice_reason2": "be rich in dark green vegetables, which provide essential vitamins and fiber, boosting your vegetable score",
+            "good_choice_item3": "Great Value Large White Eggs",
+            "good_choice_reason3": "contribute to a high total protein score, offering quality protein without added sugars or refined grains"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Great work! You made great progress with goal 3 (increase vegetable intake). This was due to your purchases of the Taylor Farms Sweet Kale Mini Chopped Salad Kit because it is rich in vegetables, especially dark greens like kale.",
+                    "feedback_items": "Taylor Farms Sweet Kale Mini Chopped Salad Kit"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Domino\u00ae Premium Pure Cane Granulated Sugar, which didn\u2019t contribute to your goal of reducing added sugar because it directly increases your added sugar intake.",
+                    "feedback_items": "Domino\u00ae Premium Pure Cane Granulated Sugar"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Velveeta Shreds Original Flavored Shredded Cheese, which didn\u2019t contribute to your goal of reducing sodium because it is a processed cheese product with higher sodium content.",
+                    "feedback_items": "Velveeta Shreds Original Flavored Shredded Cheese"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "50.44 / 100",
+            "fruits_score": "7.8/10",
+            "fruits_score_label": "Great",
+            "fruits_explanation": "The inclusion of Fresh Pineapple and Fresh Mangoes helped improve your fruits score. Fruits are essential for providing vitamins, minerals, and fiber. Keep up the good work with more whole fruits!",
+            "vegetables_score": "10/10",
+            "vegetables_score_label": "Great",
+            "vegetables_explanation": "You had a great score due to Taylor Farms Sweet Kale Mini Chopped Salad Kit and Fresh Green Bell Pepper. Vegetables are great to include as they are high in essential vitamins and minerals. Keep it up!",
+            "grains_score": "0/10",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "A lack of whole grains such as oats or whole wheat bread resulted in a low score. Whole grains are important as they provide more nutrients and fiber than refined grains.",
+            "dairy_score": "4.25/10",
+            "dairy_score_label": "Moderate",
+            "dairy_explanation": "Great Value, 2% Reduced Fat Milk contributed to your dairy score. Dairy products offer calcium and vitamin D, important for bone health. Consider more varied dairy options next week.",
+            "protein_score": "4.74/10",
+            "protein_score_label": "Great",
+            "protein_explanation": "Great Value Large White Eggs and Chuck roast helped achieve a high total protein score. Proteins are crucial for body repair and muscle building.",
+            "fattyacids_score": "4.27/10",
+            "fattyacids_score_label": "Needs Improvement",
+            "fattyacids_explanation": "The use of Great Value Vegetable Oil contributed to this category. Healthy fatty acids, especially omega-3s, can improve heart health. Consider more fish next time."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "5.71/10",
+            "refinedgrains_score_label": "Moderate",
+            "refinedgrains_explanation": "Items like Pillsbury Grands! Flaky Layers Buttermilk Biscuits contributed to this score. Refined grains can lack fiber and essential nutrients. Aim for more whole grains instead.",
+            "sodium_score": "3.67/10",
+            "sodium_score_label": "Moderate",
+            "sodium_explanation": "Velveeta Shreds Original Flavored Shredded Cheese contributed to higher sodium. A high sodium diet can lead to high blood pressure. Opt for low-sodium alternatives.",
+            "addedsugars_score": "10/10",
+            "addedsugars_score_label": "Perfect",
+            "addedsugars_explanation": "Despite having some sugar in your basket, you managed a perfect score, highlighting conscious efforts toward reducing overall intake. Keep it up for overall dietary quality.",
+            "saturatedfats_score": "0/10",
+            "saturatedfats_score_label": "Needs Improvement",
+            "saturatedfats_explanation": "Items such as Great Value Sweet Cream Unsalted Butter contributed to a high saturated fat intake. Saturated fats are linked to heart disease. Opt for healthier fat sources like avocados or nuts."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Domino\u00ae Premium Pure Cane Granulated Sugar contributed to negative Added Sugars score. Next week try fruits like berries or apples for natural sweetness.",
+            "food_to_substitute1": "Domino\u00ae Premium Pure Cane Granulated Sugar",
+            "recommendation2": "Velveeta Shreds Original Flavored Shredded Cheese contributed to negative Sodium score. Next week try low-sodium cheese products or fresh herbs as flavor.",
+            "food_to_substitute2": "Velveeta Shreds Original Flavored Shredded Cheese",
+            "recommendation3": "Pillsbury Grands! Flaky Layers Buttermilk Biscuits contributed to negative Whole Grains score. Next week try opting for whole grain bread or oats to increase fiber and nutrient intake.",
+            "food_to_substitute3": "Pillsbury Grands! Flaky Layers Buttermilk Biscuits"
+        }
+    ]
+}

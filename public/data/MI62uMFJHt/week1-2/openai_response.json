@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Great Value Frozen Broccoli Florets",
+            "good_choice_reason1": "provide essential vitamins and minerals, supporting a nutritious vegetable intake",
+            "good_choice_item2": "Great Value Frozen Edamame",
+            "good_choice_reason2": "offer a plant-based protein source that's high in fiber",
+            "good_choice_item3": "Sara Lee Honey Wheat Bread",
+            "good_choice_reason3": "provide whole grains and dietary fiber"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "to reduce added sugar, reduce sodium, and increase vegetable intake",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Great work! You made great progress with reducing added sugars. This was due to choices like 7UP Tropical Zero Sugar Lemon Lime Mango Peach Soda Pop, as it contained minimal added sugars.",
+                    "feedback_items": "7UP Tropical Zero Sugar Lemon Lime Mango Peach Soda Pop"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Tahitian Treat Fruit Punch Soda Pop which didn\u2019t contribute to your goal of reducing sodium because it contained high levels of sodium.",
+                    "feedback_items": "Tahitian Treat Fruit Punch Soda Pop"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. Purchasing Lay's Classic Potato Chips did not help with your goal of increasing vegetable intake, as this product contained minimal vegetable content.",
+                    "feedback_items": "Lay's Classic Potato Chips"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "42.3 / 100",
+            "fruits_score": "3.48",
+            "fruits_score_label": "Moderate",
+            "fruits_explanation": "The score reflects contributions from Pop-Tarts Frosted S'mores Toaster Pastries. Including whole fruits instead of primarily processed foods is beneficial because whole fruits contain more fiber and nutrients. Fruits are essential for providing vitamins, minerals, and fiber. Try getting more whole fruits next time!",
+            "vegetables_score": "5.14",
+            "vegetables_score_label": "Moderate",
+            "vegetables_explanation": "You had a moderate score due to Great Value Frozen Broccoli Florets and Great Value Frozen Pepper & Onion Blend. Vegetables are great to include in your diet as they are high in essential vitamins and minerals and low in calories, supporting overall health. Keep it up!",
+            "grains_score": "1.1",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "The inclusion of Sara Lee Honey Wheat Bread slightly helped your whole grain intake, but there weren't enough whole grain products overall. Whole grains provide more fiber and nutrients, promoting healthy digestion. Aim to include more items like whole-grain bread or oatmeal next time!",
+            "dairy_score": "4.83",
+            "dairy_score_label": "Moderate",
+            "dairy_explanation": "Kraft Singles American Cheese Slices contributed to your dairy intake, but your overall intake of dairy can be enhanced by incorporating other sources such as milk or yogurt. Dairy provides calcium and vitamin D essential for bone health. A moderate intake is beneficial.",
+            "protein_score": "9.43",
+            "protein_score_label": "Great",
+            "protein_explanation": "Your score was high, largely due to Great Value Frozen Edamame, providing a healthy plant-based protein source. Protein is crucial for muscle repair and growth, and your intake supports a balanced diet. Keep up this pattern!",
+            "fattyacids_score": "1.45",
+            "fattyacids_score_label": "Needs Improvement",
+            "fattyacids_explanation": "You had a low score due to Country Crock Original Vegetable Oil Spread and other sources high in unnecessary fats. Positive fatty acids are important for heart health. Try including nuts and fish to improve your intake."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "0",
+            "refinedgrains_score_label": "Needs Improvement",
+            "refinedgrains_explanation": "Doritos Tortilla Chips Cool Ranch Flavor added to refined grain intake. Refined grains are lower in fiber and nutrients, contributing to increased blood sugar levels. Replace them with whole grains like brown rice or quinoa next time for better nutritional benefits.",
+            "sodium_score": "7.1",
+            "sodium_score_label": "Moderate",
+            "sodium_explanation": "7UP Tropical Zero Sugar Lemon Lime Mango Peach Soda Pop contained moderate sodium levels. It's important to maintain a balance to support heart health. Keep an eye on sodium in processed foods.",
+            "addedsugars_score": "9.76",
+            "addedsugars_score_label": "Great",
+            "addedsugars_explanation": "Excellent choice with low added sugars as seen in 7UP Tropical Zero Sugar Lemon Lime Mango Peach Soda Pop. Low sugar intake helps prevent weight gain and dental issues. Keep it up!",
+            "saturatedfats_score": "0",
+            "saturatedfats_score_label": "Needs Improvement",
+            "saturatedfats_explanation": "Products like Kraft Singles American Cheese Slices contributed to high saturated fat. These fats can increase heart disease risk. Try using healthier fats such as those from avocados or nuts next time."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Tahitian Treat Fruit Punch Soda Pop contributed to negative sodium scores. Next week, try choosing water or fresh fruit-infused water for beverages.",
+            "food_to_substitute1": "Tahitian Treat Fruit Punch Soda Pop",
+            "recommendation2": "Kraft Singles American Cheese Slices contributed to negative saturated fat scores. Next week, try incorporating low-fat cheese or plant-based options for healthier alternatives.",
+            "food_to_substitute2": "Kraft Singles American Cheese Slices",
+            "recommendation3": "Doritos Tortilla Chips Cool Ranch Flavor contributed to negative refined grains scores. Next week, try substituting them with whole grain bread or whole grain crackers for better nutritional benefits.",
+            "food_to_substitute3": "Doritos Tortilla Chips Cool Ranch Flavor"
+        }
+    ]
+}

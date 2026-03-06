@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Great Value 2% Reduced Fat Milk",
+            "good_choice_reason1": "provide essential calcium and vitamin D",
+            "good_choice_item2": "Fresh Banana",
+            "good_choice_reason2": "contribute to both Total Fruits and Whole Fruits components",
+            "good_choice_item3": "Great Value Pinto Beans",
+            "good_choice_reason3": "provide plant-based protein and lead contribution to protein score"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Great Value Raw Honey, which didn\u2019t contribute to your goal of reducing added sugar because it has a high sugar content.",
+                    "feedback_items": "Great Value Raw Honey"
+                },
+                {
+                    "feedback_text": "Great work! You made great progress with reducing sodium. This was due to your purchases of Great Value Pinto Beans, which naturally have relatively lower sodium content without added preservatives.",
+                    "feedback_items": "Great Value Pinto Beans"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Fresh Idaho Russet Potatoes, which slightly contributed to your vegetable intake, but more diverse vegetables are recommended to meet your goals.",
+                    "feedback_items": "Fresh Idaho Russet Potatoes"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "51.55 / 100",
+            "fruits_score": "5.95/10",
+            "fruits_score_label": "Moderate",
+            "fruits_explanation": "You included Fresh Banana, which helped balance between whole and total fruits. Whole fruits provide fiber and more nutrients, which are important for a healthy diet. Try maintaining or increasing whole fruit consumption next week!",
+            "vegetables_score": "6.30/10",
+            "vegetables_score_label": "Moderate",
+            "vegetables_explanation": "Your score was moderate thanks to Fresh Idaho Russet Potatoes. Vegetables are vital for their vitamins and minerals, and a variety supports better nutrition. Keep adding different kinds of veggies to diversify your intake!",
+            "grains_score": "2.91/10",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "Your score is based on Cheerios. Whole grains are beneficial for digestive health and lowering refined over whole grains is advised. Look to increase whole grain options next time!",
+            "dairy_score": "10/10",
+            "dairy_score_label": "Great",
+            "dairy_explanation": "Your purchase of Great Value 2% Reduced Fat Milk gave you a perfect score. Dairy provides calcium and vitamin D for bone health. Continue enjoying your dairy choices!",
+            "protein_score": "3.29/10",
+            "protein_score_label": "Needs Improvement",
+            "protein_explanation": "Great Value Pinto Beans was the major contributor. Ensuring a variety of plant-based proteins contributes to a balanced diet. Including a mix of protein sources will be beneficial.",
+            "fattyacids_score": "0/10",
+            "fattyacids_score_label": "Needs Improvement",
+            "fattyacids_explanation": "There was no significant contribution to fatty acids. Fatty acids, especially omega-3s, are beneficial for heart health. Consider adding nuts or fish to your list next week."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "8.13/10",
+            "refinedgrains_score_label": "Great",
+            "refinedgrains_explanation": "This score was due to Freshness Guaranteed French Bakery Bread Loaf, though refined grains are less nutritious. Opt for whole grain substitutes to improve fiber intake and health benefits.",
+            "sodium_score": "10/10",
+            "sodium_score_label": "Great",
+            "sodium_explanation": "Low sodium products like Great Value Pinto Beans kept your sodium intake in check. This is beneficial for heart health. Keep up the excellent work here!",
+            "addedsugars_score": "2.03/10",
+            "addedsugars_score_label": "Needs Improvement",
+            "addedsugars_explanation": "While Great Value Raw Honey and similar items increased your score, work to choose products with fewer added sugars to avoid weight gain and dental problems. Aim to improve next time.",
+            "saturatedfats_score": "2.94/10",
+            "saturatedfats_score_label": "Needs Improvement",
+            "saturatedfats_explanation": "Foods such as Fresh Red Baby Potatoes moderately contributed to fats. To benefit your heart health, consider reducing foods high in saturated fats."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Great Value Raw Honey contributed to negative Added Sugars. Next week try using fresh fruit spreads or natural fruit to strengthen the score.",
+            "food_to_substitute1": "Great Value Raw Honey",
+            "recommendation2": "Freshness Guaranteed French Bakery Bread Loaf played into higher Refined Grains. Next week try whole-grain bread or oatmeal to strengthen the score.",
+            "food_to_substitute2": "Freshness Guaranteed French Bakery Bread Loaf",
+            "recommendation3": "Fresh Red Baby Potatoes affected Saturated Fats. Next week try incorporating more dark green leafy vegetables or avocados which are lower in saturated fats.",
+            "food_to_substitute3": "Fresh Red Baby Potatoes"
+        }
+    ]
+}

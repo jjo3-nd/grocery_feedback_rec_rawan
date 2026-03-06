@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Fresh Sugarbee Apples",
+            "good_choice_reason1": "provided essential vitamins and fiber from whole fruits",
+            "good_choice_item2": "Fresh Red Seedless Grapes",
+            "good_choice_reason2": "offer a rich source of vitamins and antioxidants",
+            "good_choice_item3": "Prima Della Black Forest Turkey Breast",
+            "good_choice_reason3": "contributed positively to your protein intake"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Great work! You made great progress with increasing vegetable intake. This was due to your purchases of Marketside Fresh Shredded Iceberg Lettuce, which is a low-calorie and nutrient-rich option.",
+                    "feedback_items": "Marketside Fresh Shredded Iceberg Lettuce"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Marketside Birthday Cake Flavored Cake Pops, which didn\u2019t contribute to your goal of reducing added sugar because of the high sugar content in the cake pops.",
+                    "feedback_items": "Marketside Birthday Cake Flavored Cake Pops"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Prima Della Honey Ham, which didn\u2019t contribute to your goal of reducing sodium because deli meats are typically high in sodium.",
+                    "feedback_items": "Prima Della Honey Ham"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "65.53",
+            "fruits_score": "10",
+            "fruits_score_label": "Great",
+            "fruits_explanation": "Your selection of Fresh Sugarbee Apples and Fresh Red Seedless Grapes provided a perfect score for fruit intake, ensuring ample vitamins and fiber. Keep up your fantastic fruit selection!",
+            "vegetables_score": "5",
+            "vegetables_score_label": "Moderate",
+            "vegetables_explanation": "You had a moderate vegetable intake with items like Marketside Fresh Shredded Iceberg Lettuce and Fresh Slicing Tomato. Vegetables are important for reducing the risk of chronic diseases. Consider incorporating more variety, such as dark green veggies for a balanced diet.",
+            "grains_score": "0.34",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "The score was low as your whole grains were minimal, with contributions from Stacy's Pita Chips Fire Roasted Jalapeno. Whole grains support digestive health. Try adding more items like quinoa or brown rice next time.",
+            "dairy_score": "2.01",
+            "dairy_score_label": "Needs Improvement",
+            "dairy_explanation": "Great Value Singles White American Pasteurized Prepared Cheese Product made a small contribution. Dairy is good for maintaining bone health. Opt for yogurt or milk to improve your score and meet calcium needs.",
+            "protein_score": "5",
+            "protein_score_label": "Moderate",
+            "protein_explanation": "Products like Prima Della Black Forest Turkey Breast and Prima Della Honey Ham supported your protein intake well. Protein is essential for muscle maintenance. Including more seafood and plant protein can enhance your diet.",
+            "fattyacids_score": "10",
+            "fattyacids_score_label": "Great",
+            "fattyacids_explanation": "Freshness Guaranteed Fresh Rotisserie Seasoned White Meat Chicken Salad was a great contributor. Healthy fats are vital for brain and heart health. Continue incorporating balanced fats is excellent for maintaining heart health!"
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "10",
+            "refinedgrains_score_label": "Great",
+            "refinedgrains_explanation": "You maintained a low refined grain intake, avoiding items like white bread. Refined grains can lead to weight gain and blood sugar spikes, so continue opting for whole grains over refined grains.",
+            "sodium_score": "4.63",
+            "sodium_score_label": "Moderate",
+            "sodium_explanation": "Sodium was high due to products like Prima Della Honey Ham. High sodium is linked to increased blood pressure. Consider reducing intake of high-sodium foods such as processed deli meats.",
+            "addedsugars_score": "8.55",
+            "addedsugars_score_label": "Great",
+            "addedsugars_explanation": "You minimized added sugars with choices like Great Value 100% Apple Juice. Lower added sugars can reduce the risk of heart disease and obesity, keep it up!",
+            "saturatedfats_score": "10",
+            "saturatedfats_score_label": "Great",
+            "saturatedfats_explanation": "Choosing items like Great Value Singles White American Pasteurized Prepared Cheese Product limited your saturated fat likely to be lower in saturated fat. Keeping saturated fats low supports heart health."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Marketside Birthday Cake Flavored Cake Pops contributed to negative Added Sugars. Next week try fresh fruits like berries to strengthen scores in the fruit category naturally while keeping added sugar low.",
+            "food_to_substitute1": "Marketside Birthday Cake Flavored Cake Pops",
+            "recommendation2": "Prima Della Honey Ham contributed to negative Sodium. Next week try fresh poultry or fish to lower sodium intake.",
+            "food_to_substitute2": "Prima Della Honey Ham",
+            "recommendation3": "Stacy's Pita Chips Fire Roasted Jalapeno contributed to negative Whole Grains. Next week try whole grain bread or crackers to improve the Whole Grains component for better fiber intake.",
+            "food_to_substitute3": "Stacy's Pita Chips Fire Roasted Jalapeno"
+        }
+    ]
+}

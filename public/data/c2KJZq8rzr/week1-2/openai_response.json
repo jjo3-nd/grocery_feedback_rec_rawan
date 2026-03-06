@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "StarKist Chunk Light Tuna in Water",
+            "good_choice_reason1": "significantly contribute to your Total Protein Foods score and is a great source of lean protein and omega-3 fatty acids",
+            "good_choice_item2": "bettergoods Whole Milk Honey Vanilla Greek Yogurt",
+            "good_choice_reason2": "provide a high amount of dairy, contributing positively to your Dairy score and offering calcium and probiotics",
+            "good_choice_item3": "Fresh Mini Cucumbers",
+            "good_choice_reason3": "boost your Vegetable component with low calories and high water content, helping hydration"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Great work! You made great progress with reducing added sugar. This was due to your purchases of Hershey's Special Dark Miniatures Assorted Dark Chocolate Candy, which, although a treat, were consumed in moderation contributing to a perfect added sugars score.",
+                    "feedback_items": "Hershey's Special Dark Miniatures Assorted Dark Chocolate Candy"
+                },
+                {
+                    "feedback_text": "Great work! You made great progress with reducing sodium. StarKist Chunk Light Tuna in Water was a smart choice with minimal sodium added, which helped you meet your sodium goal with a perfect score.",
+                    "feedback_items": "StarKist Chunk Light Tuna in Water"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goal to increase vegetable intake. For example, you purchased Great Value Frozen Broccoli Stir Fry, Mixed Vegetables, which moderately contributed but nonetheless left room for improvement in overall vegetable consumption this week.",
+                    "feedback_items": "Great Value Frozen Broccoli Stir Fry, Mixed Vegetables"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "56.25",
+            "fruits_score": "3.86",
+            "fruits_score_label": "Moderate",
+            "fruits_explanation": "While including Fresh Raspberries helped, try to add more whole fruits rather than juices. Fruits offer essential vitamins, minerals, and fibers that support overall health. Keep adding more variety and whole fruits next time!",
+            "vegetables_score": "5.79",
+            "vegetables_score_label": "Moderate",
+            "vegetables_explanation": "Fresh Mini Cucumbers and Frozen Broccoli Stir Fry contributed to your score. Vegetables are full of nutrients and low in calories, excellent for health maintenance. Keep it up, but try to incorporate more dark leafy greens and beans for a higher score.",
+            "grains_score": "1.66",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "Bunny Whole Grain White Bread is a start but increasing whole grain variety can benefit your fiber and nutrient intake. Whole grains can help with digestive health and reduce chronic disease risks. Consider more diverse whole grain choices.",
+            "dairy_score": "6.44",
+            "dairy_score_label": "Moderate",
+            "dairy_explanation": "The bettergoods Whole Milk Honey Vanilla Greek Yogurt helped your dairy intake. Dairy provides calcium and vitamin D, essential for bone health. Aim to maintain balanced intake with low-fat options.",
+            "protein_score": "9.20",
+            "protein_score_label": "Great",
+            "protein_explanation": "StarKist Chunk Light Tuna in Water and Great Value Large White Eggs supported a robust protein intake. Proteins are crucial for muscle building and repair. Keep incorporating diverse protein sources like plant proteins.",
+            "fattyacids_score": "1.43",
+            "fattyacids_score_label": "Needs Improvement",
+            "fattyacids_explanation": "The Great Value Roasted & Salted Sunflower Kernels helped, yet the score indicates low intake of beneficial fatty acids like omega-3s. Fatty acids improve heart health by reducing cardiovascular risks. Incorporate more oily fish or plant-based fats."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "7.87",
+            "refinedgrains_score_label": "Moderate",
+            "refinedgrains_explanation": "Lance Sandwich Crackers, ToastChee Peanut Butter added to the refined grains score. Refined grains are lower in fiber and can cause blood sugar spikes. Consider swapping for whole grain options for more fiber and nutrients.",
+            "sodium_score": "10",
+            "sodium_score_label": "Great",
+            "sodium_explanation": "StarKist Chunk Light Tuna in Water contributed to your low sodium intake, achieving a perfect score. Keeping sodium low helps prevent high blood pressure and heart disease. Keep up the good work!",
+            "addedsugars_score": "10",
+            "addedsugars_score_label": "Great",
+            "addedsugars_explanation": "Minimal items like Hershey's Special Dark Miniatures Assorted Dark Chocolate Candy contributed, indicating excellent control over added sugar consumption. High sugar intake can lead to weight gain and dental issues. Great job by keeping it low!",
+            "saturatedfats_score": "0",
+            "saturatedfats_score_label": "Needs Improvement",
+            "saturatedfats_explanation": "Great Value Original Sour Cream led to a high intake of saturated fats. High saturated fats can impact heart health negatively. Attempt to reduce this by choosing unsaturated fats like oils in moderation."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Bunny Whole Grain White Bread contributed to negative Whole Grains score. Next week, try substituting with whole grain options like brown rice or quinoa.",
+            "food_to_substitute1": "Bunny Whole Grain White Bread",
+            "recommendation2": "Great Value Original Sour Cream contributed to negative Saturated Fat score. Next week, try using plain Greek yogurt as a substitute, which has lower saturated fat content.",
+            "food_to_substitute2": "Great Value Original Sour Cream",
+            "recommendation3": "Great Value Frozen Broccoli Stir Fry, Mixed Vegetables contributed to moderate Vegetable score. Next week, consider more leafy greens or legumes to improve your diversity and increase vitamin intake.",
+            "food_to_substitute3": "Great Value Frozen Broccoli Stir Fry, Mixed Vegetables"
+        }
+    ]
+}

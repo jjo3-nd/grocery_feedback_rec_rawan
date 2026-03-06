@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Yoplait Original Low Fat French Vanilla Yogurt",
+            "good_choice_reason1": "contribute significantly to your dairy intake, providing essential calcium and vitamins",
+            "good_choice_item2": "Chicken of the Sea Chunk Light Tuna",
+            "good_choice_reason2": "provide excellent protein and valuable seafood-based nutrients",
+            "good_choice_item3": "Fresh Cilantro",
+            "good_choice_reason3": "contribute to your vegetable intake and add valuable vitamins and minerals"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Great work! You made great progress with increasing your vegetable intake. This was due to your purchase of Fresh Cilantro and Fresh Cucumber, which contributed to a high score in the vegetable category.",
+                    "feedback_items": "Fresh Cilantro"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goal to reduce added sugar. You purchased Freshness Guaranteed Peanut Butter Fudge No Bake Cookies, which didn\u2019t contribute to your goal of reducing added sugar because they contain higher levels of added sugars.",
+                    "feedback_items": "Freshness Guaranteed Peanut Butter Fudge No Bake Cookies"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goal to reduce sodium. You're choice of Chicken of the Sea Chunk Light Tuna in Water, contains sodium that contributes to higher sodium intake.",
+                    "feedback_items": "Chicken of the Sea Chunk Light Tuna"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "63.52",
+            "fruits_score": "0.48",
+            "fruits_score_label": "Needs Improvement",
+            "fruits_explanation": "You did not have whole fruits in your basket, which contributed to a low score. However, the inclusion of Freshness Guaranteed Peanut Butter Fudge No Bake Cookies, though not ideal, added some fruits component. Including whole fruits instead of primarily snacks is beneficial because whole fruits contain more fiber and nutrients. Fruits are essential for providing vitamins, minerals, and fiber. Try getting more whole fruits next time!",
+            "vegetables_score": "10",
+            "vegetables_score_label": "Great",
+            "vegetables_explanation": "You had a great score due to Fresh Cilantro and Fresh Cucumber. Vegetables are great to include in your diet as they are high in essential vitamins and minerals and low in calories, supporting overall health. Keep it up!",
+            "grains_score": "1.66",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "You had a low score because the only grain was from Freshness Guaranteed Peanut Butter Fudge No Bake Cookies, which is refined. Grains provide essential nutrients including fiber, folate, and several minerals. Consider including more whole grains like brown rice or whole-grain bread, as they are healthier options.",
+            "dairy_score": "10",
+            "dairy_score_label": "Great",
+            "dairy_explanation": "Yoplait Original Low Fat French Vanilla Yogurt Cup contributed greatly to your dairy score. Dairy products are a great source of calcium and vitamin D, important for healthy bones and teeth. Great job maintaining a high dairy score!",
+            "protein_score": "10",
+            "protein_score_label": "Great",
+            "protein_explanation": "You achieved a full score for protein thanks to Chicken of the Sea Chunk Light Tuna in Water and Freshness Guaranteed Chicken Breast Tenderloins. Protein foods are essential for muscle and tissue maintenance and repair. Excellent contribution to your protein needs!",
+            "fattyacids_score": "0",
+            "fattyacids_score_label": "Needs Improvement",
+            "fattyacids_explanation": "You had a low score this week due to the lack of healthy fatty acid sources. Fatty acids, especially omega-3s, have been shown to improve heart health by reducing the risk of cardiovascular diseases. Try including more seafood like salmon and more nuts next time."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "10",
+            "refinedgrains_score_label": "Needs Improvement",
+            "refinedgrains_explanation": "You had a high amount of refined grains in your basket this week such as Freshness Guaranteed Peanut Butter Fudge No Bake Cookies. Refined grains, such as white rice, white flour, and many types of bread are lower in fiber and nutrients, and they can cause spikes in blood sugar. Replace them with whole grains like oatmeal, whole-wheat pasta, or brown rice next week for better nutritional benefits.",
+            "sodium_score": "4.62",
+            "sodium_score_label": "Moderate",
+            "sodium_explanation": "Products like Chicken of the Sea Chunk Light Tuna in Water contributed to your sodium score. High sodium intake can lead to increased blood pressure and health problems. Consuming processed foods in moderation and choosing low-sodium or no-salt-added alternatives can help control sodium intake.",
+            "addedsugars_score": "10",
+            "addedsugars_score_label": "Needs Improvement",
+            "addedsugars_explanation": "Freshness Guaranteed Peanut Butter Fudge No Bake Cookies had a significant amount of added sugars. Reducing added sugars is beneficial as high added sugar intake can contribute to weight gain and dental problems. Next time, choose unsweetened or naturally sweetened snacks to improve this area.",
+            "saturatedfats_score": "6.77",
+            "saturatedfats_score_label": "Moderate",
+            "saturatedfats_explanation": "Saturated fats came from products like 73% Lean / 27% Fat Ground Beef. It\u2019s important to moderate the intake of saturated fats as they can raise cholesterol levels and increase the risk of heart disease. Opt for leaner meats and include more plant-based protein sources."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Freshness Guaranteed Peanut Butter Fudge No Bake Cookies contributed to negative added sugar scores. Next week try unsweetened snacks like apple slices with almond butter or plain Greek yogurt with nuts to strengthen score.",
+            "food_to_substitute1": "Freshness Guaranteed Peanut Butter Fudge No Bake Cookies",
+            "recommendation2": "Freshness Guaranteed Peanut Butter Fudge No Bake Cookies contributed to negative whole grain scores. Next week try whole-grain cereals or pastas for better nutrition.",
+            "food_to_substitute2": "Freshness Guaranteed Peanut Butter Fudge No Bake Cookies",
+            "recommendation3": "73% Lean / 27% Fat Ground Beef contributed to negative saturated fats scores. Next week, consider switching to lean ground turkey or plant-based protein options like beans or lentils.",
+            "food_to_substitute3": "73% Lean / 27% Fat Ground Beef"
+        }
+    ]
+}

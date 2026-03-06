@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Great Value Frozen Mixed Vegetables",
+            "good_choice_reason1": "contribute positively to your total vegetable intake",
+            "good_choice_item2": "Bob Evans Original Roll Pork Sausage",
+            "good_choice_reason2": "contribute to the Total Protein Foods score",
+            "good_choice_item3": "Kraft Singles American Cheese Slices",
+            "good_choice_reason3": "contribute to the Dairy score"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake",
+            "goal_feedback": [
+                {
+                    "feedback_text": "You purchased Great Value Pure Granulated Sugar which didn\u2019t contribute to your goal of reducing added sugar because it is high in added sugars.",
+                    "feedback_items": "Great Value Pure Granulated Sugar"
+                },
+                {
+                    "feedback_text": "You purchased Kraft Singles American Cheese Slices which didn\u2019t contribute to your goal of reducing sodium because it contains a high sodium content.",
+                    "feedback_items": "Kraft Singles American Cheese Slices"
+                },
+                {
+                    "feedback_text": "Great work! You made some progress with increasing your vegetable intake. This was due to your purchase of Great Value Frozen Mixed Vegetables because it added to your total vegetable component.",
+                    "feedback_items": "Great Value Frozen Mixed Vegetables"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "19.65 / 100",
+            "fruits_score": "0.78/10",
+            "fruits_score_label": "Needs Improvement",
+            "fruits_explanation": "You did not have sufficient whole fruits which contributed to a low score. Including more whole fruits rather than fruit juices is beneficial because whole fruits contain more fiber and nutrients. Fruits are essential for providing vitamins, minerals, and fiber. Try getting more whole fruits next time.",
+            "vegetables_score": "0.5/10",
+            "vegetables_score_label": "Needs Improvement",
+            "vegetables_explanation": "The primary source of vegetables was Great Value Frozen Mixed Vegetables, which helped improve the score but overall intake was low. Vegetables are high in essential vitamins and minerals and low in calories, supporting overall health. Try including more variety like dark green vegetables and beans.",
+            "grains_score": "0/10",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "There were no whole grains purchased this week. Whole grains are better nutritional choices than refined grains, as they provide more fiber and nutrients. Try including whole grains next time.",
+            "dairy_score": "1.7/10",
+            "dairy_score_label": "Needs Improvement",
+            "dairy_explanation": "While Kraft Singles American Cheese Slices contributed to your dairy score, the overall intake of dairy products was low. Including a variety of dairy foods helps in getting necessary calcium and protein.",
+            "protein_score": "7.61/10",
+            "protein_score_label": "Great",
+            "protein_explanation": "You had a great score due to choices like Bob Evans Original Roll Pork Sausage. Protein is important for maintaining muscle mass and supporting cell function. Keep it up!",
+            "fattyacids_score": "0/10",
+            "fattyacids_score_label": "Needs Improvement",
+            "fattyacids_explanation": "Foods like Johnsonville Smoked Bratwurst were consumed, however, there was a lack of good sources of omega-3 fatty acids. Fatty acids, especially omega-3s, improve heart health by reducing the risk of cardiovascular diseases. Try getting more fish and plant-based oils next week."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "0.44/10",
+            "refinedgrains_score_label": "Needs Improvement",
+            "refinedgrains_explanation": "Lender's Original Plain Bagels contributed to a high intake of refined grains. Refined grains can cause blood sugar spikes due to their lower fiber content. Whole grains like brown rice or quinoa can be better options.",
+            "sodium_score": "4.76/10",
+            "sodium_score_label": "Moderate",
+            "sodium_explanation": "The score reflects moderate sodium intake but can be improved by reducing items like Kraft Singles American Cheese Slices. High sodium intake can lead to hypertension and cardiovascular issues. Aim for low-sodium options.",
+            "addedsugars_score": "3.87/10",
+            "addedsugars_score_label": "Moderate",
+            "addedsugars_explanation": "You included items like Great Value Pure Granulated Sugar, which increased sugar consumption. Excessive added sugars can lead to weight gain and dental problems. Try to cut down sugar-sweetened items.",
+            "saturatedfats_score": "0/10",
+            "saturatedfats_score_label": "Needs Improvement",
+            "saturatedfats_explanation": "Items like Johnsonville Smoked Bratwurst contain high saturated fats. These fats can increase cholesterol levels and risk for heart disease. Opt for unsaturated fats next time."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Great Value Pure Granulated Sugar contributed to negative Added Sugars score. Next week, try using natural sweeteners like honey or maple syrup in moderation.",
+            "food_to_substitute1": "Great Value Pure Granulated Sugar",
+            "recommendation2": "Kraft Singles American Cheese Slices contributed to negative Sodium score. Next week, try low-sodium cheese options or plant-based milks like almond milk.",
+            "food_to_substitute2": "Kraft Singles American Cheese Slices",
+            "recommendation3": "Lender's Original Plain Bagels contributed to negative Refined Grains score. Next week, try opting for bagels made with whole grain or multigrain flour instead.",
+            "food_to_substitute3": "Lender's Original Plain Bagels"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Great Value Pepper Jack Cheese",
+            "good_choice_reason1": "provide a significant contribution to your dairy intake",
+            "good_choice_item2": "Great Value Original Diced Tomatoes with Green Chilies",
+            "good_choice_reason2": "help increase your vegetable intake",
+            "good_choice_item3": "Great Value Block Sharp Cheddar Cheese",
+            "good_choice_reason3": "provide you with necessary fats, including saturated fats"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Milo's Lemonade Juice Drink 100% Natural, which didn\u2019t contribute to your goal of reducing added sugar because it contained a significant amount of added sugars.",
+                    "feedback_items": "Milo's Lemonade Juice Drink 100% Natural"
+                },
+                {
+                    "feedback_text": "Great work! You made great progress with reducing sodium. This was due to avoiding high sodium foods, as demonstrated by the relatively low sodium contribution from products like Great Value Original Diced Tomatoes with Green Chilies.",
+                    "feedback_items": "Great Value Original Diced Tomatoes with Green Chilies"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Jell-O Lime Artificially Flavored Gelatin Dessert Mix, which didn\u2019t contribute to your goal of increasing vegetable intake because it provided no vegetables.",
+                    "feedback_items": "Jell-O Lime Artificially Flavored Gelatin Dessert Mix"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "33.18 / 100",
+            "fruits_score": "3.53/10",
+            "fruits_score_label": "Moderate",
+            "fruits_explanation": "The inclusion of Minute Maid Fruit Punch Real Fruit Juice Drink helped slightly. Including more whole fruit instead of primarily juices is beneficial because whole fruits contain more fiber and nutrients. Fruits are essential for providing vitamins, minerals, and fiber. Try getting more whole fruits next time!",
+            "vegetables_score": "2.38/10",
+            "vegetables_score_label": "Needs Improvement",
+            "vegetables_explanation": "The inclusion of Great Value Original Diced Tomatoes with Green Chilies helped, but there was a lack of greens and beans, which led to a lower score. Vegetables are great to include in your diet as they are high in essential vitamins and minerals and low in calories, supporting overall health. Try adding more dark-green vegetables and beans next week!",
+            "grains_score": "0/10",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "There were no products in your basket that contributed to whole grains. Whole grains are critical for providing fiber and essential nutrients, impacting heart health and digestion. Consider including options like brown rice, oatmeal, or whole-grain bread next time.",
+            "dairy_score": "10/10",
+            "dairy_score_label": "Great",
+            "dairy_explanation": "Your purchase of Great Value Pepper Jack Cheese contributed positively. Dairy provides essential nutrients like calcium and Vitamin D, promoting bone health. Keep it up!",
+            "protein_score": "1.65/10",
+            "protein_score_label": "Needs Improvement",
+            "protein_explanation": "Hillshire Farm Hardwood Smoked Beef Summer Sausage contributed, but lacked diversity. Proteins are crucial for muscle building and keeping you full. Including more plant proteins like beans or nuts would improve your score next time.",
+            "fattyacids_score": "0/10",
+            "fattyacids_score_label": "Needs Improvement",
+            "fattyacids_explanation": "You did not have food items rich in healthy fatty acids. Fatty acids, especially omega-3s, have been shown to improve heart health by reducing the risk of cardiovascular diseases. Including sources like salmon or walnuts can boost this component."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "5.36/10",
+            "refinedgrains_score_label": "Moderate",
+            "refinedgrains_explanation": "You had several refined grains including Mission Super Soft White Corn Tortillas. While refined grains are convenient, whole grains provide more nutrients and are better for blood sugar control. Substitute with whole-grain versions next week.",
+            "sodium_score": "9.68/10",
+            "sodium_score_label": "Great",
+            "sodium_explanation": "You chose items with minimal sodium, contributing to a great score. Low sodium intake reduces the risk of high blood pressure and heart disease. Keep it up!",
+            "addedsugars_score": "0.57/10",
+            "addedsugars_score_label": "Needs Improvement",
+            "addedsugars_explanation": "High added sugars were noted, especially from Milo's Lemonade Juice Drink 100% Natural. Reducing added sugars is important for preventing weight gain and dental issues. Try cutting back on sugary drinks for better scores.",
+            "saturatedfats_score": "0/10",
+            "saturatedfats_score_label": "Needs Improvement",
+            "saturatedfats_explanation": "Great Value Block Sharp Cheddar Cheese contributed to a high saturated fat score. Saturated fats should be moderated due to their link with heart disease. Aim for healthier fats like those found in avocados and nuts."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Milo's Lemonade Juice Drink 100% Natural significantly contributed to negative Added Sugars score. Next week, try bottled water with a splash of lemon to improve your score.",
+            "food_to_substitute1": "Milo's Lemonade Juice Drink 100% Natural",
+            "recommendation2": "Mission Super Soft White Corn Tortillas contributed to negative Refined Grains score. Next week, try whole-grain tortillas to strengthen the score.",
+            "food_to_substitute2": "Mission Super Soft White Corn Tortillas",
+            "recommendation3": "Great Value Melt'n Dip Easy Melt Cheese contributed to low Fatty Acids score. Next week, try incorporating avocados or salmon for better healthy fat intake.",
+            "food_to_substitute3": "Great Value Melt'n Dip Easy Melt Cheese"
+        }
+    ]
+}

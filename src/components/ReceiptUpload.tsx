@@ -19,7 +19,8 @@ const ALLOWED_TYPES = new Set([
   'application/pdf',
 ]);
 
-const MAX_FILE_SIZE_BYTES = 10 * 1024 * 1024;
+const MAX_FILE_SIZE_BYTES = Math.floor(4.5 * 1024 * 1024);
+const MAX_FILE_SIZE_LABEL = '4.5MB';
 
 type EntryMode = 'upload' | 'manual';
 
@@ -59,7 +60,7 @@ const ReceiptUpload = () => {
       }
 
       if (selectedFile.size > MAX_FILE_SIZE_BYTES) {
-        invalidMessages.push(`${selectedFile.name}: file is larger than 10MB`);
+        invalidMessages.push(`${selectedFile.name}: file is larger than ${MAX_FILE_SIZE_LABEL}`);
         continue;
       }
 
@@ -142,7 +143,8 @@ const ReceiptUpload = () => {
     });
 
     if (!response.ok) {
-      throw new Error('Failed to upload receipt files');
+      const errorData = await response.json().catch(() => null);
+      throw new Error(errorData?.error || 'Failed to upload receipt files');
     }
 
     const data = await response.json();
@@ -311,7 +313,7 @@ const ReceiptUpload = () => {
                   </label>
 
                   <p className="mt-3 text-sm text-gray-600">
-                    JPG, PNG, or PDF. You can select multiple files. Max 10MB each.
+                    JPG, PNG, or PDF. You can select multiple files. Max {MAX_FILE_SIZE_LABEL} each.
                   </p>
 
                   {files.length > 0 && (

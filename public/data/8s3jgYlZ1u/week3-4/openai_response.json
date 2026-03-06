@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Fresh Lime",
+            "good_choice_reason1": "provide a natural source of vitamin C and add freshness to your meals without added sugars",
+            "good_choice_item2": "Fresh Cilantro",
+            "good_choice_reason2": "add flavor and color to your dishes while being rich in vitamins A and K",
+            "good_choice_item3": "Dave's Killer Bread",
+            "good_choice_reason3": "be high in whole grains, which promote heart health and provide dietary fiber"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake.",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Great work! You made great progress with increasing vegetable intake. This was due to your purchases of Fresh Cilantro because it is a nutrient-rich vegetable that adds flavor without extra calories.",
+                    "feedback_items": "Fresh Cilantro"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Oikos Triple Zero 15g Protein, 0g Added Sugar, Fat Free Cherry Greek Yogurt Cups which didn\u2019t contribute to your goal of reducing added sugar because it still contains natural sugars from fruit, though it has no added sugars.",
+                    "feedback_items": "Oikos Triple Zero"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Classico Roasted Garlic Spaghetti Pasta Sauce which didn\u2019t contribute to your goal of reducing sodium because it is high in sodium content.",
+                    "feedback_items": "Classico Roasted Garlic Spaghetti Pasta Sauce"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "64.11",
+            "fruits_score": "10",
+            "fruits_score_label": "Great",
+            "fruits_explanation": "You had both Fresh Lime and Fresh Mangoes, contributing to a high score. This variety is great as fruits are essential for vitamins and minerals.",
+            "vegetables_score": "10",
+            "vegetables_score_label": "Great",
+            "vegetables_explanation": "Fresh Cilantro and Fresh Whole White Onions contributed positively. Vegetables are excellent for providing vitamins and minerals while being lower in calories.",
+            "grains_score": "3.74",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "Your score is low because Dave's Killer Bread was the primary whole grain. Whole grains offer fiber, which is beneficial for digestion. Try to include more whole grain options next time.",
+            "dairy_score": "5.98",
+            "dairy_score_label": "Moderate",
+            "dairy_explanation": "Great Value Greek Plain Nonfat Yogurt helped achieve this score. Dairy products are a good source of calcium and can be part of a balanced diet.",
+            "protein_score": "5",
+            "protein_score_label": "Great",
+            "protein_explanation": "Great Value Large White Eggs contributed significantly. It's essential to include a variety of protein sources for overall health.",
+            "fattyacids_score": "2.04",
+            "fattyacids_score_label": "Needs Improvement",
+            "fattyacids_explanation": "You had a low score due to Great Value Naturally Hickory Smoked Thick Cut Sliced Bacon. Fatty acids, especially omega-3s, are crucial for heart health. Consider other sources like nuts or fish next time."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "10",
+            "refinedgrains_score_label": "Great",
+            "refinedgrains_explanation": "Great job choosing foods like Barilla Protein+ Penne Pasta. Refined grains are lower in fiber, so replacing them with whole grains is beneficial.",
+            "sodium_score": "3.5",
+            "sodium_score_label": "Needs Improvement",
+            "sodium_explanation": "Items like Classico Roasted Garlic Spaghetti Pasta Sauce contributed to high sodium content. High sodium intake can raise blood pressure, so opting for low-sodium alternatives is better.",
+            "addedsugars_score": "10",
+            "addedsugars_score_label": "Great",
+            "addedsugars_explanation": "You chose items with minimal added sugars like Oikos Triple Zero 15g Protein, 0g Added Sugar, Fat Free Cherry Greek Yogurt Cups. This helps in maintaining your weight and dental health. Keep it up!",
+            "saturatedfats_score": "3.85",
+            "saturatedfats_score_label": "Needs Improvement",
+            "saturatedfats_explanation": "Great Value Naturally Hickory Smoked Thick Cut Sliced Bacon contributed to this score. High saturated fat intake can increase heart disease risk, and it's better to choose leaner cuts or plant-based proteins."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Classico Roasted Garlic Spaghetti Pasta Sauce contributed to high sodium. Next week try lower-sodium pasta sauce to strengthen your score.",
+            "food_to_substitute1": "Classico Roasted Garlic Spaghetti Pasta Sauce",
+            "recommendation2": "Great Value Naturally Hickory Smoked Thick Cut Sliced Bacon contributed to negative fatty acid scores. Next week try salmon or walnuts to increase healthy fats in your diet.",
+            "food_to_substitute2": "Great Value Naturally Hickory Smoked Thick Cut Sliced Bacon",
+            "recommendation3": "Dave's Killer Bread Thin Sliced 21 Whole Grains and Seeds Organic Bread contributed positively to your whole grains but incorporating more like quinoa or brown rice could further improve your score.",
+            "food_to_substitute3": "Dave's Killer Bread"
+        }
+    ]
+}

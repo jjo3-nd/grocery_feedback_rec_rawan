@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Fresh Strawberries",
+            "good_choice_reason1": "are an excellent source of vitamins, antioxidants, and fiber",
+            "good_choice_item2": "Fresh Romaine Lettuce Hearts",
+            "good_choice_reason2": "are rich in vitamins A and K, and are low in calories",
+            "good_choice_item3": "StarKist Chunk Light Tuna in Water",
+            "good_choice_reason3": "is high in protein and provides beneficial omega-3 fatty acids"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Milo's Famous Sweet Iced Tea which didn\u2019t contribute to your goal of reducing added sugar because it contains high amounts of added sugars.",
+                    "feedback_items": "Milo's Famous Sweet Iced Tea"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Great Value Cut Green Beans which didn\u2019t contribute to your goal of reducing sodium because processed versions can be high in sodium due to added salt.",
+                    "feedback_items": "Great Value Cut Green Beans"
+                },
+                {
+                    "feedback_text": "Great work! You made great progress with increasing vegetable intake. This was due to your purchases of Fresh Romaine Lettuce Hearts because they are low in calories and high in nutrients.",
+                    "feedback_items": "Fresh Romaine Lettuce Hearts"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "54.18 / 100",
+            "fruits_score": "10/10",
+            "fruits_score_label": "Great",
+            "fruits_explanation": "Fresh Strawberries greatly contributed to this high score. Fruits are beneficial as they contain essential vitamins, minerals, and fiber. Keep including a variety of fruits in your diet!",
+            "vegetables_score": "10/10",
+            "vegetables_score_label": "Great",
+            "vegetables_explanation": "You had a great score due to Fresh Romaine Lettuce Hearts and Fresh Green Bell Pepper. Vegetables are great to include in your diet as they are high in essential vitamins and minerals and low in calories, supporting overall health. Keep it up!",
+            "grains_score": "0/10",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "There was a lack of whole grains in your basket, which resulted in a low score. Whole grains are important for providing fiber and essential nutrients. Consider including more brown rice, quinoa, or whole wheat products.",
+            "dairy_score": "3.38/10",
+            "dairy_score_label": "Moderate",
+            "dairy_explanation": "Great Value Finely Shredded Low-Moisture Part-Skim Mozzarella Cheese contributed to your dairy intake. Dairy products are important sources of calcium and vitamin D. Try including a variety of dairy products in your future shopping.",
+            "protein_score": "10/10",
+            "protein_score_label": "Great",
+            "protein_explanation": "StarKist Chunk Light Tuna in Water contributed to this high score. Protein foods are vital for building and repairing tissues in the body. Keep enjoying diverse protein sources!",
+            "fattyacids_score": "0/10",
+            "fattyacids_score_label": "Needs Improvement",
+            "fattyacids_explanation": "Your choices like Great Value Original Pepperoni Slices did not adequately contribute because of their lack of healthier fatty acids. Fatty acids, especially omega-3s, have been shown to improve heart health. Try incorporating more sources like fish or chia seeds."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "10/10",
+            "refinedgrains_score_label": "Great",
+            "refinedgrains_explanation": "You had a high amount of refined grains in your basket this week, such as Sunbeam Giant White Bread Loaf. Refined grains are lower in fiber and nutrients, and they can cause spikes in blood sugar. Switch more refined grains to whole grains for health benefits.",
+            "sodium_score": "1.85/10",
+            "sodium_score_label": "Needs Improvement",
+            "sodium_explanation": "Great Value Cut Green Beans contributed to a high sodium consumption. Too much sodium can lead to high blood pressure, a risk factor for cardiovascular diseases. Aim for products with lower sodium content.",
+            "addedsugars_score": "9.22/10",
+            "addedsugars_score_label": "Great",
+            "addedsugars_explanation": "Milo's Famous Sweet Iced Tea contributed quite significantly to added sugars. High added sugar intake can contribute to weight gain and dental problems. It is important to choose beverages with lower sugar content.",
+            "saturatedfats_score": "0/10",
+            "saturatedfats_score_label": "Needs Improvement",
+            "saturatedfats_explanation": "Daisy Pure and Natural Sour Cream contributed to high saturated fat intake. Saturated fats can affect cholesterol levels and increase the risk of heart disease. Opt for healthier fats like those found in nuts and fish."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Milo's Famous Sweet Iced Tea contributed to negative Added Sugars score. Next week, try unsweetened tea or sparkling water to reduce sugar intake.",
+            "food_to_substitute1": "Milo's Famous Sweet Iced Tea",
+            "recommendation2": "Great Value Cut Green Beans contributed to negative Sodium score. Next week, try fresh or frozen vegetables without added sodium to lower sodium consumption.",
+            "food_to_substitute2": "Great Value Cut Green Beans",
+            "recommendation3": "Sunbeam Giant White Bread Loaf contributed to negative Whole Grains score. Next week, try whole wheat bread or whole grain bagels for better grain choices.",
+            "food_to_substitute3": "Sunbeam Giant White Bread Loaf"
+        }
+    ]
+}

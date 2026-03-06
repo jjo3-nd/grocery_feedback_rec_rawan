@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Fresh Fuji Apples",
+            "good_choice_reason1": "provide rich fiber and vitamins, significantly contributing to your 'Total Fruits' score",
+            "good_choice_item2": "Chicken of the Sea Wild Caught Chub Mackerel in Brine",
+            "good_choice_reason2": "boost your 'Total Protein' foods with omega-3 fatty acids and high protein content",
+            "good_choice_item3": "Prairie Farms 2% Reduced Fat Milk",
+            "good_choice_reason3": "provide plenty of calcium and vitamin D, contributing excellently to your 'Dairy' score"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Great work! You made great progress with your goal to increase vegetable intake. This was due to your purchase of Green Giant Fresh Washed & Trimmed Green Leaf Lettuce because it is a nutritious vegetable high in vitamins A and K.",
+                    "feedback_items": "Green Giant Fresh Washed & Trimmed Green Leaf Lettuce"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Faraon Aloe Vera Original Flavored Drink, which didn\u2019t contribute to your goal of reducing added sugar because it contains high levels of added sugars.",
+                    "feedback_items": "Faraon Aloe Vera Original Flavored Drink"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Fresh Produce Original Medium Salsa, which didn't align with your goal to reduce sodium because salsa can often contain high sodium levels.",
+                    "feedback_items": "Fresh Produce Original Medium Salsa"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "52.27/100",
+            "fruits_score": "7.64/10",
+            "fruits_score_label": "Great",
+            "fruits_explanation": "The inclusion of Fresh Fuji Apples significantly enhanced your fruit category, providing essential vitamins and fiber. Fruits are essential for providing vitamins, minerals, and fiber. Great job including these in your weekly shopping!",
+            "vegetables_score": "5.13/10",
+            "vegetables_score_label": "Moderate",
+            "vegetables_explanation": "Great value Green Giant Fresh Washed & Trimmed Green Leaf Lettuce contributed to good scores. Vegetables are great to include in your diet as they are high in essential vitamins and minerals and low in calories, supporting overall health. Keep it up!",
+            "grains_score": "2.24/10",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "Whole grains like Aunt Millie's Whole Grain White Bread are beneficial, but the overall intake was low. Whole grains can reduce the risk of chronic diseases. Consider more whole grains next time.",
+            "dairy_score": "7.8/10",
+            "dairy_score_label": "Great",
+            "dairy_explanation": "Prairie Farms 2% Reduced Fat Milk helped boost this score with its calcium and vitamin D content. Dairy supports bone health through essential nutrients like calcium and vitamin D. Continue this great habit!",
+            "protein_score": "10/10",
+            "protein_score_label": "Great",
+            "protein_explanation": "The protein category was enhanced greatly by Chicken of the Sea Wild Caught Chub Mackerel in Brine. Proteins are building blocks for your body's structure and wellbeing. Awesome work here!",
+            "fattyacids_score": "0/10",
+            "fattyacids_score_label": "Needs Improvement",
+            "fattyacids_explanation": "You had a low score due to insufficient consumption of foods high in beneficial fatty acids. Fatty acids, especially omega-3s, have been shown to improve heart health by reducing the risk of cardiovascular diseases. Try getting more fatty acid sources like oily fish or nuts next week."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "8.71/10",
+            "refinedgrains_score_label": "Great",
+            "refinedgrains_explanation": "Your basket had a controlled amount of refined grains like La Banderita Soft Taco Flour Tortillas. Refined grains are lower in nutrients, so it's great to keep them moderate in your diet.",
+            "sodium_score": "0.75/10",
+            "sodium_score_label": "Needs Improvement",
+            "sodium_explanation": "The presence of items like Fresh Produce Original Medium Salsa heightened sodium levels. High sodium can lead to health issues such as high blood pressure. Reducing sodium-rich foods would be beneficial.",
+            "addedsugars_score": "10/10",
+            "addedsugars_score_label": "Great",
+            "addedsugars_explanation": "You chose items with minimal added sugars such as Faraon Aloe Vera Original Flavored Drink. This is beneficial, as high added sugar intake can contribute to weight gain and dental problems. Keep it up!",
+            "saturatedfats_score": "0/10",
+            "saturatedfats_score_label": "Needs Improvement",
+            "saturatedfats_explanation": "High consumption of saturated fats from items like Kerrygold Grass-Fed Salted Pure Irish Butter was noted. Reducing saturated fats can lower cholesterol and reduce heart disease risk."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Faraon Aloe Vera Original Flavored Drink contributed to the negative added sugars score. Next week try unsweetened flavored waters or herbal teas to strengthen your score.",
+            "food_to_substitute1": "Faraon Aloe Vera Original Flavored Drink",
+            "recommendation2": "Fresh Produce Original Medium Salsa contributed to a negative sodium score. Next week try fresh salsa prepared from low-sodium ingredients or plain fresh vegetables to lower sodium intake.",
+            "food_to_substitute2": "Fresh Produce Original Medium Salsa",
+            "recommendation3": "Kerrygold Grass-Fed Salted Pure Irish Butter contributed to a negative saturated fats score. Next week try olive oil or avocados to reduce saturated fat consumption.",
+            "food_to_substitute3": "Kerrygold Grass-Fed Salted Pure Irish Butter"
+        }
+    ]
+}

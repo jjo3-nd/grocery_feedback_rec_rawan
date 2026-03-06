@@ -1,5 +1,4 @@
-import { writeFile, mkdir } from 'fs/promises';
-import { join } from 'path';
+import { put } from '@vercel/blob';
 import { NextRequest, NextResponse } from 'next/server';
 
 const ALLOWED_TYPES = new Set([
@@ -9,7 +8,8 @@ const ALLOWED_TYPES = new Set([
   'application/pdf',
 ]);
 
-const MAX_FILE_SIZE_BYTES = 10 * 1024 * 1024;
+const MAX_FILE_SIZE_BYTES = Math.floor(4.5 * 1024 * 1024);
+const MAX_FILE_SIZE_LABEL = '4.5MB';
 
 function generateId() {
   return Date.now().toString(36) + Math.random().toString(36).slice(2);
@@ -21,6 +21,13 @@ function sanitizeFilename(filename: string) {
 
 export async function POST(request: NextRequest) {
   try {
+    if (!process.env.BLOB_READ_WRITE_TOKEN) {
+      return NextResponse.json(
+        { error: 'Blob storage is not configured. Set BLOB_READ_WRITE_TOKEN.' },
+        { status: 500 }
+      );
+    }
+
     const formData = await request.formData();
 
     const multiFiles = formData
@@ -48,30 +55,24 @@ export async function POST(request: NextRequest) {
 
       if (file.size > MAX_FILE_SIZE_BYTES) {
         return NextResponse.json(
-          { error: `File exceeds 10MB: ${file.name}` },
+          { error: `File exceeds ${MAX_FILE_SIZE_LABEL}: ${file.name}` },
           { status: 400 }
         );
       }
     }
 
     const receiptId = generateId();
-    const uploadsDir = join(process.cwd(), 'public', 'uploads', 'receipts');
+    const uploadedFiles = await Promise.all(
+      files.map(async (file, index) => {
+        const safeName = sanitizeFilename(file.name);
 
-    await mkdir(uploadsDir, { recursive: true });
-
-    const filenames: string[] = [];
-
-    for (let index = 0; index < files.length; index += 1) {
-      const file = files[index];
-      const bytes = await file.arrayBuffer();
-      const buffer = Buffer.from(bytes);
-      const safeName = sanitizeFilename(file.name);
-      const filename = `${receiptId}-${index + 1}-${safeName}`;
-      const filepath = join(uploadsDir, filename);
-
-      await writeFile(filepath, buffer);
-      filenames.push(filename);
-    }
+        return put(`receipts/${receiptId}/${index + 1}-${safeName}`, file, {
+          access: 'public',
+          addRandomSuffix: true,
+          ...(file.type ? { contentType: file.type } : {}),
+        });
+      })
+    );
 
     const mockProducts = [
       { name: 'Organic Bananas', price: 2.49, quantity: 1 },
@@ -85,8 +86,9 @@ export async function POST(request: NextRequest) {
 
     return NextResponse.json({
       receiptId,
-      filenames,
-      uploadedCount: filenames.length,
+      filenames: uploadedFiles.map((uploadedFile) => uploadedFile.pathname),
+      fileUrls: uploadedFiles.map((uploadedFile) => uploadedFile.url),
+      uploadedCount: uploadedFiles.length,
       products: mockProducts,
     });
   } catch (error) {

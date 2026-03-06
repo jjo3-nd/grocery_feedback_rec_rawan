@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Fresh Glorys Cherry Tomatoes",
+            "good_choice_reason1": "provide essential vitamins like vitamin C, which strengthens the immune system and promotes healthy skin.",
+            "good_choice_item2": "Crunch Pak Fresh Sweet Peeled Apple Slices",
+            "good_choice_reason2": "are a great source of fiber and vitamin C, which are important for digestive health and immune support.",
+            "good_choice_item3": "Fresh Sweet Corn on the Cob",
+            "good_choice_reason3": "contains fiber and B vitamins which are essential for energy and maintaining a healthy digestive system."
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "to reduce added sugar, reduce sodium, and increase vegetable intake.",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Great work! You made great progress with increasing vegetable intake. This was due to your purchases of Fresh Glorys Cherry Tomatoes because they are rich in essential nutrients and fiber.",
+                    "feedback_items": "Fresh Glorys Cherry Tomatoes"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goal to reduce added sugar. You purchased Great Value Tomato Ketchup which didn\u2019t contribute to your goal of reducing added sugar because it contains a high amount of added sugars.",
+                    "feedback_items": "Great Value Tomato Ketchup"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goal to reduce sodium. You purchased Alani Nu Sugar Free Energy Drink which didn\u2019t contribute to your goal of reducing sodium because it contains high sodium levels.",
+                    "feedback_items": "Alani Nu Sugar Free Energy Drink"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "47.95 / 100",
+            "fruits_score": "7.77/10",
+            "fruits_score_label": "Great",
+            "fruits_explanation": "Your fruit score was high due to Marketside Fresh Cut Watermelon and Fresh Seedless Watermelon. Fruits are essential for providing vitamins, minerals, and fiber, supporting overall health. Keep it up!",
+            "vegetables_score": "9.94/10",
+            "vegetables_score_label": "Great",
+            "vegetables_explanation": "You had a great score due to Fresh Glorys Cherry Tomatoes and Fresh Green Bell Pepper. Vegetables are great to include in your diet as they are high in essential vitamins and minerals and low in calories, supporting overall health. Keep it up!",
+            "grains_score": "0/10",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "You did not have any whole grains in your basket, which contributed to a low score. Whole grains are important for providing essential fibers and nutrients. Try getting more whole grains next time!",
+            "dairy_score": "0.34/10",
+            "dairy_score_label": "Needs Improvement",
+            "dairy_explanation": "Your dairy score was low. Dairy foods provide calcium, which is important for bone health. Try incorporating more dairy products like milk or yogurt into your diet.",
+            "protein_score": "9.9/10",
+            "protein_score_label": "Great",
+            "protein_explanation": "You had a great score due to Bush's Brown Sugar Hickory Baked Beans and Bush's Original Baked Beans. Proteins are crucial for building and repairing tissues. Great job!",
+            "fattyacids_score": "0/10",
+            "fattyacids_score_label": "Needs Improvement",
+            "fattyacids_explanation": "You had a low score this week with Country Crock Original Vegetable Oil Spread. Fatty acids, especially omega-3s, have been shown to improve heart health by reducing the risk of cardiovascular diseases. Try getting more fish like salmon or nuts next week."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "10/10",
+            "refinedgrains_score_label": "Great",
+            "refinedgrains_explanation": "You kept your intake of refined grains low, which is beneficial to your diet. Keep it up!",
+            "sodium_score": "0/10",
+            "sodium_score_label": "Needs Improvement",
+            "sodium_explanation": "You had high sodium items like Alani Nu Sugar Free Energy Drink in your basket. Sodium can increase blood pressure and should be moderated. Try choosing lower sodium options next time.",
+            "addedsugars_score": "10/10",
+            "addedsugars_score_label": "Needs Improvement",
+            "addedsugars_explanation": "You chose items like Great Value Tomato Ketchup with higher amounts of added sugar. High added sugar intake can contribute to weight gain and dental problems. Try reducing items with added sugars or choosing sugar-free alternatives next time.",
+            "saturatedfats_score": "0/10",
+            "saturatedfats_score_label": "Needs Improvement",
+            "saturatedfats_explanation": "You had Great Value Original Pepperoni Slices which contribute to high saturated fat content, raising cholesterol levels and increasing heart disease risk. Try choosing lean meats or plant-based proteins."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Great Value Tomato Ketchup contributed to negative added sugar score. Next week, try Heinz No Sugar Added Ketchup to strengthen score.",
+            "food_to_substitute1": "Heinz No Sugar Added Ketchup",
+            "recommendation2": "Alani Nu Sugar Free Energy Drink contributed to negative sodium score. Next week, try Celcius No Sodium Energy Drink to strengthen score.",
+            "food_to_substitute2": "Celcius No Sodium Energy Drink",
+            "recommendation3": "Great Value Original Pepperoni Slices contributed to negative saturated fats score. Next week, try Healthy Choice Turkey Pepperoni to improve score.",
+            "food_to_substitute3": "Healthy Choice Turkey Pepperoni"
+        }
+    ]
+}

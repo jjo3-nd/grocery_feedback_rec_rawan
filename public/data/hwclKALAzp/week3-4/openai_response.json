@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Fresh Strawberries",
+            "good_choice_reason1": "contribute significantly to your high fruit score, providing essential vitamins and antioxidants",
+            "good_choice_item2": "Great Value Frozen Broccoli Florets",
+            "good_choice_reason2": "play a crucial role in achieving a great vegetable score, adding vitamins and fiber to your diet",
+            "good_choice_item3": "Taylor Farms Apple & Walnut Salad",
+            "good_choice_reason3": "support your fatty acid intake with healthy fats"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Great work! You made great progress with your goal to reduce added sugar. This was due to your purchase of OREO Chocolate Sandwich Cookies contributing minimally to your weekly intake. Moderation in consuming such treats helped reduce your overall sugar levels.",
+                    "feedback_items": "OREO Chocolate Sandwich Cookies"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Oscar Mayer Gluten Free Turkey Bacon, which didn\u2019t contribute to your goal of reducing sodium because it is relatively high in sodium content.",
+                    "feedback_items": "Oscar Mayer Gluten Free Turkey Bacon"
+                },
+                {
+                    "feedback_text": "Great work! You made great progress increasing your vegetable intake. This was due to your purchase of Great Value Frozen Broccoli Florets, which enriched your meals with essential nutrients and fiber.",
+                    "feedback_items": "Great Value Frozen Broccoli Florets"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "76.63",
+            "fruits_score": "10",
+            "fruits_score_label": "Great",
+            "fruits_explanation": "You included fruits like Fresh Strawberries and Naked Juice Green Machine, which provided you with a variety of essential nutrients. Fruits are crucial for supplying your body with vitamins, minerals, and fiber. Keep it up!",
+            "vegetables_score": "10",
+            "vegetables_score_label": "Great",
+            "vegetables_explanation": "You had a great score due to Great Value Frozen Broccoli Florets and Fresh Whole Yellow Onion. Vegetables support health by providing essential vitamins and minerals and are low in calories. Keep it up!",
+            "grains_score": "1.26",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "Limited whole grains like those in Kodiak Protein-Packed Honey Oat Protein Granola impacted this score. Whole grains offer fiber and essential nutrients. Try incorporating more whole grains for better nutritional benefits.",
+            "dairy_score": "2.73",
+            "dairy_score_label": "Needs Improvement",
+            "dairy_explanation": "bettergoods Farmhouse Style Shredded Cheddar, Gouda, and Gruyere Cheeses were included but enhanced consumption would improve this component for better calcium and vitamin D intake. Dairy helps build strong bones. Consider adding more diverse dairy options.",
+            "protein_score": "10",
+            "protein_score_label": "Great",
+            "protein_explanation": "Perfect protein intake with foods such as Perdue Harvestland Perfect Portions and Taylor Farms Apple & Walnut Salad. Proteins are essential for muscle repair and overall health. Keep it up!",
+            "fattyacids_score": "10",
+            "fattyacids_score_label": "Great",
+            "fattyacids_explanation": "Achieved through your choice like Taylor Farms Apple & Walnut Salad. Fatty acids, especially omega-3s, are crucial for heart health. Keep it up!"
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "10",
+            "refinedgrains_score_label": "Great",
+            "refinedgrains_explanation": "You managed to minimize refined grains with Lewis Bake Shop Healthy Life Keto White Burger Buns. Limiting refined grains helps control blood sugar levels. Well done!",
+            "sodium_score": "5.54",
+            "sodium_score_label": "Moderate",
+            "sodium_explanation": "Items like Oscar Mayer Gluten Free Turkey Bacon raised sodium levels. High sodium can affect blood pressure, so aim for lower sodium options.",
+            "addedsugars_score": "10",
+            "addedsugars_score_label": "Great",
+            "addedsugars_explanation": "Keeping added sugars low with controlled portions like OREO Chocolate Sandwich Cookies supports weight management and reduces health risks. Well done!",
+            "saturatedfats_score": "7.09",
+            "saturatedfats_score_label": "Great",
+            "saturatedfats_explanation": "The inclusion of bettergoods Farmhouse Style Shredded Cheddar, Gouda, and Gruyere Cheeses was balanced well, supporting heart health by keeping saturated fats moderate."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Kodiak Protein-Packed Honey Oat Protein Granola contributed to a negative whole grain score. Next week try including more hearty whole grains like quinoa or brown rice to boost the score.",
+            "food_to_substitute1": "Kodiak Protein-Packed Honey Oat Protein Granola",
+            "recommendation2": "Oscar Mayer Gluten Free Turkey Bacon contributed to a high sodium score. Next week try choosing lower-sodium meat or plant-based protein options like grilled chicken breast.",
+            "food_to_substitute2": "Oscar Mayer Gluten Free Turkey Bacon",
+            "recommendation3": "bettergoods Farmhouse Style Shredded Cheddar, Gouda, and Gruyere Cheeses impacted your saturated fats score. Next week try opting for lower-fat cheese varieties like part-skim mozzarella or ricotta.",
+            "food_to_substitute3": "bettergoods Farmhouse Style Shredded Cheddar, Gouda, and Gruyere Cheeses"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Fresh Cut Strawberry Parfait with Vanilla Yogurt and Granola",
+            "good_choice_reason1": "contribute to your fruit intake and provide dairy nutrients",
+            "good_choice_item2": "Marketside Seasonal Fruit Blend",
+            "good_choice_reason2": "provide a variety of fruits, boosting your total fruit score",
+            "good_choice_item3": "Pork Center Cut Loin Chops Thin Boneless",
+            "good_choice_reason3": "contribute significantly to your total protein intake"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Great work! You made great progress with reducing added sugar. This was due to your purchase of products with minimal added sugars because high added sugar intake can contribute to weight gain and dental problems.",
+                    "feedback_items": "products with minimal added sugars"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Pork Center Cut Loin Chops Thin Boneless which didn\u2019t contribute to your goal of reducing sodium because it has substantial sodium content.",
+                    "feedback_items": "Pork Center Cut Loin Chops Thin Boneless"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You missed the opportunity to significantly increase your vegetable intake since Pringles Rojo Potato Crisps Chips was the only item contributing to your vegetable score.",
+                    "feedback_items": "Pringles Rojo Potato Crisps Chips"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "54.52/100",
+            "fruits_score": "10/10",
+            "fruits_score_label": "Great",
+            "fruits_explanation": "You maintained a high score due to the purchase of Mott's 100% Juice Original Apple Juice along with whole fruits. Whole fruits provide essential fiber and nutrients. Fruits are important for vitamins, minerals, and fiber. Keep it up!",
+            "vegetables_score": "1.36/10",
+            "vegetables_score_label": "Needs Improvement",
+            "vegetables_explanation": "You scored low as there weren't enough vegetables in your basket, with only Pringles contributing to this category. Vegetables are essential for providing vitamins and minerals necessary for overall health. Try adding more vegetables like fresh greens or beans next time!",
+            "grains_score": "0.48/10",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "The score was low from whole grains, with only Fresh Cut Strawberry Parfait offering a minimal amount. Whole grains offer more fiber and essential nutrients compared to refined grains. Consider incorporating more whole-grain options next time!",
+            "dairy_score": "2.19/10",
+            "dairy_score_label": "Needs Improvement",
+            "dairy_explanation": "This low score indicates limited dairy intake, with only Fresh Cut Strawberry Parfait providing dairy nutrients. Dairy products are vital for calcium and vitamin D, supporting bone health. Try adding more options like milk or cheese!",
+            "protein_score": "4/10",
+            "protein_score_label": "Moderate",
+            "protein_explanation": "Pork Center Cut Loin Chops Thin Boneless contributed most to this score. Protein supports muscle and tissue health. Next time, try balancing with plant-based protein sources like legumes or soy.",
+            "fattyacids_score": "10/10",
+            "fattyacids_score_label": "Great",
+            "fattyacids_explanation": "You had a great score, with contributions from Cheetos products. Healthy fatty acids are crucial for heart health. Maintain this balance!"
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "0.69/10",
+            "refinedgrains_score_label": "Needs Improvement",
+            "refinedgrains_explanation": "You had a high amount of refined grains, especially with products like Takis Fuego. Refined grains offer fewer nutrients and can spike blood sugar. Swap them for whole grains next week for better health benefits.",
+            "sodium_score": "6.96/10",
+            "sodium_score_label": "Moderate",
+            "sodium_explanation": "Pork Center Cut Loin Chops Thin Boneless elevated your sodium intake. While moderate, it's important to manage sodium to support heart health. Look for lower sodium alternatives.",
+            "addedsugars_score": "9.83/10",
+            "addedsugars_score_label": "Great",
+            "addedsugars_explanation": "You chose items with minimal added sugars like Freshness Guaranteed White and Chocolate Cupcakes. Low added sugar intake contributes to better overall health. Keep it up!",
+            "saturatedfats_score": "9.01/10",
+            "saturatedfats_score_label": "Great",
+            "saturatedfats_explanation": "Despite purchasing Great Value Hickory Smoked Lower Sodium Bacon, your score remained impressive. Keeping low saturated fat is vital for heart health. Great job!"
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Pringles Rojo Potato Crisps Chips contributed to negative vegetable scores. Next week, try fresh vegetables like bell peppers or spinach to strengthen scores.",
+            "food_to_substitute1": "Pringles Rojo Potato Crisps Chips",
+            "recommendation2": "Takis Fuego contributed to negative refined grain scores. Next week, try whole-wheat crackers or air-popped popcorn for better choices.",
+            "food_to_substitute2": "Takis Fuego",
+            "recommendation3": "Pork Center Cut Loin Chops Thin Boneless contributed to higher sodium scores. Opt for fresh chicken breast or plant-based proteins for improved scores next time.",
+            "food_to_substitute3": "Pork Center Cut Loin Chops Thin Boneless"
+        }
+    ]
+}

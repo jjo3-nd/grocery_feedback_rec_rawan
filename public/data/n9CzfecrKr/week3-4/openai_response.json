@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Great Value 2% Reduced Fat Milk",
+            "good_choice_reason1": "provide a perfect score for the Dairy category with essential nutrients like calcium",
+            "good_choice_item2": "Fresh Banana",
+            "good_choice_reason2": "contribute to your high Whole Fruits score, providing vital vitamins and fiber",
+            "good_choice_item3": "Skinnypop Gluten Free Original Popcorn",
+            "good_choice_reason3": "help improve your Whole Grains score, which are important for digestion and long-lasting energy"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake.",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Great work! You made great progress with reducing sodium. This was due to limiting purchases that contain high amounts of sodium, with Carl Buddig Chicken Lunchmeat being the exception.",
+                    "feedback_items": "Carl Buddig Chicken Lunchmeat"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goal of reducing added sugar. You purchased Hostess Cupcakes, Frosted Sugar Cookie Artificially Flavored Snack Cakes, which didn't contribute to your goal because they are high in added sugars.",
+                    "feedback_items": "Hostess Cupcakes"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goal of increasing vegetable intake. You didn\u2019t include many vegetables, with Ruffles Flamin' Hot Flavored Potato Snack Chips only offering a minimal contribution.",
+                    "feedback_items": "Ruffles Flamin' Hot Flavored Potato Snack Chips"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "48.72 / 100",
+            "fruits_score": "8.28/10",
+            "fruits_score_label": "Great",
+            "fruits_explanation": "Including Fresh Banana and Great Value Mango Chunks contributed to an excellent fruit score. Fruits are essential for providing vitamins, minerals, and fiber. Keep up the great work!",
+            "vegetables_score": "1.59/10",
+            "vegetables_score_label": "Needs Improvement",
+            "vegetables_explanation": "You had a low score due to limited vegetable purchases. Vegetables are high in essential vitamins and minerals and low in calories, supporting overall health. Try getting more veggies next time!",
+            "grains_score": "3.34/10",
+            "grains_score_label": "Moderate",
+            "grains_explanation": "The inclusion of Skinnypop Gluten Free Original Popcorn helped in scoring for whole grains. Whole grains are beneficial for digestive health. Great start with popcorn!",
+            "dairy_score": "10/10",
+            "dairy_score_label": "Great",
+            "dairy_explanation": "You included Great Value 2% Reduced Fat Milk, hitting a perfect dairy score. Dairy provides calcium necessary for bone health. Well done!",
+            "protein_score": "1.68/10",
+            "protein_score_label": "Needs Improvement",
+            "protein_explanation": "You had a low score with limited Chicken Lunchmeat consumption. Proteins are essential for building and repairing tissues. Explore adding varied protein sources next week!",
+            "fattyacids_score": "0/10",
+            "fattyacids_score_label": "Needs Improvement",
+            "fattyacids_explanation": "You had a low score this week due to items like Ruffles Flamin' Hot Flavored Potato Snack Chips. Fatty acids, especially omega-3s, improve heart health. Try getting more omega-3 rich foods next week!"
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "10/10",
+            "refinedgrains_score_label": "Great",
+            "refinedgrains_explanation": "You managed to limit refined grains, thanks to items like Takis 18 pc / 10z Hero Variety Pack being low in refined grain content. Reducing refined grains helps manage energy levels and sugar spikes.",
+            "sodium_score": "10/10",
+            "sodium_score_label": "Great",
+            "sodium_explanation": "You managed sodium well with only a few exceptions like Carl Buddig Chicken Lunchmeat. Keeping sodium low helps to manage blood pressure. Keep it up!",
+            "addedsugars_score": "3.84/10",
+            "addedsugars_score_label": "Moderate",
+            "addedsugars_explanation": "High added sugar items such as Freshness Guaranteed Confetti Mini Cupcakes affected your score. Reducing added sugars can prevent weight gain and reduces the risk of dental problems. Aim to decrease added sugar intake next time!",
+            "saturatedfats_score": "0/10",
+            "saturatedfats_score_label": "Needs Improvement",
+            "saturatedfats_explanation": "The consumption of Blue Ribbon Classics Chocolate Eclair Coated In Cake Pieces Frozen Dessert Treat Bar led to high saturated fat. High saturated fat intake can contribute to heart disease. Consider alternative products lower in saturated fats."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Hostess Cupcakes contributed to negative added sugars. Next week try substituting with fruit-based snacks or unsweetened granola bars.",
+            "food_to_substitute1": "Hostess Cupcakes",
+            "recommendation2": "Ruffles Flamin' Hot Flavored Potato Snack Chips contributed to negative vegetable intake. Next week try including more leafy greens or sweet peppers for a variety of nutrients.",
+            "food_to_substitute2": "Ruffles Flamin' Hot Flavored Potato Snack Chips",
+            "recommendation3": "Blue Ribbon Classics Chocolate Eclair contributed to negative saturated fat intake. Next week try choosing low-fat yogurt or frozen desserts like sorbet to strengthen the score.",
+            "food_to_substitute3": "Blue Ribbon Classics Chocolate Eclair"
+        }
+    ]
+}

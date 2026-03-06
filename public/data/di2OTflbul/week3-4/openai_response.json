@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "HORMEL SQUARE TABLE Slow Simmered Beef Roast Au Jus & Savory Sauce",
+            "good_choice_reason1": "contribute well to your total protein score",
+            "good_choice_item2": "Great Value Milk, 2% Reduced Fat",
+            "good_choice_reason2": "add to your dairy score",
+            "good_choice_item3": "Fritos Regular Corn Chips",
+            "good_choice_reason3": "contribute to your whole grains intake"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Luigi's Red, White, & Blue Real Italian Ice, which didn\u2019t contribute to your goal of reducing added sugar because it contains a significant amount of added sugars.",
+                    "feedback_items": "Luigi's Red, White, & Blue Real Italian Ice"
+                },
+                {
+                    "feedback_text": "Great work! You made great progress with reducing sodium. This was due to your purchase of HORMEL SQUARE TABLE Slow Simmered Beef Roast Au Jus & Savory Sauce, as it showed moderate sodium content compared to other options.",
+                    "feedback_items": "HORMEL SQUARE TABLE Slow Simmered Beef Roast Au Jus & Savory Sauce"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Ruffles Original Flavor Potato Snack Chips, which didn\u2019t contribute to your goal of increasing vegetable intake because it included minimal vegetables.",
+                    "feedback_items": "Ruffles Original Flavor Potato Snack Chips"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "45.23/100",
+            "fruits_score": "0/10",
+            "fruits_score_label": "Needs Improvement",
+            "fruits_explanation": "You did not have whole fruits in your basket, which contributed to a low score. Including whole fruits instead of primarily juices is beneficial because whole fruits contain more fiber and nutrients. Fruits are essential for providing vitamins, minerals, and fiber. Try getting more whole fruits next time!",
+            "vegetables_score": "2.16/10",
+            "vegetables_score_label": "Needs Improvement",
+            "vegetables_explanation": "The inclusion of Ruffles Original Flavor Potato Snack Chips contributed minimally to your vegetable intake. Vegetables are great to include in your diet as they are high in essential vitamins, minerals, and low in calories, supporting overall health. Try to eat more dark green vegetables and beans!",
+            "grains_score": "N/A",
+            "grains_score_label": "N/A",
+            "grains_explanation": "N/A",
+            "dairy_score": "4.5/10",
+            "dairy_score_label": "Moderate",
+            "dairy_explanation": "Great Value Milk, 2% Reduced Fat helped improve your dairy score. Dairy provides calcium and vitamin D, crucial for bone health. Keep up with including diverse dairy foods!",
+            "protein_score": "5/10",
+            "protein_score_label": "Moderate",
+            "protein_explanation": "The product HORMEL SQUARE TABLE Slow Simmered Beef Roast Au Jus & Savory Sauce contributed positively to your protein score. Protein foods are vital for muscle repair and growth. Aim for a variety of protein sources, including more seafood and plant proteins.",
+            "fattyacids_score": "2.72/10",
+            "fattyacids_score_label": "Needs Improvement",
+            "fattyacids_explanation": "The low score in fatty acids due to the overall selection, such as Ruffles Original Flavor Potato Snack Chips. Fatty acids, especially omega-3s, have been shown to improve heart health by reducing cardiovascular disease risks. Try incorporating more fatty fish next week."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "9.37/10",
+            "refinedgrains_score_label": "Great",
+            "refinedgrains_explanation": "You had a high amount of refined grains in your basket this week, such as Lewis Bake Shop Butter White Half Loaf Bread. Refined grains, such as white rice, white flour, and many types of pasta and bread, are lower in fiber and nutrients and can cause spikes in blood sugar. Replace them with whole grains like brown rice, quinoa, or whole wheat pasta next week for better nutritional benefits.",
+            "sodium_score": "8.05/10",
+            "sodium_score_label": "Great",
+            "sodium_explanation": "Products like HORMEL SQUARE TABLE Slow Simmered Beef Roast Au Jus & Savory Sauce contributed moderately to sodium intake. Low sodium is good for maintaining healthy blood pressure. Great choice!",
+            "addedsugars_score": "6.66/10",
+            "addedsugars_score_label": "Moderate",
+            "addedsugars_explanation": "Items like Luigi's Red, White, & Blue Real Italian Ice increased your added sugar score. Consuming less added sugars is beneficial as high intake can contribute to weight gain and dental problems. Aim to reduce added sugar further!",
+            "saturatedfats_score": "0.14/10",
+            "saturatedfats_score_label": "Needs Improvement",
+            "saturatedfats_explanation": "Your score for saturated fats was low, mainly due to choices like 93% Lean / 7% Fat Lean Ground Beef. Consuming less saturated fat can help lower your cholesterol levels and reduce your risk of heart disease. Try incorporating healthier unsaturated fats."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Luigi's Red, White, & Blue Real Italian Ice contributed to negative added sugars. Next week, try Stonyfield Organic Greek Yogurt for a healthier dessert option with less added sugar.",
+            "food_to_substitute1": "Stonyfield Organic Greek Yogurt",
+            "recommendation2": "93% Lean / 7% Fat Lean Ground Beef contributed to negative saturated fats. Next week, try Skinless Chicken Breast to increase your lean protein intake.",
+            "food_to_substitute2": "Skinless Chicken Breast",
+            "recommendation3": "Ruffles Original Flavor Potato Snack Chips contributed to negative vegetable intake. Next week, try Carrot Sticks with Hummus to enhance your vegetable intake.",
+            "food_to_substitute3": "Carrot Sticks with Hummus"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Fresh Banana",
+            "good_choice_reason1": "provide potassium, fiber, and essential vitamins, enhancing the Fruit category score.",
+            "good_choice_item2": "Fresh Iceberg Lettuce",
+            "good_choice_reason2": "offer low calories and high water content, boosting vegetable intake.",
+            "good_choice_item3": "Oscar Mayer Sub Kit with Extra Lean Smoked Ham & Extra Lean Smoked Turkey Breast Sliced Deli Lunch Meat",
+            "good_choice_reason3": "supply lean protein, improving the Total Protein score."
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake.",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Great work! You made great progress with increasing vegetable intake. This was due to your purchases of Fresh Iceberg Lettuce because it is rich in nutrients and low in calories, contributing positively to your vegetable intake goals.",
+                    "feedback_items": "Fresh Iceberg Lettuce"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Great Value Cookies & Cream Ice Cream which didn\u2019t contribute to your goal of reducing added sugar, as it contained a high amount of added sugars.",
+                    "feedback_items": "Great Value Cookies & Cream Ice Cream"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Oscar Mayer Sub Kit with Extra Lean Smoked Ham & Extra Lean Smoked Turkey Breast Sliced Deli Lunch Meat which didn\u2019t contribute to your goal of reducing sodium, as it contains processed meat products that are often high in sodium.",
+                    "feedback_items": "Oscar Mayer Sub Kit with Extra Lean Smoked Ham & Extra Lean Smoked Turkey Breast Sliced Deli Lunch Meat"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "51.63",
+            "fruits_score": "10",
+            "fruits_score_label": "Great!",
+            "fruits_explanation": "Your purchase of Fresh Banana contributed to a perfect Fruit score. Eating fruits is essential for providing vitamins, minerals, and fiber. Keep it up!",
+            "vegetables_score": "10",
+            "vegetables_score_label": "Great!",
+            "vegetables_explanation": "The inclusion of Fresh Iceberg Lettuce helped you achieve a perfect vegetable score. Vegetables are high in essential vitamins and minerals and low in calories, supporting overall health. Keep up the great work!",
+            "grains_score": "0",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "There were no whole grains in your purchases this week, which contributed to a low score. Whole grains are important as they contain more fiber and nutrients than refined grains.",
+            "dairy_score": "1.33",
+            "dairy_score_label": "Needs Improvement",
+            "dairy_explanation": "The purchase of Great Value Deli Style Sliced Colby & Monterey Jack Cheese contributed to this score. Dairy products provide calcium and are important for strong bones. You might try incorporating low-fat milk or yogurt next time.",
+            "protein_score": "10",
+            "protein_score_label": "Great!",
+            "protein_explanation": "Your purchase of Oscar Mayer Sub Kit with Extra Lean Smoked Ham & Extra Lean Smoked Turkey Breast Sliced Deli Lunch Meat helped you achieve a perfect protein score. Protein is essential for building and repairing tissues.",
+            "fattyacids_score": "1.11",
+            "fattyacids_score_label": "Needs Improvement",
+            "fattyacids_explanation": "The inclusion of Lay's Barbecue Flavored Potato Chips was noted. Fatty acids, especially omega-3s, improve heart health by reducing cardiovascular disease risks. Aim to incorporate more fatty fish or nuts next week."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "4.67",
+            "refinedgrains_score_label": "Moderate",
+            "refinedgrains_explanation": "Your purchase of Ole Crunchy Corn Tostadas contributed to this score. Refined grains are lower in fiber and nutrients and can cause spikes in blood sugar. Replacing them with whole grains like brown rice or whole wheat pasta next week could improve your score.",
+            "sodium_score": "2.22",
+            "sodium_score_label": "Needs Improvement",
+            "sodium_explanation": "Oscar Mayer Sub Kit with Extra Lean Smoked Ham & Extra Lean Smoked Turkey Breast Sliced Deli Lunch Meat had a high sodium content. High sodium intake can increase blood pressure and the risk for heart disease. Aim for fresh or frozen foods with less sodium.",
+            "addedsugars_score": "10",
+            "addedsugars_score_label": "Great!",
+            "addedsugars_explanation": "Despite the purchase of Great Value Cookies & Cream Ice Cream, your overall score indicates you kept added sugars in check, but continue to be cautious about sugars for weight and dental health.",
+            "saturatedfats_score": "2.3",
+            "saturatedfats_score_label": "Needs Improvement",
+            "saturatedfats_explanation": "The Great Value Deli Style Sliced Colby & Monterey Jack Cheese contributed to this score. High saturated fatty acids can increase heart disease risks. Choosing more lean protein and lower fat cheese could help."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Great Value Cookies & Cream Ice Cream contributed to negative added sugars. Next week try unsweetened yogurt or fresh fruit snacks to strengthen your score.",
+            "food_to_substitute1": "Great Value Cookies & Cream Ice Cream",
+            "recommendation2": "Oscar Mayer Sub Kit with Extra Lean Smoked Ham & Extra Lean Smoked Turkey Breast Sliced Deli Lunch Meat contributed to negative sodium. Next week try fresh, unprocessed cuts of lean meat or fish to strengthen your score.",
+            "food_to_substitute2": "Oscar Mayer Sub Kit with Extra Lean Smoked Ham & Extra Lean Smoked Turkey Breast Sliced Deli Lunch Meat",
+            "recommendation3": "Lay's Barbecue Flavored Potato Chips contributed to negative fatty acid scores. Next week try nuts or seeds like almonds or walnuts for healthier fats.",
+            "food_to_substitute3": "Lay's Barbecue Flavored Potato Chips"
+        }
+    ]
+}

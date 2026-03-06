@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Guava",
+            "good_choice_reason1": "is high in vitamin C and fiber, contributing positively to your fruit intake.",
+            "good_choice_item2": "Ocean's Halo Seaweed Snack",
+            "good_choice_reason2": "is a great source of iodine and a low-calorie snack that adds to your vegetable intake.",
+            "good_choice_item3": "Great Value Chunk Light Tuna in Water",
+            "good_choice_reason3": "is high in protein and low in fat, contributing significantly to your protein intake."
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake.",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Great work! You made great progress with reducing added sugar. This was due to your purchase of Great Value Berry Crunch Breakfast Cereal because it has minimal added sugar content. Keep it up!",
+                    "feedback_items": "Great Value Berry Crunch Breakfast Cereal"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Fresh Ginger Root which didn\u2019t contribute to your goal of reducing sodium because it has a high sodium content due to its pickled nature.",
+                    "feedback_items": "Fresh Ginger Root"
+                },
+                {
+                    "feedback_text": "Great work! You made great progress with increasing vegetable intake. This was due to your purchases of Ocean's Halo Seaweed Snack because it is rich in vegetables and a nutritious addition to your diet.",
+                    "feedback_items": "Ocean's Halo Seaweed Snack"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "61.68/100",
+            "fruits_score": "8.2/10",
+            "fruits_score_label": "Moderate",
+            "fruits_explanation": "You included fruits such as Fresh Granny Smith Apples and Guava, which boosted your fruit score. Including whole fruits is great as they provide nutrients and fiber. Keep it up!",
+            "vegetables_score": "6.87/10",
+            "vegetables_score_label": "Great",
+            "vegetables_explanation": "Your vegetable score is boosted by the inclusion of Freshness Guaranteed Sliced White Mushrooms and Ocean's Halo Seaweed Snack. Vegetables are vital for providing vitamins, minerals, and fiber. Keep it up!",
+            "grains_score": "0/10",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "You did not include whole grains this week, which led to a low score. Whole grains are important for energy and fiber. Try incorporating some next time!",
+            "dairy_score": "0.4/10",
+            "dairy_score_label": "Needs Improvement",
+            "dairy_explanation": "Only a minimal dairy contribution from items such as Great Value Cookies & Cream Ice Cream. Dairy is important for calcium and vitamin D. Consider increasing your intake of low-fat or non-fat dairy options.",
+            "protein_score": "7.36/10",
+            "protein_score_label": "Great",
+            "protein_explanation": "Proteins like Great Value Chunk Light Tuna in Water helped boost your protein score. Proteins aid in muscle maintenance and provide essential nutrients. Keep incorporating quality protein sources!",
+            "fattyacids_score": "10/10",
+            "fattyacids_score_label": "Great",
+            "fattyacids_explanation": "An ideal score with excellent incorporation of healthy fats from items like Freshness Guaranteed Mild Guacamole Mini Cups. Healthy fats support heart health and brain function. Keep it up!"
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "9.36/10",
+            "refinedgrains_score_label": "Great",
+            "refinedgrains_explanation": "Your choice of refined grain products like Jiffy Corn Muffin Mix was low, which is good. Refined grains can be less nutrient-dense compared to whole grains. Keep focusing more on whole grains!",
+            "sodium_score": "0/10",
+            "sodium_score_label": "Needs Improvement",
+            "sodium_explanation": "High-sodium items such as Fresh Ginger Root contributed to your low sodium score. Reducing sodium lowers the risk of high blood pressure and cardiovascular diseases.",
+            "addedsugars_score": "10/10",
+            "addedsugars_score_label": "Great",
+            "addedsugars_explanation": "You did a fantastic job keeping added sugar intake virtually nonexistent, thanks to mindful choices like Great Value Berry Crunch Breakfast Cereal. Limiting added sugars promotes better weight management and dental health.",
+            "saturatedfats_score": "9.49/10",
+            "saturatedfats_score_label": "Great",
+            "saturatedfats_explanation": "You did well keeping saturated fats low with choices like Banquet Brown 'N Serve Original Fully Cooked Sausage Links Frozen Meat. Keeping saturated fat intake low can improve overall heart health. Good work!"
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Fresh Ginger Root contributed to a negative sodium score. Next week, try incorporating more fresh herbs like basil or cilantro.",
+            "food_to_substitute1": "Fresh Ginger Root",
+            "recommendation2": "Lack of whole grains contributed to a negative whole grains score. Next week, try swapping with whole grain bread or brown rice.",
+            "food_to_substitute2": "whole grains",
+            "recommendation3": "Great Value Cookies & Cream Ice Cream contributed to a low dairy score. Next week, try incorporating low-fat yogurt or skim milk for a healthier option.",
+            "food_to_substitute3": "Great Value Cookies & Cream Ice Cream"
+        }
+    ]
+}

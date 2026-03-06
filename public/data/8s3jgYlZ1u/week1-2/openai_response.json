@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Fresh Whole Brown Mushrooms",
+            "good_choice_reason1": "are low in calories and provide vitamins and minerals that contribute to the Vegetables score",
+            "good_choice_item2": "Great Value Greek Plain Nonfat Yogurt",
+            "good_choice_reason2": "provides protein and calcium, contributing positively to the Dairy score",
+            "good_choice_item3": "Great Value Blueberries",
+            "good_choice_reason3": "are rich in antioxidants and fiber, contributing to a high Fruits score"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Great work! You made great progress with increasing vegetable intake. This was due to your purchases of Fresh Whole Brown Mushrooms because they provide essential nutrients and positively impact your Vegetable score.",
+                    "feedback_items": "Fresh Whole Brown Mushrooms"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Great Value Thin Sliced Honey Ham Lunchmeat Family Pack, which didn\u2019t contribute to your goal of reducing sodium because it is high in sodium.",
+                    "feedback_items": "Great Value Thin Sliced Honey Ham Lunchmeat Family Pack"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased TWIZZLERS Twists Strawberry Flavored Licorice Style, which didn\u2019t contribute to your goal of reducing added sugar because they contain a high amount of sugars.",
+                    "feedback_items": "TWIZZLERS Twists Strawberry Flavored Licorice Style"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "54.08",
+            "fruits_score": "8.25",
+            "fruits_score_label": "Great",
+            "fruits_explanation": "The inclusion of items like Great Value Blueberries helped achieve a great score in this category. Fruits are essential for providing vitamins, minerals, and fiber.",
+            "vegetables_score": "10",
+            "vegetables_score_label": "Great",
+            "vegetables_explanation": "You had a great score due to Fresh Whole Brown Mushrooms and Fresh Green Bell Pepper. Vegetables are high in essential vitamins and minerals and low in calories, supporting overall health.",
+            "grains_score": "2.87",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "You did not have enough whole grain products in your basket which contributed to a low score. Whole grains aid in digestion. Try incorporating more whole grains like brown rice or whole wheat bread next time.",
+            "dairy_score": "6.49",
+            "dairy_score_label": "Moderate",
+            "dairy_explanation": "Products like Great Value Greek Plain Nonfat Yogurt contributed to a moderate score. Dairy is important for building strong bones and teeth. Keep choosing low-fat dairy options.",
+            "protein_score": "10",
+            "protein_score_label": "Great",
+            "protein_explanation": "Excellent selection with products like Great Value Thin Sliced Honey Ham Lunchmeat Family Pack. Protein foods are important for muscle health and maintenance.",
+            "fattyacids_score": "1.75",
+            "fattyacids_score_label": "Needs Improvement",
+            "fattyacids_explanation": "You had a low score this week due to Taco Bell Creamy Chipotle Sauce. Fatty acids, especially omega-3s, have been shown to improve heart health by reducing the risk of cardiovascular diseases. Consider incorporating more fish and plant oils next week."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "0",
+            "refinedgrains_score_label": "Needs Improvement",
+            "refinedgrains_explanation": "You had a high amount of refined grains in your basket this week such as Great Value Original English Muffins. Refined grains are lower in fiber and nutrients.",
+            "sodium_score": "0.12",
+            "sodium_score_label": "Needs Improvement",
+            "sodium_explanation": "Your purchase of Great Value Thin Sliced Honey Ham Lunchmeat Family Pack contributed to a high sodium intake. High sodium levels can lead to increased blood pressure, encouraging heart disease.",
+            "addedsugars_score": "10",
+            "addedsugars_score_label": "Great",
+            "addedsugars_explanation": "You chose items with minimal added sugars such as TWIZZLERS Twists Strawberry Flavored Licorice Style. Achieving a perfect score suggests minimal other sugar sources\u2014keep monitoring this for consistent results.",
+            "saturatedfats_score": "6.5",
+            "saturatedfats_score_label": "Moderate",
+            "saturatedfats_explanation": "The Classico Four Cheese Alfredo Spaghetti Pasta Sauce was a contributor to a moderate score in saturated fats. Reducing saturated fats can aid in maintaining healthy cholesterol levels."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "TWIZZLERS Twists Strawberry Flavored Licorice Style contributed to negative Added Sugars. Next week try fresh fruits like apples or berries to satisfy sweet cravings with less sugar.",
+            "food_to_substitute1": "TWIZZLERS Twists Strawberry Flavored Licorice Style",
+            "recommendation2": "Great Value Thin Sliced Honey Ham Lunchmeat Family Pack contributed to negative Sodium levels. Next week try fresh or low-sodium turkey breast as a sandwich filler instead.",
+            "food_to_substitute2": "Great Value Thin Sliced Honey Ham Lunchmeat Family Pack",
+            "recommendation3": "Taco Bell Creamy Chipotle Sauce contributed to negative Fatty Acids. Next week try avocado or hummus as a healthier spread or dip alternative.",
+            "food_to_substitute3": "Taco Bell Creamy Chipotle Sauce"
+        }
+    ]
+}

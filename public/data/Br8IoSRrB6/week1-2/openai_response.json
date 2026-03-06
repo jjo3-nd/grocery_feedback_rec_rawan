@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Meow Mix Tender Centers",
+            "good_choice_reason1": "helped improve your vegetable score",
+            "good_choice_item2": "Purina Kitten Chow",
+            "good_choice_reason2": "contributed to your protein goals with its seafood and plant proteins content",
+            "good_choice_item3": "Breyers CarbSmart",
+            "good_choice_reason3": "helped boost your dairy component"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Great work! You made great progress with increasing vegetable intake. This was largely due to your purchase of Meow Mix Tender Centers because it enhanced your vegetable score.",
+                    "feedback_items": "Meow Mix Tender Centers"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Minute Maid Zero Sugar Mango Passion Fruit Juice which didn\u2019t contribute to your goal of reducing added sugar because it contains sugars.",
+                    "feedback_items": "Minute Maid Zero Sugar Mango Passion Fruit Juice"
+                },
+                {
+                    "feedback_text": "Excellent job on your goal to reduce sodium. Your purchase of Purina Kitten Chow contributed to a perfect sodium score.",
+                    "feedback_items": "Purina Kitten Chow"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "50.07 / 100",
+            "fruits_score": "0",
+            "fruits_score_label": "Needs Improvement",
+            "fruits_explanation": "You did not have whole fruits in your basket which contributed to a low score. Including whole fruits instead of primarily juices is beneficial because whole fruits contain more fiber and nutrients. Fruits are essential for providing vitamins, minerals, and fiber. Try getting more whole fruits next time!",
+            "vegetables_score": "9.94",
+            "vegetables_score_label": "Great",
+            "vegetables_explanation": "You had a great score due to Meow Mix Tender Centers. Vegetables are great to include in your diet as they are high in essential vitamins and minerals and low in calories, supporting overall health. Keep it up!",
+            "grains_score": "0",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "The lack of whole grains in your purchases led to a low score. Whole grains are rich in fiber and essential nutrients, which helps in digestion and sustaining energy levels. Try to include whole grains like oats or quinoa next time!",
+            "dairy_score": "4.31",
+            "dairy_score_label": "Moderate",
+            "dairy_explanation": "The inclusion of Breyers CarbSmart was beneficial. Dairy products are a good source of calcium, vitamin D, and protein, supporting bone health. Aim for more dairy alternatives like yogurt or milk next time!",
+            "protein_score": "9.73",
+            "protein_score_label": "Great",
+            "protein_explanation": "You had a great protein score due to Purina Kitten Chow. Proteins are crucial for growth and repair in your body. Keep choosing diverse lean proteins!",
+            "fattyacids_score": "0",
+            "fattyacids_score_label": "Needs Improvement",
+            "fattyacids_explanation": "Fatty acids, especially omega-3s, have been shown to improve heart health by reducing the risk of cardiovascular diseases. Try getting more fatty acid-rich foods like salmon or walnuts next week."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "10",
+            "refinedgrains_score_label": "Great",
+            "refinedgrains_explanation": "You did not have refined grains in your grocery purchase. This helps maintain steady blood sugar levels and contributes to overall health. Keep it up!",
+            "sodium_score": "10",
+            "sodium_score_label": "Great",
+            "sodium_explanation": "You chose items with lower sodium levels such as Purina Kitten Chow. Low sodium intake is beneficial, as it helps manage blood pressure and reduces the risk of heart disease. Keep up the great work!",
+            "addedsugars_score": "6.1",
+            "addedsugars_score_label": "Moderate",
+            "addedsugars_explanation": "Though your purchase of Minute Maid Zero Sugar Mango Passion Fruit Juice increased your sugar score moderately, low added sugar intake helps prevent weight gain and dental problems. You\u2019re halfway there; try to aim for even lower.",
+            "saturatedfats_score": "0",
+            "saturatedfats_score_label": "Needs Improvement",
+            "saturatedfats_explanation": "The presence of Breyers CarbSmart added to your saturated fats. High saturated fat intake can lead to heart conditions. Next time, consider choosing foods low in saturated fats."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Minute Maid Zero Sugar Mango Passion Fruit Juice contributed to negative Added Sugars. Next week try water or unsweetened tea for a better sugar profile.",
+            "food_to_substitute1": "Minute Maid Zero Sugar Mango Passion Fruit Juice",
+            "recommendation2": "Breyers CarbSmart contributed to negative Saturated Fats. Next week try frozen yogurt or sorbet as a lighter alternative.",
+            "food_to_substitute2": "Breyers CarbSmart",
+            "recommendation3": "Meow Mix Tender Centers contributed to negative Fatty Acids. Next week try salmon or chia seeds to increase healthy fatty acids.",
+            "food_to_substitute3": "Meow Mix Tender Centers"
+        }
+    ]
+}

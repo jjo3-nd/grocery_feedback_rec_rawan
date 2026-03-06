@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Barilla Whole Grain Spaghetti",
+            "good_choice_reason1": "add whole grains to your diet, which are rich in fiber and beneficial for heart health",
+            "good_choice_item2": "Boneless, Skinless Chicken Breasts",
+            "good_choice_reason2": "offer high protein content, aiding in muscle maintenance and overall health",
+            "good_choice_item3": "Marketside Fresh Spinach",
+            "good_choice_reason3": "increase your vegetable intake, providing essential vitamins and minerals"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Great work! You made great progress with increasing your vegetable intake. This was due to your purchase of Marketside Fresh Spinach, which is high in essential vitamins and minerals.",
+                    "feedback_items": "Marketside Fresh Spinach"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Rebel Ice Cream which didn\u2019t contribute to your goal of reducing added sugar because it contains 1.5 grams of added sugars per serving.",
+                    "feedback_items": "Rebel Ice Cream"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Great Value Finely Shredded Parmesan Cheese which didn\u2019t contribute to your goal of reducing sodium because it contains a high amount of sodium.",
+                    "feedback_items": "Great Value Finely Shredded Parmesan Cheese"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "44.69 / 100",
+            "fruits_score": "0",
+            "fruits_score_label": "Needs Improvement",
+            "fruits_explanation": "You did not have whole fruits in your basket, which contributed to a low score. Including whole fruits is beneficial because they contain more fiber and nutrients. Fruits are essential for providing vitamins, minerals, and fiber.",
+            "vegetables_score": "6.17",
+            "vegetables_score_label": "Moderate",
+            "vegetables_explanation": "You had a moderate score due to Marketside Fresh Spinach and Mezzetta Sun-Ripened Dried Tomatoes. Vegetables are great to include in your diet as they are high in essential vitamins and minerals and low in calories, supporting overall health. Try getting more diverse vegetables next time!",
+            "grains_score": "3.7",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "You did not have enough whole grains. Barilla Whole Grain Spaghetti was included but more variety is encouraged. Whole grains are important for encouraging digestive health and providing necessary nutrients. Try adding more whole grain products next week.",
+            "dairy_score": "5.75",
+            "dairy_score_label": "Moderate",
+            "dairy_explanation": "Your score was moderate partly due to Great Value Finely Shredded Parmesan Cheese but try to include more dairy variety to fully meet nutritional needs. Dairy is important for maintaining bone health as it provides calcium, vitamin D, and potassium.",
+            "protein_score": "9.07",
+            "protein_score_label": "Great",
+            "protein_explanation": "You had a great score in the protein category due to sources like Boneless, Skinless Chicken Breasts and Great Value Frozen Shrimp. Protein is essential for muscle health and production of enzymes and hormones. Keep up the good balance of protein sources.",
+            "fattyacids_score": "0",
+            "fattyacids_score_label": "Needs Improvement",
+            "fattyacids_explanation": "You had a low score this week with foods such as Scott Pete Hot Beef Polish Sausage contributing. Fatty acids, especially omega-3s, have been shown to improve heart health by reducing the risk of cardiovascular diseases. Try getting more foods like fatty fish next week."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "10",
+            "refinedgrains_score_label": "Great",
+            "refinedgrains_explanation": "You had limited refined grains such as Sister Schubert's Dinner Yeast Rolls and Lewis Bake Shop Better Way Avocado & Seeds Keto Bread. Choosing whole grains over refined grains helps in getting more nutrients and fiber. Keep it up!",
+            "sodium_score": "0",
+            "sodium_score_label": "Needs Improvement",
+            "sodium_explanation": "There were high-sodium products like Great Value Finely Shredded Parmesan Cheese in your basket. High sodium intake can increase blood pressure and the risk of heart disease. Consider reducing the amount of high-sodium processed foods next week.",
+            "addedsugars_score": "10",
+            "addedsugars_score_label": "Great",
+            "addedsugars_explanation": "You chose items with minimal added sugars such as Rebel Ice Cream. This is beneficial, as high added sugar intake can contribute to weight gain and dental problems. Keep it up!",
+            "saturatedfats_score": "0",
+            "saturatedfats_score_label": "Needs Improvement",
+            "saturatedfats_explanation": "Foods like Great Value Heavy Whipping Cream contributed to a higher consumption of saturated fats. High intake of saturated fats may increase the risk of heart disease. Consider reducing saturated fats."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Rebel Ice Cream contributed to negative added sugars. Next week try replacing it with plain Greek yogurt topped with fresh berries to strengthen the score.",
+            "food_to_substitute1": "Rebel Ice Cream",
+            "recommendation2": "Great Value Finely Shredded Parmesan Cheese contributed to negative sodium. Next week try using low-sodium cheese or a smaller amount to strengthen the score.",
+            "food_to_substitute2": "Great Value Finely Shredded Parmesan Cheese",
+            "recommendation3": "Great Value Heavy Whipping Cream contributed to negative saturated fats. Next week try using plant-based creamer options that provide healthy fats to strengthen the score.",
+            "food_to_substitute3": "Great Value Heavy Whipping Cream"
+        }
+    ]
+}

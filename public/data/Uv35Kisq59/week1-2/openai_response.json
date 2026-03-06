@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Indian Summer Montmorency Cherry Juice",
+            "good_choice_reason1": "contribute to your fruit intake with no added sugars",
+            "good_choice_item2": "Fresh Slicing Tomato",
+            "good_choice_reason2": "contribute to your vegetable intake with naturally low calories and a good source of vitamins and minerals",
+            "good_choice_item3": "Dave's Killer Bread Good Seed",
+            "good_choice_reason3": "is a whole grain bread, which is rich in fiber and nutrients, contributing positively to your whole grains score"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Great work! You made great progress with reducing added sugar. This was due to your purchases of Dave's Killer Bread Good Seed because it has minimal added sugars while providing essential whole grains.",
+                    "feedback_items": "Dave's Killer Bread Good Seed"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased HORMEL BLACK LABEL Original Bacon which didn\u2019t contribute to your goal of reducing sodium because bacon is high in sodium.",
+                    "feedback_items": "HORMEL BLACK LABEL Original Bacon"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your goal to increase vegetable intake. You mainly purchased Fresh Slicing Tomato, which is great, but a diversity of vegetables could support this goal even more.",
+                    "feedback_items": "Fresh Slicing Tomato"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "28.24",
+            "fruits_score": "1.84",
+            "fruits_score_label": "Needs Improvement",
+            "fruits_explanation": "Your score was low as you did not have whole fruits in your basket which contributed to a low score. However, the inclusion of Indian Summer Montmorency Cherry Juice added to your fruit intake.  Including whole fruits instead of primarily juices is beneficial because whole fruits contain more fiber and nutrients.  Fruits are essential for providing vitamins, minerals, and fiber. Try getting more whole fruits next time!",
+            "vegetables_score": "2.79",
+            "vegetables_score_label": "Needs Improvement",
+            "vegetables_explanation": "You had a low vegetable score despite including Fresh Slicing Tomato, which is a good source of dietary fiber. Vegetables are great to include in your diet as they are high in essential vitamins and minerals and low in calories, supporting overall health. Aim to include vegetables from various categories, such as dark greens and other brightly colored vegetables.",
+            "grains_score": "5.82",
+            "grains_score_label": "Moderate",
+            "grains_explanation": "Dave's Killer Bread Good Seed contributed positively to your whole grains score. Whole grains are important as they provide more fiber, vitamins, and minerals compared to refined grains. Whole grains can help maintain a healthy weight, reduce the risk of chronic diseases, and improve digestion. Keep up the good work!",
+            "dairy_score": "0.95",
+            "dairy_score_label": "Needs Improvement",
+            "dairy_explanation": "Your score was low as you purchased Eckrich Smok-Y Cheddar Breakfast Smoked Sausage Links, which has minimal dairy. Dairy products are rich in calcium, vitamin D, and potassium, which are important for bone health.",
+            "protein_score": "5.21",
+            "protein_score_label": "Moderate",
+            "protein_explanation": "Eckrich Smok-Y Maple Breakfast Smoked Sausage Links contributed to your total protein score. Protein is crucial for building and repairing tissues, and seafood and plant proteins are excellent choices as they also provide healthy fatty acids and fiber. Try including a variety of proteins in your diet, including seafood, nuts, and legumes.",
+            "fattyacids_score": "0",
+            "fattyacids_score_label": "Needs Improvement",
+            "fattyacids_explanation": "You had a low score this week due to Eckrich Smok-Y Maple Breakfast Smoked Sausage Links. Fatty acids, especially omega-3s, have been shown to improve heart health by reducing the risk of cardiovascular diseases. Try getting more foods rich in omega-3s like salmon or chia seeds next week."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "0",
+            "refinedgrains_score_label": "Needs Improvement",
+            "refinedgrains_explanation": "You had a high amount of refined grains in your basket this week such as bettergoods Double Cheese Bagels. Refined grains, such as white rice, white flour, and many types of pasta and bread, are lower in fiber and nutrients, and they can cause spikes in blood sugar. Replace them with whole grains like brown rice, quinoa, or whole wheat pasta next week for better nutritional benefits.",
+            "sodium_score": "1.63",
+            "sodium_score_label": "Needs Improvement",
+            "sodium_explanation": "HORMEL BLACK LABEL Original Bacon contributed significantly to your sodium intake this week. High sodium intake can lead to increased blood pressure and risk of cardiovascular disease. Aim to choose foods with lower sodium content and use spices and herbs to flavor foods instead of salt.",
+            "addedsugars_score": "10",
+            "addedsugars_score_label": "Great",
+            "addedsugars_explanation": "You chose items with minimal added sugars such as bettergoods Double Cheese Bagels. This is beneficial, as high added sugar intake can contribute to weight gain and dental problems. Keep it up!",
+            "saturatedfats_score": "0",
+            "saturatedfats_score_label": "Needs Improvement",
+            "saturatedfats_explanation": "Philadelphia Original Cream Cheese Spread contributed to a high level of saturated fats. High saturated fat intake can raise your LDL (bad) cholesterol and increase the risk of heart disease. Focus on including more healthy unsaturated fats like those found in nuts, seeds, and fish."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Eckrich Smok-Y Maple Breakfast Smoked Sausage Links contributed to a negative Fatty Acid score. Next week, try including foods like salmon, mackerel, or walnuts to strengthen your score.",
+            "food_to_substitute1": "Eckrich Smok-Y Maple Breakfast Smoked Sausage Links",
+            "recommendation2": "HORMEL BLACK LABEL Original Bacon contributed to a negative Sodium score. Next week, try low-sodium turkey or chicken breast instead to help reduce sodium intake.",
+            "food_to_substitute2": "HORMEL BLACK LABEL Original Bacon",
+            "recommendation3": "Fresh Slicing Tomato contributed to your vegetable intake but was not enough overall. Next week, try adding a variety of other vegetables such as spinach, carrots, or broccoli for better dietary quality.",
+            "food_to_substitute3": "Fresh Slicing Tomato"
+        }
+    ]
+}

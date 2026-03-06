@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Fresh Pink Lady Apples",
+            "good_choice_reason1": "are whole fruits that help you achieve the maximum score in the fruit category",
+            "good_choice_item2": "Great Value Cauliflower",
+            "good_choice_reason2": "contributes to a healthy vegetable intake with no added fat",
+            "good_choice_item3": "Great Value Thinly Sliced Swiss Cheese",
+            "good_choice_reason3": "supports high dairy intake with essential nutrients like calcium"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Great work! You made great progress in reducing added sugar due to your purchases of Fresh Pink Lady Apples because they are natural sources of sugar, contributing to a high score in the fruit category.",
+                    "feedback_items": "Fresh Pink Lady Apples"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Land O'Frost Premium Sandwich Sliced Fresh Deli Lunch Meat, Oven Roasted Chicken Breast, which didn\u2019t contribute to your goal of reducing sodium because such processed meats often contain high levels of sodium.",
+                    "feedback_items": "Land O'Frost Premium Sandwich Sliced Fresh Deli Lunch Meat, Oven Roasted Chicken Breast"
+                },
+                {
+                    "feedback_text": "Great work! You made great progress in increasing vegetable intake due to your purchases of Great Value Cauliflower because it adds to your total vegetable score, providing necessary vitamins and minerals.",
+                    "feedback_items": "Great Value Cauliflower"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "58.21/100",
+            "fruits_score": "10/10",
+            "fruits_score_label": "Great",
+            "fruits_explanation": "Fresh Pink Lady Apples contributed significantly to your high fruit intake, ensuring you met the maximum score in this category. Fruits are essential for providing vitamins, minerals, and fiber. Keep it up!",
+            "vegetables_score": "8.95/10",
+            "vegetables_score_label": "Great",
+            "vegetables_explanation": "You had a great score due to Great Value Cauliflower and other vegetables. Vegetables are high in essential vitamins and minerals and support overall health. Keep it up!",
+            "grains_score": "1.92/10",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "The inclusion of Parent's Choice Apple Rice Rusks 2nd Stage 6+ Months contributed minimally to whole grain intake. Whole grains are important for heart health and digestion. Try getting more whole grains next time.",
+            "dairy_score": "10/10",
+            "dairy_score_label": "Great",
+            "dairy_explanation": "Great Value Thinly Sliced Swiss Cheese significantly contributed to your high score. Dairy is great for maintaining bone health due to its calcium content. Keep it up!",
+            "protein_score": "10/10",
+            "protein_score_label": "Great",
+            "protein_explanation": "Great Value Premium Sweet & Spicy Chunk Light Tuna added to your excellent protein intake. Proteins are vital for building and repairing tissues. Keep it up!",
+            "fattyacids_score": "0/10",
+            "fattyacids_score_label": "Needs Improvement",
+            "fattyacids_explanation": "You had a low score this week. Fatty acids, especially omega-3s, have been shown to improve heart health by reducing the risk of cardiovascular diseases. Try exploring different varieties of fish next week."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "5.79/10",
+            "refinedgrains_score_label": "Moderate",
+            "refinedgrains_explanation": "Consumed products such as Joseph's White Greek Style Pocketless Pita reflect moderate refined grain intake. Replacing them with whole grains like brown rice, quinoa, or whole grain pasta next week can offer better nutritional benefits.",
+            "sodium_score": "1.55/10",
+            "sodium_score_label": "Needs Improvement",
+            "sodium_explanation": "Land O'Frost Premium Sandwich Sliced Fresh Deli Lunch Meat, Oven Roasted Chicken Breast increased your sodium intake. High sodium intake can increase the risk of hypertension. Opt for low-sodium products next week.",
+            "addedsugars_score": "10/10",
+            "addedsugars_score_label": "Great",
+            "addedsugars_explanation": "Your choice of on Fresh Pink Lady Apples results in minimal added sugars, beneficial since high added sugar intake can lead to weight gain and dental problems. Keep it up!",
+            "saturatedfats_score": "0/10",
+            "saturatedfats_score_label": "Needs Improvement",
+            "saturatedfats_explanation": "Great Value Cream Cheese Brick resulted in saturated fats consumption. High levels of saturated fats can lead to increased cholesterol levels. Consider reducing intake or switching to products with lower saturated fat content."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Joseph's White Greek Style Pocketless Pita contributed to negative refined grains score. Next week try substituting it with whole grain bread or quinoa.",
+            "food_to_substitute1": "Joseph's White Greek Style Pocketless Pita",
+            "recommendation2": "Land O'Frost Premium Sandwich Sliced Fresh Deli Lunch Meat, Oven Roasted Chicken Breast contributed to high sodium. Next week try using fresh chicken breast with herbs and spices.",
+            "food_to_substitute2": "Land O'Frost Premium Sandwich Sliced Fresh Deli Lunch Meat, Oven Roasted Chicken Breast",
+            "recommendation3": "Great Value Cream Cheese Brick contributed to saturated fats score. Next week try substituting it with hummus or avocado spread for healthier fats.",
+            "food_to_substitute3": "Great Value Cream Cheese Brick"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Fresh Strawberries",
+            "good_choice_reason1": "contribute positively to your fruit score",
+            "good_choice_item2": "Freshly Harvested Green Asparagus",
+            "good_choice_reason2": "add to your vegetable intake",
+            "good_choice_item3": "Brownberry 12 Grains and Seeds Bread",
+            "good_choice_reason3": "benefit heart health with whole grains"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Great work! You made great progress with your goal of increasing vegetable intake. This was due to your purchase of Freshly Harvested, Cut and Refrigerated Green Asparagus, which is rich in essential vitamins and considered a nutritious vegetable.",
+                    "feedback_items": "Freshly Harvested Green Asparagus"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goal to reduce added sugar. You purchased Great Value Fat Free Sweetened Condensed Milk, which didn\u2019t contribute to your goal of reducing added sugar because it has high sugar content that could lead to weight gain and dental problems.",
+                    "feedback_items": "Great Value Fat Free Sweetened Condensed Milk"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goal to reduce sodium. You purchased Fresh Ginger Root, which didn't contribute to reducing sodium due to its higher sodium content than fresh ginger usually has.",
+                    "feedback_items": "Fresh Ginger Root"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "54.5 / 100",
+            "fruits_score": "10/10",
+            "fruits_score_label": "Great",
+            "fruits_explanation": "You had a great selection of fruits including Fresh Strawberries, contributing to a perfect score. Fruits are vital for providing essential vitamins, minerals, and fibers that support overall health. Keep up the good fruit selections!",
+            "vegetables_score": "5/10",
+            "vegetables_score_label": "Moderate",
+            "vegetables_explanation": "Your score was moderate due to your purchase of Freshly Harvested, Cut and Refrigerated Green Asparagus but lacked dark green vegetables like spinach or kale. Vegetables are important for vitamins, minerals, and fiber. Try including more green vegetables next time!",
+            "grains_score": "1.03/10",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "The score was low as your basket contained more refined grains like Brownberry 12 Grains and Seeds Bread while lacking whole grains. Whole grains help in reducing chronic diseases with their rich fiber content. Try substituting more whole grains.",
+            "dairy_score": "3/10",
+            "dairy_score_label": "Moderate",
+            "dairy_explanation": "Including Great Value, 2% Reduced Fat Milk contributed to the dairy score but it\u2019s important to have more diverse dairy options like yogurt or cheese which are great calcium sources. Dairy products are vital for strong bones.",
+            "protein_score": "9.5/10",
+            "protein_score_label": "Great",
+            "protein_explanation": "You did well due to options like Prima Della Honey Ham Presliced which is high in protein. Proteins are crucial for body tissue repair and muscle building. Keep it up with varied protein sources!",
+            "fattyacids_score": "0/10",
+            "fattyacids_score_label": "Needs Improvement",
+            "fattyacids_explanation": "You had a low score this week due to low inclusion of omega-3 rich items. Fatty acids, especially omega-3s, improve heart health by reducing cardiovascular disease risks. Try adding more fatty fish like salmon."
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "10/10",
+            "refinedgrains_score_label": "Great",
+            "refinedgrains_explanation": "You utilized refined grains like Great Value Large Burrito Flour Tortillas moderately. Maintaining low refined grain consumption is beneficial for stable blood sugar levels. Keep managing it well!",
+            "sodium_score": "5.96/10",
+            "sodium_score_label": "Moderate",
+            "sodium_explanation": "The sodium level was moderate, potentially due to items like Fresh Ginger Root. Lower sodium helps reduce the risk of hypertension. Try to opt for fresher ingredients to minimize sodium intake.",
+            "addedsugars_score": "10/10",
+            "addedsugars_score_label": "Great",
+            "addedsugars_explanation": "Items with minimal added sugars, like many of your fruit choices, helped you achieve a perfect score. Minimizing added sugars reduces weight gain and dental problem risks. Well done!",
+            "saturatedfats_score": "0/10",
+            "saturatedfats_score_label": "Needs Improvement",
+            "saturatedfats_explanation": "This score was low due in part to choices like A Taste of Thai Coconut Milk, high in saturated fats which can increase heart disease risk. Aim to reduce these next time and focus on unsaturated fats."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Great Value Fat Free Sweetened Condensed Milk contributed to negative Added Sugars. Next week try using unsweetened low-fat yogurt for sweetness and creaminess with less sugar.",
+            "food_to_substitute1": "Great Value Fat Free Sweetened Condensed Milk",
+            "recommendation2": "Fresh Ginger Root contributed to negative Sodium. Next week try using fresh spices and herbs as alternatives to flavor dishes and keep sodium low.",
+            "food_to_substitute2": "Fresh Ginger Root",
+            "recommendation3": "A Taste of Thai Coconut Milk contributed to negative Saturated Fats. Next week try using unsweetened almond milk to provide creaminess with less saturated fat.",
+            "food_to_substitute3": "A Taste of Thai Coconut Milk"
+        }
+    ]
+}

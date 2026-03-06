@@ -1,0 +1,80 @@
+{
+    "section1": [
+        {
+            "good_choice_item1": "Great Value 2% Reduced Fat Milk",
+            "good_choice_reason1": "contribute positively to your dairy intake, providing essential calcium and vitamins like D and B12",
+            "good_choice_item2": "V8 Splash Tropical Blend Flavored Juice Beverage",
+            "good_choice_reason2": "contain minimal added sugars compared to other options",
+            "good_choice_item3": "Soules Kitchen Rotisserie Chicken",
+            "good_choice_reason3": "greatly contribute to your protein score"
+        }
+    ],
+    "section2": [
+        {
+            "user_goals": "reduce added sugar, reduce sodium, and increase vegetable intake",
+            "goal_feedback": [
+                {
+                    "feedback_text": "Great work! You made great progress with reducing added sugars. This was due to your purchase of V8 Splash Tropical Blend Flavored Juice Beverage because it contained minimal added sugars compared to other items.",
+                    "feedback_items": "V8 Splash Tropical Blend Flavored Juice Beverage"
+                },
+                {
+                    "feedback_text": "Some choices this week didn't align with your dietary goals. You purchased Manwich Original Sloppy Joe Sauce, which didn\u2019t contribute to your goal of reducing sodium because it is relatively high in sodium content.",
+                    "feedback_items": "Manwich Original Sloppy Joe Sauce"
+                },
+                {
+                    "feedback_text": "Some choices this week didn\u2019t align with your dietary goals. You purchased Idahoan Baby Reds Mashed Potatoes Family Size which didn\u2019t contribute to your goal of increasing vegetable intake because it offers minimal vegetable servings.",
+                    "feedback_items": "Idahoan Baby Reds Mashed Potatoes Family Size"
+                }
+            ]
+        }
+    ],
+    "section3": [
+        {
+            "total_HEI_score": "25.65",
+            "fruits_score": "0.43",
+            "fruits_score_label": "Needs Improvement",
+            "fruits_explanation": "You did not have whole fruits in your basket, which contributed to a low score. Including Great Value Pre-Sliced Cinnamon Raisin Bagels helped slightly. Fruits are essential for providing vitamins, minerals, and fiber. Try getting more whole fruits next time!",
+            "vegetables_score": "1.03",
+            "vegetables_score_label": "Needs Improvement",
+            "vegetables_explanation": "The score was low primarily due to the limited inclusion of vegetables with items like Idahoan Baby Reds Mashed Potatoes Family Size. Increasing your intake of vegetables is beneficial for supporting overall health due to their vitamin and mineral content. Try adding more leafy greens and fresh vegetables to your diet!",
+            "grains_score": "0",
+            "grains_score_label": "Needs Improvement",
+            "grains_explanation": "There was no contribution to whole grains, resulting in a low score. Whole grains are vital for providing fiber and nutrients, supporting heart and digestive health. Consider swapping refined grains for whole grains like brown rice or whole-grain pasta.",
+            "dairy_score": "8.2",
+            "dairy_score_label": "Great",
+            "dairy_explanation": "Your choice of Great Value 2% Reduced Fat Milk provided a strong source of calcium and vitamin D. Dairy supports bone health and is great for your daily intake!",
+            "protein_score": "5",
+            "protein_score_label": "Great",
+            "protein_explanation": "Foods like Soules Kitchen Rotisserie Chicken greatly contributed to your protein score. Protein is essential for muscle maintenance and overall function. Continue incorporating lean protein options!",
+            "fattyacids_score": "0",
+            "fattyacids_score_label": "Needs Improvement",
+            "fattyacids_explanation": "Low inclusion due to items like Lay's Potato Chips Salt & Vinegar Snack Chips. Fatty acids, especially omega-3s, have been shown to improve heart health. Try getting more fatty acid-rich foods next week, such as nuts or seeds!"
+        }
+    ],
+    "section4": [
+        {
+            "refinedgrains_score": "0",
+            "refinedgrains_score_label": "Needs Improvement",
+            "refinedgrains_explanation": "Major contributors were items like Great Value Original English Muffins. Refined grains can cause spikes in blood sugar and are lower in fiber. Aim to replace them with whole grains next week.",
+            "sodium_score": "4.76",
+            "sodium_score_label": "Moderate",
+            "sodium_explanation": "Manwich Original Sloppy Joe Sauce contributed to a more moderate sodium intake. High sodium can increase blood pressure, so try to select low-sodium options.",
+            "addedsugars_score": "6.23",
+            "addedsugars_score_label": "Great",
+            "addedsugars_explanation": "You chose items with minimal added sugars, such as V8 Splash Tropical Blend Flavored Juice Beverage. This is beneficial as reducing added sugar intake can prevent weight gain and dental problems. Keep it up!",
+            "saturatedfats_score": "0",
+            "saturatedfats_score_label": "Needs Improvement",
+            "saturatedfats_explanation": "Foods like Prego Homestyle Alfredo Pasta Sauce led to low scores. High saturated fat intake can increase the risk of heart disease. Try to choose sauces and spreads lower in saturated fats."
+        }
+    ],
+    "section5": [
+        {
+            "recommendation1": "Idahoan Baby Reds Mashed Potatoes Family Size contributed to negative vegetable intake. Next week try including more fresh vegetables, such as spinach or carrots, in your meals.",
+            "food_to_substitute1": "Idahoan Baby Reds Mashed Potatoes",
+            "recommendation2": "Manwich Original Sloppy Joe Sauce contributed to negative sodium scores. Next week, try portioning this sauce or selecting a low-sodium alternative to maintain the flavor without the high sodium content.",
+            "food_to_substitute2": "Manwich Original Sloppy Joe Sauce",
+            "recommendation3": "Lay's Potato Chips Salt & Vinegar Snack Chips contributed to negative fatty acid scores. Consider replacing them with a snack like almonds or walnuts, which are higher in healthy fats and nutrient-dense.",
+            "food_to_substitute3": "Lay's Potato Chips Salt & Vinegar Snack Chips"
+        }
+    ]
+}
